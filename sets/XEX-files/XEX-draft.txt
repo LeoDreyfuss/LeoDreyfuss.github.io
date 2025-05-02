@@ -1453,7 +1453,7 @@
 		{
 			"name": "Strobe-Knight Champion",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Creature — Human Knight",
 			"collector_number": "39",
 			"image_uris": {
@@ -2453,7 +2453,7 @@
 		{
 			"name": "Fractal Rancher",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Druid",
 			"collector_number": "216",
 			"image_uris": {
@@ -2973,7 +2973,7 @@
 		{
 			"name": "Paradox Beast",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Fractal Beast",
 			"collector_number": "180",
 			"image_uris": {
