@@ -671,13 +671,13 @@
 			}
 		},
 		{
-			"name": "Strobe-Knight Armory",
+			"name": "Strobe-Knight's Armory",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/309_Strobe-Knight Armory.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/309_Strobe-Knight's Armory.png"
 			}
 		},
 		{
@@ -3348,7 +3348,7 @@
 	8 Mitosis Fractal
 	8 Sky Meadows
 	8 Control Room
-	8 Strobe-Knight Armory
+	8 Strobe-Knight's Armory
 	8 Automated Farmland
 	8 Experiment Chambers
 	8 Interdimensional Space
@@ -3533,7 +3533,7 @@
 	6 Mitosis Fractal
 	6 Sky Meadows
 	6 Control Room
-	6 Strobe-Knight Armory
+	6 Strobe-Knight's Armory
 	6 Automated Farmland
 	6 Experiment Chambers
 	6 Interdimensional Space
