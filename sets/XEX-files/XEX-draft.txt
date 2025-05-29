@@ -21,13 +21,13 @@
 			}
 		},
 		{
-			"name": "Grafting Exoskeleton",
+			"name": "Shifting Exoskeleton",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Equipment Shapeshifter",
-			"collector_number": "76",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/76_Grafting Exoskeleton.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/96_Shifting Exoskeleton.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/84_Mirrored Duplicate.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/83_Mirrored Duplicate.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Fractal Construct",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/85_Mirrormade Stalker.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/84_Mirrormade Stalker.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/94_Serendipitous Updraft.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/93_Serendipitous Updraft.png"
 			}
 		},
 		{
@@ -803,11 +803,11 @@
 		{
 			"name": "Quantum Leapfrog",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Frog",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/88_Quantum Leapfrog.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/87_Quantum Leapfrog.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Drake",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/93_Rift-Piercer Drake.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/92_Rift-Piercer Drake.png"
 			}
 		},
 		{
@@ -915,16 +915,16 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/90_Reflection Caster.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/89_Reflection Caster.png"
 			}
 		},
 		{
 			"name": "Soul of Xerex",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}",
-			"type": "Creature — Avatar",
+			"type": "Legendary Creature — Avatar",
 			"collector_number": "271",
 			"image_uris": {
 				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/271_Soul of Xerex.png"
@@ -1075,9 +1075,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Illusion",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/91_Reflective Mirage.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/90_Reflective Mirage.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Equipment Fish",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/81_Manta Shawl.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/80_Manta Shawl.png"
 			}
 		},
 		{
@@ -1345,15 +1345,15 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/96_Shift Between Worlds.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/95_Shift Between Worlds.png"
 			}
 		},
 		{
 			"name": "Decoy Caster",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "69",
 			"image_uris": {
@@ -1383,7 +1383,7 @@
 		{
 			"name": "Flood-Knight",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Knight",
 			"collector_number": "73",
 			"image_uris": {
@@ -1395,9 +1395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Soldier",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/87_Polished Duelist.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/86_Polished Duelist.png"
 			}
 		},
 		{
@@ -1415,9 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/89_Recursive Loop.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/88_Recursive Loop.png"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{X}{U}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/77_In the Mirror.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/76_In the Mirror.png"
 			}
 		},
 		{
@@ -1883,7 +1883,7 @@
 		{
 			"name": "Train for Synonymy",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "49",
 			"image_uris": {
@@ -1993,7 +1993,7 @@
 		{
 			"name": "Lock in Amber",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "27",
 			"image_uris": {
@@ -2024,7 +2024,7 @@
 			"name": "Bifurcating Familiar",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Bird",
+			"type": "Creature — Fractal Bird",
 			"collector_number": "59",
 			"image_uris": {
 				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/59_Bifurcating Familiar.png"
@@ -2045,9 +2045,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/86_Phasing Intruder.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/85_Phasing Intruder.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/92_Rift Walker.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/91_Rift Walker.png"
 			}
 		},
 		{
@@ -2075,9 +2075,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Vedalken Wizard",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/79_Looping Researcher.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/78_Looping Researcher.png"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/82_Minute Rift.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/81_Minute Rift.png"
 			}
 		},
 		{
@@ -2124,7 +2124,7 @@
 			"name": "Temporal Mold",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Fungus",
+			"type": "Artifact Creature — Fungus",
 			"collector_number": "149",
 			"image_uris": {
 				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/149_Temporal Mold.png"
@@ -2143,7 +2143,7 @@
 		{
 			"name": "Infestation Scorpion",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Equipment Scorpion",
 			"collector_number": "128",
 			"image_uris": {
@@ -2203,7 +2203,7 @@
 		{
 			"name": "Tethered Geistblade",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{4}{B}",
 			"type": "Artifact Creature — Equipment Spirit",
 			"collector_number": "151",
 			"image_uris": {
@@ -2473,7 +2473,7 @@
 		{
 			"name": "Spiraling Birth",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{G}",
 			"type": "Enchantment",
 			"collector_number": "247",
 			"image_uris": {
@@ -2531,13 +2531,13 @@
 			}
 		},
 		{
-			"name": "Goemetry Slayer",
+			"name": "Geometry Slayer",
 			"rarity": "common",
-			"mana_cost": "{3}{RW}",
+			"mana_cost": "{2}{RW}",
 			"type": "Artifact Creature — Human Knight",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/282_Goemetry Slayer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/282_Geometry Slayer.png"
 			}
 		},
 		{
@@ -2605,9 +2605,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/80_Lune's Rescue.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/79_Lune's Rescue.png"
 			}
 		},
 		{
@@ -2695,9 +2695,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Artifact Creature — Sphinx",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/95_Sharding Sphinx.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/94_Sharding Sphinx.png"
 			}
 		},
 		{
@@ -2955,9 +2955,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Serpent Illusion",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/83_Mirageweaver Serpent.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/82_Mirageweaver Serpent.png"
 			}
 		},
 		{
@@ -3005,9 +3005,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/78_The Inversion Zone.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/77_The Inversion Zone.png"
 			}
 		},
 		{
@@ -3326,7 +3326,7 @@
 	4 Change of Perspective
 [common(7)]
 	8 Impossible Staircase
-	8 Grafting Exoskeleton
+	8 Shifting Exoskeleton
 	8 Vertex Warden
 	8 Schrodinger's Strike
 	8 Unending Fractal
@@ -3450,7 +3450,7 @@
 	8 Fabricated Juggernaut
 	8 Scrap Manifester
 	8 Search-Knight
-	8 Goemetry Slayer
+	8 Geometry Slayer
 	8 Fractal Barricade
 	8 Altar of Obfuscation
 	8 Shark Tooth Knuckles
@@ -3468,7 +3468,7 @@
 [wildcard(2)]
 	4 Teyo, Escherian Guard
 	6 Impossible Staircase
-	6 Grafting Exoskeleton
+	6 Shifting Exoskeleton
 	6 Vertex Warden
 	6 Schrodinger's Strike
 	7 The Iron Tower
@@ -3719,7 +3719,7 @@
 	6 Fabricated Juggernaut
 	6 Scrap Manifester
 	6 Search-Knight
-	6 Goemetry Slayer
+	6 Geometry Slayer
 	6 Fractal Barricade
 	6 Altar of Obfuscation
 	6 Shark Tooth Knuckles
