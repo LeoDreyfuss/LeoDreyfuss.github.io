@@ -3755,7 +3755,7 @@
 	10 Mirror Spire
 	10 Consortium Haruspex
 	10 Change of Perspective
-	10 Tezzeret, False Worldsoul
+	11 Tezzeret, False Worldsoul
 	[LandSlot(1)]
 	10 Sky Meadows
 		10 Control Room
