@@ -23,7 +23,7 @@
 		{
 			"name": "Shifting Exoskeleton",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Equipment Shapeshifter",
 			"collector_number": "96",
 			"image_uris": {
@@ -165,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Creature — Elemental Incarnation",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/207_Bloom.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/208_Bloom.png"
 			}
 		},
 		{
@@ -233,8 +233,8 @@
 		{
 			"name": "Nature's Dismantling",
 			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Sorcery",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
 			"collector_number": "236",
 			"image_uris": {
 				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/236_Nature's Dismantling.png"
@@ -265,9 +265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/239_Recursive Crafting.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/240_Recursive Crafting.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/238_Pattern Bloom.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/239_Pattern Bloom.png"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Enchantment",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/214_Fields of Tangled Growth.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/215_Fields of Tangled Growth.png"
 			}
 		},
 		{
@@ -1193,7 +1193,7 @@
 		{
 			"name": "Manta Shawl",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Equipment Fish",
 			"collector_number": "80",
 			"image_uris": {
@@ -1505,29 +1505,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "",
-			"collector_number": "220",
-			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/220_G Uncommon2.png"
-			}
-		},
-		{
-			"name": "G Uncommon3",
-			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/221_G Uncommon3.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/221_G Uncommon2.png"
 			}
 		},
 		{
-			"name": "G Uncommon4",
+			"name": "Grove of Unity",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "222",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/222_G Uncommon4.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/225_Grove of Unity.png"
+			}
+		},
+		{
+			"name": "Oddity Hoarder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/237_Oddity Hoarder.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/219_G Uncommon1.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/220_G Uncommon1.png"
 			}
 		},
 		{
@@ -1555,9 +1555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/217_Fractal Refiner.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/218_Fractal Refiner.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Instant",
-			"collector_number": "226",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/226_Green Uncommon Bite Spell.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/224_Green Uncommon Bite Spell.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/210_Duel to the Death.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/211_Duel to the Death.png"
 			}
 		},
 		{
@@ -1805,9 +1805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/215_Fractal Mulcher.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/216_Fractal Mulcher.png"
 			}
 		},
 		{
@@ -1831,13 +1831,13 @@
 			}
 		},
 		{
-			"name": "Refertilize",
+			"name": "Industrialid",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "240",
+			"type": "Creature — Elemental",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/240_Refertilize.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/227_Industrialid.png"
 			}
 		},
 		{
@@ -2241,13 +2241,13 @@
 			}
 		},
 		{
-			"name": "Green Common 1",
+			"name": "Birth From Nothing",
 			"rarity": "common",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "224",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/224_Green Common 1.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/207_Birth From Nothing.png"
 			}
 		},
 		{
@@ -2425,9 +2425,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/237_Paradoxical Brawler.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/238_Paradoxical Brawler.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/216_Fractal Rancher.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/217_Fractal Rancher.png"
 			}
 		},
 		{
@@ -2455,9 +2455,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Giant",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/208_Confusing Colossus.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/209_Confusing Colossus.png"
 			}
 		},
 		{
@@ -2465,9 +2465,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Fractal",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/211_Evergrowing Pattern.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/212_Evergrowing Pattern.png"
 			}
 		},
 		{
@@ -2505,9 +2505,9 @@
 			"rarity": "common",
 			"mana_cost": "{8}{G}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/213_Fabricated Juggernaut.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/214_Fabricated Juggernaut.png"
 			}
 		},
 		{
@@ -2805,9 +2805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "",
-			"collector_number": "225",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/225_Green Rare 1.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/223_Green Rare 1.png"
 			}
 		},
 		{
@@ -2815,9 +2815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Fractal",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/218_Fragmenting Fracturer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/219_Fragmenting Fracturer.png"
 			}
 		},
 		{
@@ -2825,9 +2825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/209_Decaysmith.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/210_Decaysmith.png"
 			}
 		},
 		{
@@ -2835,9 +2835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Fractal",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/212_Exponential Enlightener.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/213_Exponential Enlightener.png"
 			}
 		},
 		{
@@ -2895,9 +2895,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Fractal Giant",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/223_Gravity Matcher.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/222_Gravity Matcher.png"
 			}
 		},
 		{
@@ -2985,9 +2985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Fractal Wurm",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/227_Gyrating Wurm.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/226_Gyrating Wurm.png"
 			}
 		},
 		{
@@ -3296,8 +3296,8 @@
 	4 Blinding-Knight
 	4 Refuse Forager
 	4 G Uncommon2
-	4 G Uncommon3
-	4 G Uncommon4
+	4 Grove of Unity
+	4 Oddity Hoarder
 	4 G Uncommon1
 	4 Infinite Series
 	4 Fractal Refiner
@@ -3381,7 +3381,7 @@
 	8 Eightfold Rejuvenator
 	8 Formless Graft
 	8 Restitution
-	8 Refertilize
+	8 Industrialid
 	8 New Use
 	8 Strobe-Knight Tinkerer
 	8 Slinking Spyglass
@@ -3421,7 +3421,7 @@
 	8 Soulforge Automaton
 	8 Scrapfeeder Imp
 	8 Consortium Inquisitor
-	8 Green Common 1
+	8 Birth From Nothing
 	8 Grafter Apprentice
 	8 Non-Euclidean Ravager
 	8 Strobe-Knight Duelist
@@ -3617,8 +3617,8 @@
 	15 Blinding-Knight
 	15 Refuse Forager
 	15 G Uncommon2
-	15 G Uncommon3
-	15 G Uncommon4
+	15 Grove of Unity
+	15 Oddity Hoarder
 	15 G Uncommon1
 	15 Infinite Series
 	15 Fractal Refiner
@@ -3649,7 +3649,7 @@
 	15 Fractal Mulcher
 	15 Cobalt Hawk
 	4 Keeper of Protocol
-	6 Refertilize
+	6 Industrialid
 	6 New Use
 	4 Thief of Time
 	6 Strobe-Knight Tinkerer
@@ -3690,7 +3690,7 @@
 	6 Soulforge Automaton
 	6 Scrapfeeder Imp
 	6 Consortium Inquisitor
-	6 Green Common 1
+	6 Birth From Nothing
 	6 Grafter Apprentice
 	6 Non-Euclidean Ravager
 	6 Strobe-Knight Duelist
