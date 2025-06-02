@@ -3734,7 +3734,7 @@
 	10 Exponential Enlightener
 	10 Symmetrical Clobbering
 	10 Stop-Knight
-	10 Time Sower
+	11 Time Sower
 	10 Conflagratory Collapse
 	10 Frenzied Ripper
 	10 Gravity Matcher
