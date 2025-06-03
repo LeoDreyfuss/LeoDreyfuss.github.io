@@ -3369,7 +3369,7 @@
 		30 Autonomy Spearhead
 		30 Tattered Simulacrum
 		30 Facsimile Executioner
-		31 Duel to the Death
+		30 Duel to the Death
 		30 Eightfold Rejuvenator
 		30 Formless Graft
 		30 Restitution
