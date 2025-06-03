@@ -3213,26 +3213,26 @@
 		2 Tesselion
 		2 Warpshard Phoenix
 		2 Xalax, Infinite Procurer
-		1 Teyo, Escherian Guard
-		1 Daretti, Warpmetal Forger
-		1 Temporal Fracturing
-		1 The Worldsoul Anchor
-		1 Tezzeret's Darksteel Heart
-		1 Splinter Hivemind
-		1 Ancient Ouroboros
-		1 Soul of Xerex
-		1 Halls of Mirrored Death
-		1 Ascent of Shattered Fury
-		1 Fields of Tangled Growth
-		1 Parallax Seraph
-		1 Path of Radiant Symmetry
-		1 Depths of Twisted Thought
-		1 Elxle, Rust Feaster
-		1 Keeper of Protocol
-		1 Thief of Time
-		1 Mirageweaver Serpent
-		1 Mirror Spire
-		1 Tezzeret, False Worldsoul
+		2 Teyo, Escherian Guard
+		2 Daretti, Warpmetal Forger
+		2 Temporal Fracturing
+		2 The Worldsoul Anchor
+		2 Tezzeret's Darksteel Heart
+		2 Splinter Hivemind
+		2 Ancient Ouroboros
+		2 Soul of Xerex
+		2 Halls of Mirrored Death
+		2 Ascent of Shattered Fury
+		2 Fields of Tangled Growth
+		2 Parallax Seraph
+		2 Path of Radiant Symmetry
+		2 Depths of Twisted Thought
+		2 Elxle, Rust Feaster
+		2 Keeper of Protocol
+		2 Thief of Time
+		2 Mirageweaver Serpent
+		2 Mirror Spire
+		2 Tezzeret, False Worldsoul
 		[UncommonSlot(4)]
 	9 Feed on Weakness
 		9 Endless Obligator
