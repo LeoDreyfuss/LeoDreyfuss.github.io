@@ -1411,13 +1411,13 @@
 			}
 		},
 		{
-			"name": "extra Uncommon1",
+			"name": "Extra Uncommon1",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/1_extra Uncommon1.png"
+				"en": "https://LeoDreyfuss.github.io/sets/ATR-files/img/1_Extra Uncommon1.png"
 			}
 		},
 		{
@@ -3287,7 +3287,7 @@
 	4 Polished Duelist
 	4 Temporal Angler
 	4 Recursive Loop
-	4 extra Uncommon1
+	4 Extra Uncommon1
 	4 Landscape Matrix
 	4 Strobe-Knight Champion
 	4 Porcelain Vanguard
@@ -3607,7 +3607,7 @@
 	15 Polished Duelist
 	15 Temporal Angler
 	15 Recursive Loop
-	15 extra Uncommon1
+	15 Extra Uncommon1
 	15 Landscape Matrix
 	15 Strobe-Knight Champion
 	15 Porcelain Vanguard
