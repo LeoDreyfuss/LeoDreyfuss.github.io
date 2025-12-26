@@ -423,7 +423,7 @@
 		{
 			"name": "Symmatriarch",
 			"rarity": "common",
-			"mana_cost": "{2}{GU}",
+			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Fractal",
 			"collector_number": "287",
 			"image_uris": {
