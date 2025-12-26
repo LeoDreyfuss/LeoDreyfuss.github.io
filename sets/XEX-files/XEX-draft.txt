@@ -3795,4 +3795,4 @@
 		30 Forest
 		30 Island
 		30 Swamp
-		30 Mountain
+		29 Mountain
