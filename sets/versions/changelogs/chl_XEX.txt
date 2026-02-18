@@ -1,4 +1,170 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Silent Knight added.
+Violent Outburst added.
+Gloombloom added.
+Fractal Form added.
+Mindmelder added.
+Junkgorger added.
+
+Feed on Weakness removed.
+Surrender to Ferocity removed.
+Bloom removed.
+Paradoxical Rebirth removed.
+Green Uncommon Bite Spell removed.
+Reckless Junkhunter removed.
+
+Endless Obligator
+rules_text: Recast {4}{B} [i]({4}{B}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+Flash
+When this creature enters, target creature gains indestructible until end of turn. => Recast {4}{B} [i]({4}{B}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+Flash
+When this creature enters, another target creature gains indestructible until end of turn.
+
+Lingering Refraction
+rules_text: Recast {5}{WB} [i]({5}{WB}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+When this enchantment enters, destroy target creature with power 4 or greater. If it was cast from exile, instead destroy target nonland permanent, then exile this enchantment. => Recast {5}{WB} [i]({5}{WB}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+When this enchantment enters, destroy target creature with power 3 or less. If it was cast from exile, instead destroy target nonland permanent, then sacrifice this enchantment.
+
+Timeloop Specialist
+rules_text: Recast {4}{UR} [i]({4}{UR}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+When this creature enters, exile up to one instant, sorcery or artifact card from a graveyard, you may cast it this turn. When you do, exile it as it resolves. => Recast {4}{UR} [i]({4}{UR}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+When this creature enters, exile up to one instant or sorcery card from a graveyard, you may cast it this turn, when you do, exile it as it resolves.
+
+Warped Intent
+cost: {2}{B}{B} => {2}{B}
+
+Symmatriarch
+rules_text: Vigilance
+This creature gets +1/+1 for each other creature you control that's a token or a fractal. => Vigilance
+This creature gets +1/+1 for each token you control.
+
+The Worldsoul Anchor
+rules_text: Whenever a permanent you don't control becomes tapped, its controller loses 1 life, if this artifact is equipped to a creature you control, that player loses 2 life instead.
+Equip {5} => Whenever a permanent you don't control becomes tapped, its controller loses 1 life, if this artifact is equipped to a creature you control, that player loses 2 life instead.
+Equip {7}
+
+Cryptic Figure
+rules_text: Whenever this creature deals combat damage to a player, it gains hexproof until your next turn. If it was equipped, it and another target creature gain hexproof until your next turn instead. => Whenever this creature deals combat damage to a player, it gains hexproof until your next turn. If it was equipped, another target creature gains hexproof until your next turn.
+
+Regenerating Scrap
+cost: {2} => {3}
+rules_text: Recast {4} [i]({4}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+When this artifact leaves the battlefield, look at the top two cards of your library, put one of them into your hand, and the other on the bottom of your library. => Recast {4} [i]({4}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+When this artifact enters, look at the top two cards of your library, put one of them into your hand, and the other on the bottom of your library.
+
+Loophole
+rules_text: Recast {2}{R} [i]({2}{R}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+Whenever you cast this spell or another spell from exile, you may discard a card, if you do, draw a card. => Recast {3}{R} [i]({3}{R}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+Whenever this enchantment enters or you cast a spell from exile, you may discard a card, if you do, draw a card.
+
+Temporal Hellion
+cost: {3}{R} => {4}{R}
+rules_text: Recast {4}{R} [i]({4}{R}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+Trample
+Whenever you cast this spell from exile, it deals 2 damage to any target. => Recast {3}{R}{R} [i]({3}{R}{R}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+Trample
+Whenever you cast this spell or another spell from exile, this creature deals 2 damage to target creature or planeswalker.
+pt: 5/3 => 4/3
+
+Extremity Adapter
+rules_text: Equip and Reconfigure abilities you activate cost {1} less to activate.
+Whenever an equipped creature you control deals combat damage to a player, draw a card and lose a life. => Equip and Reconfigure abilities you activate cost {1} less to activate.
+Whenever an artifact creature or equipped creature you control deals combat damage to a player, you draw a card and you lose 1 life.
+pt: 0/3 => 1/3
+
+Dolphin Convoy
+rules_text: Equipped creature has “Whenever this creature deals combat damage to a player, exile target noncreature, nonland card from your graveyard, you may cast it this turn.”
+Reconfigure {3}{U} [i]({3}{U}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => Equipped creature has “Whenever this creature deals combat damage to a player, exile target noncreature, nonland card from your graveyard, you may cast it this turn.”
+Reconfigure {1}{U} [i]({1}{U}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+pt: 1/1 => 1/2
+
+Temporal Angler
+rules_text: Whenever a creature you control enters, if it wasn't cast from your hand, tap target creature an opponent controls and put a stun counter on it. => Whenever you abstract, tap target creature an opponent controls and put a stun counter on it. [i](You abtract whenever you create a paradox, or cast a spell from exile.)[/i]
+
+Anchor Appraisal
+rules_text: Create a paradox
+— Return target creature to its owner's hand.
+— Return target instant card from your graveyard to your hand. => Create a paradox
+— Return target nonland permanent to its owner's hand.
+— Return target instant card from your graveyard to your hand.
+
+Militia of the Many
+pt: 6/5 => 5/5
+
+Refuse Forager
+pt: 3/1 => 2/2
+
+Simplify
+cost: {U} => {1}{G}{G}
+rules_text: Distortion {U}{U} [i](You may cast this spell for it's distortion cost, if you do, swap the positions of the words in brackets.)[/i]
+Counter target spell with mana value [one] or less. Create a 1/1 green and blue Fractal creature token with mana value [three]. => Create a paradox [i](Choose one, the unchosen effect happens at the beginning of your next upkeep.)[/i]
+— Target creature you control deals damage equal to its power to target creature you don't control.
+— Until end of turn, target creature you control gains “Whenever this creature deals combat damage to a player, you may draw two cards.”
+
+Deathbed Protector
+pt: 0/1 => 1/2
+
+Formless Graft
+rules_text: This creature and equipped creature can't be blocked by creatures with greater power.
+Reconfigure {1}{B} [i]({1}{B}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => This creature and equipped creature can't be blocked by creatures with greater power.
+Reconfigure {1} [i]({1}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+
+Extradimensional Entity
+cost: {U}{B} => {1}{U}{B}
+special_text: 2UB — => 3UB —
+
+Cobalt Hawk
+rules_text: Flying
+Equipped creature has flying.
+Whenever this creature or equipped creature deals combat damage to a player, scry X, where X is the damage dealt.
+Reconfigure {2}{U}{U} => Flying
+Equipped creature has flying.
+Whenever this creature or equipped creature deals combat damage to a player, scry X, where X is the damage dealt.
+Reconfigure {3}{U}
+
+Lock in Amber
+rules_text: Enchant creature
+Enchanted creature can't attack or block.
+[i]Symmetry 3[/i] — As long as you control three or more nonland permanents that share a mana value, enchanted creature loses all abilities. => Enchant creature
+Enchanted creature can't attack or block.
+[i]Symmetry 2[/i] — As long as you control two or more nonland permanents that share a mana value, enchanted creature loses all abilities.
+
+Minute Rift
+rules_text: Return target artifact or creature with mana value 2 or less to its owners hand. If that permanent was a token, scry 1. => Return target artifact or creature with mana value 4 or less to its owners hand. If that permanent was a token, surveil 1.
+
+Canciform Plating
+rules_text: Whenever this creature or equipped creature deals combat damage to a player, target player mills that many cards.
+Reconfigure {1} => Whenever this creature or equipped creature deals combat damage to a player, target player mills that many cards, then you may return a noncreature permanent card from your graveyard to your hand.
+Reconfigure {1}
+
+Faithless Echoes
+type: Sorcery => Instant
+
+Kindler of Machines
+special_text: Artifact creatures you control with mana value four or less have vigilance and lifelink.
+OArtifact creatures you control with mana value greater than four get +2/+2. 1R/WWG/W — 3/2 => 1R/WWG/W —
+
+Gravelooper
+cost: {3}{B}{B} => {4}{B}{B}
+
+Exponential Enlightener
+rules_text: Recast {3}{GU} [i]({3}{GU}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+When this creature enters, draw card, if it was cast from exile, instead draw cards equal to the greatest number of nonland permanents you control that share a mana value, then sacrifice this creature. => Recast {3}{GU} [i]({3}{GU}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )[/i]
+When this creature enters, draw a card. If it was cast from exile, instead draw cards equal to the number of creatures you control that are Fractals or tokens, then sacrifice it.
+pt: 2/1 => 1/2
+
+Mirageweaver Serpent
+rules_text: Recast {2}{U}{U}{U}
+Whenever you cast this spell from exile, copy it, the copy doesn't have any abilities.
+Whenever this creature attacks, for each other creature you control with the same name as it, draw a card. => Recast {3}{U}{U}
+Whenever you cast this spell from exile, copy it, the copy doesn't have any abilities.
+Whenever this creature attacks, for each other creature you control with the same name as it, draw a card.
+pt: 6/4 => 6/6
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Mirageweaver Serpent",
-        "number": 77,
+        "number": 78,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Halls of Mirrored Death",
-        "number": 123,
+        "number": 122,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Fields of Tangled Growth",
-        "number": 216,
+        "number": 215,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Thief of Time",
-        "number": 196,
+        "number": 195,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Decaysmith",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -177,7 +177,7 @@
     },
     {
         "card_name": "Gravelooper",
-        "number": 122,
+        "number": 121,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Exponential Enlightener",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -209,7 +209,7 @@
     },
     {
         "card_name": "In the Mirror",
-        "number": 71,
+        "number": 72,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "It of the Twisted Mind",
-        "number": 127,
+        "number": 126,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "Gyrating Baloth",
-        "number": 225,
+        "number": 224,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -249,15 +249,15 @@
     },
     {
         "card_name": "The Inversion Zone",
-        "number": 72,
+        "number": 73,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Paradoxical Rebirth",
-        "number": 133,
+        "card_name": "Mindmelder",
+        "number": 129,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Inverted Wurm",
-        "number": 228,
+        "number": 227,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -289,7 +289,7 @@
     },
     {
         "card_name": "Mirrored Duplicate",
-        "number": 78,
+        "number": 79,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -297,7 +297,7 @@
     },
     {
         "card_name": "Scouring Reflection",
-        "number": 138,
+        "number": 137,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Lune, Witty Guide",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Mandelbrot Hydra",
-        "number": 230,
+        "number": 229,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -329,7 +329,7 @@
     },
     {
         "card_name": "Pattern Splicer",
-        "number": 80,
+        "number": 81,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -337,7 +337,7 @@
     },
     {
         "card_name": "Scrap Shaman",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "Reality Painter",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -353,7 +353,7 @@
     },
     {
         "card_name": "Metaphysical Harmonizer",
-        "number": 232,
+        "number": 231,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -369,7 +369,7 @@
     },
     {
         "card_name": "Sharding Sphinx",
-        "number": 88,
+        "number": 89,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -377,7 +377,7 @@
     },
     {
         "card_name": "Scrap Siphoner",
-        "number": 140,
+        "number": 139,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "Recursive Crafting",
-        "number": 239,
+        "number": 238,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -472,8 +472,8 @@
         "position": ""
     },
     {
-        "card_name": "Bloom",
-        "number": 208,
+        "card_name": "Constructive Interference",
+        "number": 209,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -512,8 +512,8 @@
         "position": ""
     },
     {
-        "card_name": "Constructive Interference",
-        "number": 210,
+        "card_name": "Fractal Mulcher",
+        "number": 216,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -552,8 +552,8 @@
         "position": ""
     },
     {
-        "card_name": "Fractal Mulcher",
-        "number": 217,
+        "card_name": "Fractal Refiner",
+        "number": 218,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -592,8 +592,8 @@
         "position": ""
     },
     {
-        "card_name": "Fractal Refiner",
-        "number": 219,
+        "card_name": "Gloombloom",
+        "number": 220,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -632,7 +632,7 @@
         "position": ""
     },
     {
-        "card_name": "Green Uncommon Bite Spell",
+        "card_name": "Grove of Unity",
         "number": 223,
         "shape": "normal",
         "set": "XEX",
@@ -665,15 +665,15 @@
     },
     {
         "card_name": "Loophole",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Grove of Unity",
-        "number": 224,
+        "card_name": "Infinite Series",
+        "number": 226,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -696,8 +696,8 @@
         "position": ""
     },
     {
-        "card_name": "Feed on Weakness",
-        "number": 119,
+        "card_name": "Fractured Scythe",
+        "number": 120,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -705,15 +705,15 @@
     },
     {
         "card_name": "Mirror-Bound Tormentor",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Infinite Series",
-        "number": 227,
+        "card_name": "Mandelbeast",
+        "number": 228,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -736,8 +736,8 @@
         "position": ""
     },
     {
-        "card_name": "Fractured Scythe",
-        "number": 121,
+        "card_name": "Herculean Plate",
+        "number": 123,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -745,15 +745,15 @@
     },
     {
         "card_name": "Paradox Beast",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mandelbeast",
-        "number": 229,
+        "card_name": "Oddity Hoarder",
+        "number": 234,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -776,8 +776,8 @@
         "position": ""
     },
     {
-        "card_name": "Herculean Plate",
-        "number": 124,
+        "card_name": "Junkgorging Automaton",
+        "number": 128,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -785,14 +785,14 @@
     },
     {
         "card_name": "Pneumatic Axe",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Oddity Hoarder",
+        "card_name": "Parabolic Edge",
         "number": 235,
         "shape": "normal",
         "set": "XEX",
@@ -808,48 +808,8 @@
         "position": ""
     },
     {
-        "card_name": "Polished Duelist",
-        "number": 82,
-        "shape": "normal",
-        "set": "XEX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Junkgorging Automaton",
-        "number": 129,
-        "shape": "normal",
-        "set": "XEX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Recoil Runner",
-        "number": 182,
-        "shape": "normal",
-        "set": "XEX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Parabolic Edge",
-        "number": 236,
-        "shape": "normal",
-        "set": "XEX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Strobe-Knight Champion",
-        "number": 37,
-        "shape": "normal",
-        "set": "XEX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Reflection Caster",
-        "number": 84,
+        "card_name": "Fractal Form",
+        "number": 70,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -864,8 +824,8 @@
         "position": ""
     },
     {
-        "card_name": "Surrender to Ferocity",
-        "number": 192,
+        "card_name": "Recoil Runner",
+        "number": 182,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -873,6 +833,46 @@
     },
     {
         "card_name": "Refuse Forager",
+        "number": 240,
+        "shape": "normal",
+        "set": "XEX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Strobe-Knight Champion",
+        "number": 37,
+        "shape": "normal",
+        "set": "XEX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Polished Duelist",
+        "number": 83,
+        "shape": "normal",
+        "set": "XEX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pattern Recognition",
+        "number": 133,
+        "shape": "normal",
+        "set": "XEX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Temporal Hellion",
+        "number": 193,
+        "shape": "normal",
+        "set": "XEX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scrap-Sewn Cobra",
         "number": 241,
         "shape": "normal",
         "set": "XEX",
@@ -888,15 +888,15 @@
         "position": ""
     },
     {
-        "card_name": "Shift Between Worlds",
-        "number": 89,
+        "card_name": "Reflection Caster",
+        "number": 85,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Pattern Recognition",
+        "card_name": "Refuse to Riches",
         "number": 134,
         "shape": "normal",
         "set": "XEX",
@@ -904,7 +904,7 @@
         "position": ""
     },
     {
-        "card_name": "Temporal Hellion",
+        "card_name": "Temporal Scavenger",
         "number": 194,
         "shape": "normal",
         "set": "XEX",
@@ -912,8 +912,8 @@
         "position": ""
     },
     {
-        "card_name": "Scrap-Sewn Cobra",
-        "number": 242,
+        "card_name": "Similarity Seed",
+        "number": 244,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -928,7 +928,7 @@
         "position": ""
     },
     {
-        "card_name": "Simplify",
+        "card_name": "Shift Between Worlds",
         "number": 90,
         "shape": "normal",
         "set": "XEX",
@@ -936,7 +936,7 @@
         "position": ""
     },
     {
-        "card_name": "Refuse to Riches",
+        "card_name": "Ruin Archivist",
         "number": 135,
         "shape": "normal",
         "set": "XEX",
@@ -944,15 +944,15 @@
         "position": ""
     },
     {
-        "card_name": "Temporal Scavenger",
-        "number": 195,
+        "card_name": "Time Sower",
+        "number": 197,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Similarity Seed",
+        "card_name": "Simplify",
         "number": 245,
         "shape": "normal",
         "set": "XEX",
@@ -976,15 +976,15 @@
         "position": ""
     },
     {
-        "card_name": "Ruin Archivist",
-        "number": 136,
+        "card_name": "Scrapheap Scavengers",
+        "number": 142,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Time Sower",
+        "card_name": "Torch-Knight",
         "number": 198,
         "shape": "normal",
         "set": "XEX",
@@ -1016,16 +1016,16 @@
         "position": ""
     },
     {
-        "card_name": "Scrapheap Scavengers",
-        "number": 143,
+        "card_name": "Silent Knight",
+        "number": 144,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Torch-Knight",
-        "number": 199,
+        "card_name": "Violent Outburst",
+        "number": 201,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1193,7 +1193,7 @@
     },
     {
         "card_name": "Confuddled Colossus",
-        "number": 209,
+        "number": 208,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1233,7 +1233,7 @@
     },
     {
         "card_name": "Duel to the Death",
-        "number": 212,
+        "number": 211,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1273,7 +1273,7 @@
     },
     {
         "card_name": "Evergrowing Pattern",
-        "number": 213,
+        "number": 212,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1304,8 +1304,8 @@
         "position": ""
     },
     {
-        "card_name": "Mechanical Fencer",
-        "number": 172,
+        "card_name": "Junkgorger",
+        "number": 170,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1313,7 +1313,7 @@
     },
     {
         "card_name": "Fabricated Juggernaut",
-        "number": 215,
+        "number": 214,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1344,7 +1344,7 @@
         "position": ""
     },
     {
-        "card_name": "Metaphysical Bolt",
+        "card_name": "Mechanical Fencer",
         "number": 173,
         "shape": "normal",
         "set": "XEX",
@@ -1353,7 +1353,7 @@
     },
     {
         "card_name": "Fractal Rancher",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1369,7 +1369,7 @@
     },
     {
         "card_name": "Harmonious Revelation",
-        "number": 70,
+        "number": 71,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1384,8 +1384,8 @@
         "position": ""
     },
     {
-        "card_name": "Non-Euclidean Ravager",
-        "number": 175,
+        "card_name": "Metaphysical Bolt",
+        "number": 174,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1393,7 +1393,7 @@
     },
     {
         "card_name": "Frog Bracers",
-        "number": 220,
+        "number": 219,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1409,7 +1409,7 @@
     },
     {
         "card_name": "Looping Researcher",
-        "number": 73,
+        "number": 74,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1424,7 +1424,7 @@
         "position": ""
     },
     {
-        "card_name": "Overloading Striker",
+        "card_name": "Non-Euclidean Ravager",
         "number": 176,
         "shape": "normal",
         "set": "XEX",
@@ -1449,7 +1449,7 @@
     },
     {
         "card_name": "Lune's Rescue",
-        "number": 74,
+        "number": 75,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1457,15 +1457,15 @@
     },
     {
         "card_name": "Formless Graft",
-        "number": 120,
+        "number": 119,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Pierce Through",
-        "number": 178,
+        "card_name": "Overloading Striker",
+        "number": 177,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1489,7 +1489,7 @@
     },
     {
         "card_name": "Manta Shawl",
-        "number": 75,
+        "number": 76,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1497,15 +1497,15 @@
     },
     {
         "card_name": "Hypothetical Nightmare",
-        "number": 125,
+        "number": 124,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Reckless Junkhunter",
-        "number": 181,
+        "card_name": "Pierce Through",
+        "number": 179,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1513,7 +1513,7 @@
     },
     {
         "card_name": "Industrialid",
-        "number": 226,
+        "number": 225,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1529,7 +1529,7 @@
     },
     {
         "card_name": "Minute Rift",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1537,7 +1537,7 @@
     },
     {
         "card_name": "Infestation Scorpion",
-        "number": 126,
+        "number": 125,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1553,7 +1553,7 @@
     },
     {
         "card_name": "Mass Expansion",
-        "number": 231,
+        "number": 230,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1569,7 +1569,7 @@
     },
     {
         "card_name": "Mirrormade Stalker",
-        "number": 79,
+        "number": 80,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1577,7 +1577,7 @@
     },
     {
         "card_name": "Junk Denial",
-        "number": 128,
+        "number": 127,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1593,7 +1593,7 @@
     },
     {
         "card_name": "Mitosis Fractal",
-        "number": 233,
+        "number": 232,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1609,7 +1609,7 @@
     },
     {
         "card_name": "Phasing Intruder",
-        "number": 81,
+        "number": 82,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1633,7 +1633,7 @@
     },
     {
         "card_name": "Nature's Dismantling",
-        "number": 234,
+        "number": 233,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1649,7 +1649,7 @@
     },
     {
         "card_name": "Quantum Leapfrog",
-        "number": 83,
+        "number": 84,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1673,7 +1673,7 @@
     },
     {
         "card_name": "Paradoxical Brawler",
-        "number": 237,
+        "number": 236,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1689,7 +1689,7 @@
     },
     {
         "card_name": "Reflective Mirage",
-        "number": 85,
+        "number": 86,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1697,7 +1697,7 @@
     },
     {
         "card_name": "Rustborn Revenant",
-        "number": 137,
+        "number": 136,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1713,7 +1713,7 @@
     },
     {
         "card_name": "Pattern Bloom",
-        "number": 238,
+        "number": 237,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1729,7 +1729,7 @@
     },
     {
         "card_name": "Rift Walker",
-        "number": 86,
+        "number": 87,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1737,7 +1737,7 @@
     },
     {
         "card_name": "Scrap Surgeon",
-        "number": 141,
+        "number": 140,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1753,7 +1753,7 @@
     },
     {
         "card_name": "Reflective Fractal",
-        "number": 240,
+        "number": 239,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1769,7 +1769,7 @@
     },
     {
         "card_name": "Serendipitous Updraft",
-        "number": 87,
+        "number": 88,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1777,7 +1777,7 @@
     },
     {
         "card_name": "Scrapfeeder Imp",
-        "number": 142,
+        "number": 141,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1793,7 +1793,7 @@
     },
     {
         "card_name": "Scrapheap Reclaimer",
-        "number": 243,
+        "number": 242,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1817,7 +1817,7 @@
     },
     {
         "card_name": "Scrapyard Vermin",
-        "number": 144,
+        "number": 143,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1833,7 +1833,7 @@
     },
     {
         "card_name": "Sifting Fractal",
-        "number": 244,
+        "number": 243,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1865,7 +1865,7 @@
     },
     {
         "card_name": "Tattered Simulacrum",
-        "number": 193,
+        "number": 192,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1905,7 +1905,7 @@
     },
     {
         "card_name": "Time Runner",
-        "number": 197,
+        "number": 196,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1945,7 +1945,7 @@
     },
     {
         "card_name": "Unending Fractal",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
@@ -1985,7 +1985,7 @@
     },
     {
         "card_name": "Unstable Axis",
-        "number": 201,
+        "number": 200,
         "shape": "normal",
         "set": "XEX",
         "rotated": false,
