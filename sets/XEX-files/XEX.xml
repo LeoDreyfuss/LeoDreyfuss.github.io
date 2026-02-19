@@ -5,7 +5,7 @@
 			<name>XEX</name>
 			<longname>Xerex (Name pending)</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-18</releasedate>
+			<releasedate>2026-02-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -448,7 +448,7 @@ When this creature enters, exile up to one instant or sorcery card from a gravey
 		</card>
 		<card>
 			<name>Recursive Crafting</name>
-			<text>Whenever you sacrifice a token, you may pay {3}, if you do, create a paradox (Choose one, the unchosen effect happens at the beginning of your next upkeep.)
+			<text>Whenever you sacrifice a token, you may pay {2}, if you do, create a paradox (Choose one, the unchosen effect happens at the beginning of your next upkeep.)
 — Create a tapped Junk token.
 — Put a land card from your hand onto the battlefield tapped.</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/238_Recursive Crafting.png" num="238">XEX</set>
@@ -905,7 +905,7 @@ Haste
 		<card>
 			<name>Unnatural Order</name>
 			<text>Untap target creature, it gains indestructible until end of turn.
-Symmetry 3 — If you control three or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control.</text>
+Symmetry 2 — If you control three or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control.</text>
 			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/48_Unnatural Order.png" num="48">XEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -966,15 +966,15 @@ Deathtouch, menace</text>
 				<side>front</side>
 				<type>Legendary Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>7</manacost>
-				<cmc>7</cmc>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Symmetry Nest</name>
 			<text>Fractals you control get +1/+1
-At the beginning of your end step, if you&apos;ve created a token this turn, create a token that&apos;s a copy of this enchantment.</text>
+At the beginning of your end step, if you&apos;ve created a token this turn, create a token that&apos;s a copy of this enchantment except it doesn&apos;t have this ability.</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/96_Symmetry Nest.png" num="96">XEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1522,11 +1522,11 @@ Whenever you abstract, this creature gets +2/+0 until end of turn. (You abtract 
 				<side>front</side>
 				<type>Creature — Illusion</type>
 				<maintype>Creature</maintype>
-				<manacost>4U</manacost>
-				<cmc>5</cmc>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/4</pt>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1917,15 +1917,15 @@ Enchanted land is an artifact in addition to its other types and has &quot;{T}: 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creatre — Zombie Construct</type>
-				<maintype>Creatre</maintype>
+				<type>Artifact Creature — Zombie Construct</type>
+				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>3/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>It of the Twisted Mind</name>
@@ -4811,15 +4811,15 @@ Whenever you cast a spell with the chosen name, choose a new card name.</text>
 		</card>
 		<card>
 			<name>Gravelooper</name>
-			<text>At the beginning of your upkeep, exile target creature card from your graveyard. When you do, create a 1/1 green and blue Fractal creature token with mana value 2. When that creature dies, return the exiled card to its owner&apos;s hand.</text>
+			<text>At the beginning of your upkeep, if you don&apos;t control a skeleton, exile target creature card from your graveyard. When you do, create a 1/1 black Skeleton creature token. When that creature dies, return the exiled card to its owner&apos;s hand.</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/121_Gravelooper.png" num="121">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>4BB</manacost>
-				<cmc>6</cmc>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -4877,7 +4877,7 @@ When this enchantment enters, creatures you control gain your choice of menace o
 		</card>
 		<card>
 			<name>Pattern Splicer</name>
-			<text>Symmetry 4 — As long as you control five or more nonland permanents that share a mana value, those permanents each have hexproof and flying.</text>
+			<text>Symmetry 4 — As long as you control five or more nonland permanents that share a mana value, those permanents other than this creature each have hexproof and flying.</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/81_Pattern Splicer.png" num="81">XEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -5108,7 +5108,7 @@ Whenever this creature attacks, you may sacrifice an artifact or creature, when 
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

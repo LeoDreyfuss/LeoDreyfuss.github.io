@@ -543,7 +543,7 @@
 		{
 			"name": "Tezzeret's Darksteel Heart",
 			"rarity": "mythic",
-			"mana_cost": "{7}",
+			"mana_cost": "{6}",
 			"type": "Legendary Artifact",
 			"collector_number": "299",
 			"image_uris": {
@@ -873,7 +873,7 @@
 		{
 			"name": "Star-Spawn",
 			"rarity": "common",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Illusion",
 			"collector_number": "92",
 			"image_uris": {
@@ -1104,7 +1104,7 @@
 			"name": "Rustborn Revenant",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Artifact Creatre — Zombie Construct",
+			"type": "Artifact Creature — Zombie Construct",
 			"collector_number": "136",
 			"image_uris": {
 				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/136_Rustborn Revenant.png"
@@ -2763,7 +2763,7 @@
 		{
 			"name": "Gravelooper",
 			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
 			"collector_number": "121",
 			"image_uris": {

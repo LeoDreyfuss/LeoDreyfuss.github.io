@@ -1,4 +1,67 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Recursive Crafting
+rules_text: Whenever you sacrifice a token, you may pay {3}, if you do, create a paradox [i](Choose one, the unchosen effect happens at the beginning of your next upkeep.)[/i]
+— Create a tapped Junk token.
+— Put a land card from your hand onto the battlefield tapped. => Whenever you sacrifice a token, you may pay {2}, if you do, create a paradox [i](Choose one, the unchosen effect happens at the beginning of your next upkeep.)[/i]
+— Create a tapped Junk token.
+— Put a land card from your hand onto the battlefield tapped.
+
+Unnatural Order
+rules_text: Untap target creature, it gains indestructible until end of turn.
+[i]Symmetry 3[/i] — If you control three or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control. => Untap target creature, it gains indestructible until end of turn.
+[i]Symmetry 2[/i] — If you control three or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control.
+
+Tezzeret's Darksteel Heart
+cost: {7} => {6}
+
+Symmetry Nest
+rules_text: Fractals you control get +1/+1
+At the beginning of your end step, if you've created a token this turn, create a token that's a copy of this enchantment. => Fractals you control get +1/+1
+At the beginning of your end step, if you've created a token this turn, create a token that's a copy of this enchantment except it doesn't have this ability.
+
+Sky Meadows
+
+Control Room
+
+Strobe-Knight's Armory
+
+Automated Farmland
+
+Experiment Chambers
+
+Interdimensional Space
+
+Molten Scrapyard
+
+Fungal Colony
+
+Star-Spawn
+cost: {4}{U} => {3}{U}
+pt: 3/4 => 2/4
+
+Rustborn Revenant
+type: Artifact Creatre — Zombie Construct => Artifact Creature — Zombie Construct
+
+Gravelooper
+cost: {4}{B}{B} => {3}{B}
+rules_text: At the beginning of your upkeep, exile target creature card from your graveyard. When you do, create a 1/1 green and blue Fractal creature token with mana value 2. When that creature dies, return the exiled card to its owner's hand. => At the beginning of your upkeep, if you don't control a skeleton, exile target creature card from your graveyard. When you do, create a 1/1 black Skeleton creature token. When that creature dies, return the exiled card to its owner's hand.
+
+Pattern Splicer
+rules_text: [i]Symmetry 4[/i] — As long as you control five or more nonland permanents that share a mana value, those permanents each have hexproof and flying. => [i]Symmetry 4[/i] — As long as you control five or more nonland permanents that share a mana value, those permanents other than this creature each have hexproof and flying.
+
+Junkgorging Automaton
+pt: 3/2 => 3/3
+
+Crystal Jungle
+
+Temporal Forge
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
