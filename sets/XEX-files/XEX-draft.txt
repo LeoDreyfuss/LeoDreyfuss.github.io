@@ -2733,7 +2733,7 @@
 		{
 			"name": "Planar Fold",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Enchantment",
 			"collector_number": "27",
 			"image_uris": {
@@ -3133,7 +3133,7 @@
 		{
 			"name": "Tezzeret, False Worldsoul",
 			"rarity": "mythic",
-			"mana_cost": "{2}{U}{B}",
+			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Planeswalker — Tezzeret",
 			"collector_number": "278",
 			"image_uris": {

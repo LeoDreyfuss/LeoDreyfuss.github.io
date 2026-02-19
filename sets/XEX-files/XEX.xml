@@ -5,7 +5,7 @@
 			<name>XEX</name>
 			<longname>Xerex (Name pending)</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-17</releasedate>
+			<releasedate>2026-02-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -288,7 +288,7 @@ You may have this creature enter as a copy of any creature on the battlefield ex
 		<card>
 			<name>Fractal Form</name>
 			<text>Equipped creature is a Fractal and has mana value 4.
-Equipped creature gets +3/+2
+Equipped creature gets +3/+3
 Equip {4}</text>
 			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/70_Fractal Form.png" num="70">XEX</set>
 			<prop>
@@ -3270,7 +3270,7 @@ Reconfigure {2}</text>
 		<card>
 			<name>Train for Synonymy</name>
 			<text>Enchant creature
-As this enchantment enters, choose a number. Enchanted creature has mana value equal to the chosen number.
+As this enchantment enters, choose a number between 1 and 4. Enchanted creature has mana value equal to the chosen number.
 Enchanted creature gets +1/+1.</text>
 			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/47_Train for Synonymy.png" num="47">XEX</set>
 			<prop>
@@ -4449,8 +4449,8 @@ Symmetry 3 — Whenever this creature deals combat damage to a player, if you co
 		</card>
 		<card>
 			<name>Shark Tooth Knuckles</name>
-			<text>Deathtouch
-Equipped creature gets +1/+2 and has deathtouch.
+			<text>Deathtouch, lifelink
+Equipped creature gets +1/+1 and has deathtouch and lifelink.
 Reconfigure {3} ({3}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
 			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/286_Shark Tooth Knuckles.png" num="286">XEX</set>
 			<prop>
@@ -4462,7 +4462,7 @@ Reconfigure {3} ({3}: Attach to target creature you control; or unattach from a 
 				<cmc>2</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>1/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4692,7 +4692,7 @@ Whenever an artifact creature you control deals combat damage to a player, you m
 		<card>
 			<name>Warhammer of the Like</name>
 			<text>Equipped creature gets +5/+5 and has vigilance and trample.
-Equip {10}. This ability costs {X} less to activate, where X is the greatest number of nonland permanents you control that share a mana value.</text>
+Equip {7}. This ability costs {X} less to activate, where X is the greatest number of nonland permanents you control that share a mana value.</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/301_Warhammer of the Like.png" num="301">XEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -4768,7 +4768,7 @@ Whenever you cast a spell with the chosen name, choose a new card name.</text>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3WW</manacost>
+				<manacost>4W</manacost>
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -5461,11 +5461,11 @@ Symmetry 2 — If you control two or more nonland permanents that share a mana v
 				<side>front</side>
 				<type>Legendary Planeswalker — Tezzeret</type>
 				<maintype>Planeswalker</maintype>
-				<manacost>2UB</manacost>
-				<cmc>4</cmc>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<loyalty>1</loyalty>
+				<loyalty>2</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
