@@ -15,9 +15,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/71_Harmonious Revelation.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/70_Harmonious Revelation.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Knight",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/101_Vertex Warden.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/100_Vertex Warden.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "303",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/303_The Iron Tower.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/304_The Iron Tower.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Knight",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/144_Silent Knight.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/143_Silent Knight.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/116_Endless Obligator.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/115_Endless Obligator.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/79_Mirrored Duplicate.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/78_Mirrored Duplicate.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Fractal Construct",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/80_Mirrormade Stalker.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/79_Mirrormade Stalker.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Equipment Fractal",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/70_Fractal Form.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/69_Fractal Form.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Enchantment",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/42_Strobe-Knight's Oath.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/41_Strobe-Knight's Oath.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Horror",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/139_Scrap Siphoner.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/138_Scrap Siphoner.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/100_Timeloop Specialist.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/99_Timeloop Specialist.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/134_Refuse to Riches.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/133_Refuse to Riches.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/64_Deekah, Flummoxed Student.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/63_Deekah, Flummoxed Student.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/137_Scouring Reflection.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/136_Scouring Reflection.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Junk Fractal",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/114_Discard Devourer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/113_Discard Devourer.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/103_Ashes to Ashes.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/102_Ashes to Ashes.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/98_Temporal Fracturing.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/97_Temporal Fracturing.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Angel Knight",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/35_Star-Knight.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/34_Star-Knight.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Goblin Artificer",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/109_Combat Modifier.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/108_Combat Modifier.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/120_Fractured Scythe.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/119_Fractured Scythe.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elemental Knight",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/51_Worldsoul's Champion.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/50_Worldsoul's Champion.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/48_Unnatural Order.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/47_Unnatural Order.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/142_Scrapheap Scavengers.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/141_Scrapheap Scavengers.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Illusion",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/63_Cryptic Figure.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/62_Cryptic Figure.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}",
 			"type": "Legendary Artifact",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/299_Tezzeret's Darksteel Heart.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/300_Tezzeret's Darksteel Heart.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/96_Symmetry Nest.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/95_Symmetry Nest.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Bird Wizard",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/117_Entropy Channeler.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/116_Entropy Channeler.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "312",
+			"collector_number": "313",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/312_Sky Meadows.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/313_Sky Meadows.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "306",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/306_Control Room.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/307_Control Room.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "313",
+			"collector_number": "314",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/313_Strobe-Knight's Armory.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/314_Strobe-Knight's Armory.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "305",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/305_Automated Farmland.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/306_Automated Farmland.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "308",
+			"collector_number": "309",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/308_Experiment Chambers.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/309_Experiment Chambers.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "310",
+			"collector_number": "311",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/310_Interdimensional Space.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/311_Interdimensional Space.png"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "311",
+			"collector_number": "312",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/311_Molten Scrapyard.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/312_Molten Scrapyard.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "309",
+			"collector_number": "310",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/309_Fungal Colony.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/310_Fungal Colony.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/88_Serendipitous Updraft.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/87_Serendipitous Updraft.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/46_Targeted Collapse.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/45_Targeted Collapse.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/52_Absolute Value.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/51_Absolute Value.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "302",
+			"collector_number": "303",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/302_Echo Chamber.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/303_Echo Chamber.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/133_Pattern Recognition.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/132_Pattern Recognition.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Frog",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/84_Quantum Leapfrog.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/83_Quantum Leapfrog.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/53_Acute Observer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/52_Acute Observer.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Equipment Horror",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/129_Mindmelder.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/128_Mindmelder.png"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Illusion",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/92_Star-Spawn.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/91_Star-Spawn.png"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/85_Reflection Caster.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/84_Reflection Caster.png"
 			}
 		},
 		{
@@ -965,9 +965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/130_Misery Sifter.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/129_Misery Sifter.png"
 			}
 		},
 		{
@@ -995,9 +995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/44_Symmetry Enforcer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/43_Symmetry Enforcer.png"
 			}
 		},
 		{
@@ -1015,9 +1015,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Enchantment",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/122_Halls of Mirrored Death.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/121_Halls of Mirrored Death.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Illusion",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/86_Reflective Mirage.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/85_Reflective Mirage.png"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Enchantment.",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/65_Depths of Twisted Thought.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/64_Depths of Twisted Thought.png"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/91_Staggering Echo.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/90_Staggering Echo.png"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Zombie Construct",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/136_Rustborn Revenant.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/135_Rustborn Revenant.png"
 			}
 		},
 		{
@@ -1115,9 +1115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Creature — Fractal Horror",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/126_It of the Twisted Mind.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/125_It of the Twisted Mind.png"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/45_Synergy Construct.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/44_Synergy Construct.png"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/60_Consortium Sentinel.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/59_Consortium Sentinel.png"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Equipment Fish",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/76_Manta Shawl.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/75_Manta Shawl.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Equipment Spider",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/62_Crawling Iceguantlet.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/61_Crawling Iceguantlet.png"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Zombie Construct",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/108_Carrion Dredger.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/107_Carrion Dredger.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/118_Feasting Automaton.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/117_Feasting Automaton.png"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/113_Cutthroat Scavenger.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/112_Cutthroat Scavenger.png"
 			}
 		},
 		{
@@ -1295,9 +1295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/135_Ruin Archivist.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/134_Ruin Archivist.png"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Equipment Insect",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/123_Herculean Plate.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/122_Herculean Plate.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Horror Wizard",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/104_Beyond Ghoulcaller.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/103_Beyond Ghoulcaller.png"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Skeleton Snake",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/110_Consortium Bonewinder.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/109_Consortium Bonewinder.png"
 			}
 		},
 		{
@@ -1335,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/90_Shift Between Worlds.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/89_Shift Between Worlds.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Equipment Whale",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/67_Dolphin Convoy.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/66_Dolphin Convoy.png"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/93_Strobe Blade.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/92_Strobe Blade.png"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Knight",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/69_Flood-Knight.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/68_Flood-Knight.png"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Soldier",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/83_Polished Duelist.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/82_Polished Duelist.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/97_Temporal Angler.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/96_Temporal Angler.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/54_Anchor Appraisal.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/53_Anchor Appraisal.png"
 			}
 		},
 		{
@@ -1415,9 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
 			"type": "Artifact",
-			"collector_number": "300",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/300_Unstable Tesseract.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/301_Unstable Tesseract.png"
 			}
 		},
 		{
@@ -1435,9 +1435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/37_Strobe-Knight Champion.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/36_Strobe-Knight Champion.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{X}{U}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/72_In the Mirror.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/71_In the Mirror.png"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/115_Elxle, Rust Feaster.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/114_Elxle, Rust Feaster.png"
 			}
 		},
 		{
@@ -1685,9 +1685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/99_Timelocker.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/98_Timelocker.png"
 			}
 		},
 		{
@@ -1695,9 +1695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/106_Broken Oath.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/105_Broken Oath.png"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/66_Divide and Conquer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/65_Divide and Conquer.png"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Artifact Creature — Knight Consruct",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/38_Strobe-Knight Colonal.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/37_Strobe-Knight Colonal.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Equipment Horror",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/119_Formless Graft.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/118_Formless Graft.png"
 			}
 		},
 		{
@@ -1805,9 +1805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Equipment Bird",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/58_Cobalt Hawk.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/57_Cobalt Hawk.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/131_New Use.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/130_New Use.png"
 			}
 		},
 		{
@@ -1855,19 +1855,19 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/41_Strobe-Knight Tinkerer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/40_Strobe-Knight Tinkerer.png"
 			}
 		},
 		{
 			"name": "Slinking Spyglass",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Equipment Cat",
-			"collector_number": "34",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/34_Slinking Spyglass.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/144_Slinking Spyglass.png"
 			}
 		},
 		{
@@ -1875,9 +1875,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/47_Train for Synonymy.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/46_Train for Synonymy.png"
 			}
 		},
 		{
@@ -1895,9 +1895,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/40_Strobe-Knight Protector.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/39_Strobe-Knight Protector.png"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/43_Subdual Operative.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/42_Subdual Operative.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Dwarf Artificer",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/50_Warpmetal Keeper.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/49_Warpmetal Keeper.png"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Elephant Monk",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/49_Warden of the Eightfold Path.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/48_Warden of the Eightfold Path.png"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Fractal Bird",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/55_Bifurcating Familiar.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/54_Bifurcating Familiar.png"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Knight",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/94_Strobe-Knight Displacer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/93_Strobe-Knight Displacer.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/82_Phasing Intruder.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/81_Phasing Intruder.png"
 			}
 		},
 		{
@@ -2045,9 +2045,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Knight",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/56_Bladesinger.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/55_Bladesinger.png"
 			}
 		},
 		{
@@ -2055,9 +2055,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/87_Rift Walker.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/86_Rift Walker.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Vedalken Wizard",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/74_Looping Researcher.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/73_Looping Researcher.png"
 			}
 		},
 		{
@@ -2075,9 +2075,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Fractal",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/102_Wingspan Pattern.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/101_Wingspan Pattern.png"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/77_Minute Rift.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/76_Minute Rift.png"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Knight",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/95_Strobe-Knight Duplicator.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/94_Strobe-Knight Duplicator.png"
 			}
 		},
 		{
@@ -2105,9 +2105,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Merfolk Rogue",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/59_Consortium Looter.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/58_Consortium Looter.png"
 			}
 		},
 		{
@@ -2135,9 +2135,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Equipment Scorpion",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/125_Infestation Scorpion.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/124_Infestation Scorpion.png"
 			}
 		},
 		{
@@ -2145,9 +2145,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie Artificer",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/140_Scrap Surgeon.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/139_Scrap Surgeon.png"
 			}
 		},
 		{
@@ -2155,9 +2155,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/127_Junk Denial.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/126_Junk Denial.png"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Rat",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/143_Scrapyard Vermin.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/142_Scrapyard Vermin.png"
 			}
 		},
 		{
@@ -2175,9 +2175,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Leech",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/105_Bioharvester Leech.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/104_Bioharvester Leech.png"
 			}
 		},
 		{
@@ -2185,9 +2185,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Beast",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/132_Omnivorous Stalker.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/131_Omnivorous Stalker.png"
 			}
 		},
 		{
@@ -2195,9 +2195,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Equipment Crab",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/107_Canciform Plating.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/106_Canciform Plating.png"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Imp",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/141_Scrapfeeder Imp.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/140_Scrapfeeder Imp.png"
 			}
 		},
 		{
@@ -2225,9 +2225,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/112_Consortium Inquisitor.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/111_Consortium Inquisitor.png"
 			}
 		},
 		{
@@ -2595,9 +2595,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/75_Lune's Rescue.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/74_Lune's Rescue.png"
 			}
 		},
 		{
@@ -2605,9 +2605,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Artifact Creature — Homunculus",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/68_Dutiful Lackey.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/67_Dutiful Lackey.png"
 			}
 		},
 		{
@@ -2685,9 +2685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Artifact Creature — Sphinx",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/89_Sharding Sphinx.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/88_Sharding Sphinx.png"
 			}
 		},
 		{
@@ -2695,9 +2695,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "301",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/301_Warhammer of the Like.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/302_Warhammer of the Like.png"
 			}
 		},
 		{
@@ -2705,9 +2705,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/138_Scrap Shaman.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/137_Scrap Shaman.png"
 			}
 		},
 		{
@@ -2745,9 +2745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/39_Strobe-Knight Devestator.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/38_Strobe-Knight Devestator.png"
 			}
 		},
 		{
@@ -2765,9 +2765,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/121_Gravelooper.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/120_Gravelooper.png"
 			}
 		},
 		{
@@ -2805,9 +2805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Fractal",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/81_Pattern Splicer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/80_Pattern Splicer.png"
 			}
 		},
 		{
@@ -2845,9 +2845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/36_Stop-Knight.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/35_Stop-Knight.png"
 			}
 		},
 		{
@@ -2895,9 +2895,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Nightmare Illusion",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/124_Hypothetical Nightmare.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/123_Hypothetical Nightmare.png"
 			}
 		},
 		{
@@ -2925,9 +2925,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/128_Junkgorging Automaton.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/127_Junkgorging Automaton.png"
 			}
 		},
 		{
@@ -2945,9 +2945,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Serpent Illusion",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/78_Mirageweaver Serpent.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/77_Mirageweaver Serpent.png"
 			}
 		},
 		{
@@ -2995,9 +2995,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/73_The Inversion Zone.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/72_The Inversion Zone.png"
 			}
 		},
 		{
@@ -3035,9 +3035,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "304",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/304_Mirror Spire.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/305_Mirror Spire.png"
 			}
 		},
 		{
@@ -3045,9 +3045,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "307",
+			"collector_number": "308",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/307_Crystal Jungle.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/308_Crystal Jungle.png"
 			}
 		},
 		{
@@ -3055,9 +3055,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "314",
+			"collector_number": "315",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/314_Temporal Forge.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/315_Temporal Forge.png"
 			}
 		},
 		{
@@ -3065,9 +3065,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/111_Consortium Haruspex.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/110_Consortium Haruspex.png"
 			}
 		},
 		{
@@ -3075,9 +3075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/57_Change of Perspective.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/56_Change of Perspective.png"
 			}
 		},
 		{
@@ -3085,9 +3085,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "315",
+			"collector_number": "316",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/315_Plains.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/316_Plains.png"
 			}
 		},
 		{
@@ -3095,9 +3095,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "319",
+			"collector_number": "320",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/319_Forest.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/320_Forest.png"
 			}
 		},
 		{
@@ -3105,9 +3105,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "316",
+			"collector_number": "317",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/316_Island.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/317_Island.png"
 			}
 		},
 		{
@@ -3115,9 +3115,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "317",
+			"collector_number": "318",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/317_Swamp.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/318_Swamp.png"
 			}
 		},
 		{
@@ -3125,9 +3125,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "318",
+			"collector_number": "319",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/318_Mountain.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/319_Mountain.png"
 			}
 		},
 		{
@@ -3155,9 +3155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/61_Counterbalance.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/60_Counterbalance.png"
 			}
 		},
 		{
@@ -3175,9 +3175,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "298",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/298_Sword of Sinew and Steel.png"
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/299_Sword of Sinew and Steel.png"
 			}
 		},
 		{
@@ -3188,6 +3188,16 @@
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/31_Rationalize.png"
+			}
+		},
+		{
+			"name": "Sword of Reality and Illusion",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/298_Sword of Reality and Illusion.png"
 			}
 		}
 	]
@@ -3274,6 +3284,7 @@
 	1 Teyo, Escherian Guard
 	2 Counterbalance
 	1 Sword of Sinew and Steel
+	1 Sword of Reality and Illusion
 [uncommon(3)]
 	4 Silent Knight
 	4 Endless Obligator
@@ -3968,6 +3979,7 @@
 	12 Perfect Match
 	1 Sword of Sinew and Steel
 	12 Rationalize
+	1 Sword of Reality and Illusion
 [wildcard(1)]
 	6 Impossible Staircase
 	6 Harmonious Revelation
@@ -4283,3 +4295,4 @@
 	6 Perfect Match
 	4 Sword of Sinew and Steel
 	6 Rationalize
+	4 Sword of Reality and Illusion

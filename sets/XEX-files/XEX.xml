@@ -5,7 +5,7 @@
 			<name>XEX</name>
 			<longname>Xerex (Name pending)</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-19</releasedate>
+			<releasedate>2026-03-02</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -29,7 +29,7 @@
 			<name>Harmonious Revelation</name>
 			<text>Symmetry 2 — This spell cost {1}{U} less to cast as long as you control two or more nonland permanents that share a mana value.
 Draw three cards.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/71_Harmonious Revelation.png" num="71">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/70_Harmonious Revelation.png" num="70">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -45,7 +45,7 @@ Draw three cards.</text>
 		<card>
 			<name>Vertex Warden</name>
 			<text>Symmetry 3 — When this creature enters, if you control three or more nonland permanents that share a mana value, the owner of target creature puts it on the top or bottom of their library.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/101_Vertex Warden.png" num="101">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/100_Vertex Warden.png" num="100">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -82,7 +82,7 @@ Draw three cards.</text>
 			<text>This land enters tapped.
 {T}: Add {U} or {B}
 Whenever you abstract, untap this land. (You abtract whenever you create a paradox, or cast a spell from exile.)</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/303_The Iron Tower.png" num="303">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/304_The Iron Tower.png" num="304">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -114,8 +114,8 @@ Whenever you abstract, untap this land. (You abtract whenever you create a parad
 		</card>
 		<card>
 			<name>Silent Knight</name>
-			<text>Whenever an artifact creature or equipped creature you control deals combat damage to a player, put a +1/+1 counter on it and surveil 1 (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/144_Silent Knight.png" num="144">XEX</set>
+			<text>Whenever an artifact creature or equipped creature you control deals combat damage to a player, surveil 3 (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/143_Silent Knight.png" num="143">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -134,7 +134,7 @@ Whenever you abstract, untap this land. (You abtract whenever you create a parad
 			<text>Recast {4}{B} ({4}{B}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )
 Flash
 When this creature enters, another target creature gains indestructible until end of turn.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/116_Endless Obligator.png" num="116">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/115_Endless Obligator.png" num="115">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -205,7 +205,7 @@ When this enchantment enters, destroy target creature with power 3 or less. If i
 			<name>Mirrored Duplicate</name>
 			<text>Recast {3}{U} ({3}{U}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )
 You may have this creature enter as a copy of any creature on the battlefield except it has recast {3}{U}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/79_Mirrored Duplicate.png" num="79">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/78_Mirrored Duplicate.png" num="78">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -222,7 +222,7 @@ You may have this creature enter as a copy of any creature on the battlefield ex
 		<card>
 			<name>Mirrormade Stalker</name>
 			<text>As long as this creature is prototyped, it has recast {5}, otherwise, it has flying.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/80_Mirrormade Stalker.png" num="80">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/79_Mirrormade Stalker.png" num="79">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -290,7 +290,7 @@ You may have this creature enter as a copy of any creature on the battlefield ex
 			<text>Equipped creature is a Fractal and has mana value 4.
 Equipped creature gets +3/+3
 Equip {4}</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/70_Fractal Form.png" num="70">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/69_Fractal Form.png" num="69">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -308,7 +308,7 @@ Equip {4}</text>
 			<name>Strobe-Knight&apos;s Oath</name>
 			<text>As this enchantment enters, choose a number between 1 and 4.
 This enchantment has mana value equal to the chosen number.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/42_Strobe-Knight&apos;s Oath.png" num="42">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/41_Strobe-Knight&apos;s Oath.png" num="41">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -378,7 +378,7 @@ Whenever you abstract for the first time each turn create a Junk token. (You abt
 			<text>Menace
 This creature&apos;s power is equal to the number of artifacts you control.
 {1}, Sacrifice a nontoken, nonland permanent: Create a Junk token.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/139_Scrap Siphoner.png" num="139">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/138_Scrap Siphoner.png" num="138">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -432,7 +432,7 @@ Whenever this creature attacks, you gain X life where X is the greatest number o
 			<name>Timeloop Specialist</name>
 			<text>Recast {4}{UR} ({4}{UR}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )
 When this creature enters, exile up to one instant or sorcery card from a graveyard, you may cast it this turn, when you do, exile it as it resolves.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/100_Timeloop Specialist.png" num="100">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/99_Timeloop Specialist.png" num="99">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -538,7 +538,7 @@ Artifacts you control have &quot;{T}: Target creature you control gets +1/+1 unt
 			<name>Refuse to Riches</name>
 			<text>Junk you control are treasures in addition to their other types and have &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;
 When this enchantment enters, create two tapped Junk tokens (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/134_Refuse to Riches.png" num="134">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/133_Refuse to Riches.png" num="133">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -556,7 +556,7 @@ When this enchantment enters, create two tapped Junk tokens (They&apos;re artifa
 			<text>Creatures you control with mana value zero have &quot;This creature gets +1/+1 for each counter on it&quot;.
 Creatures you control with mana value one, two, or three have flying.
 Creatures you control with mana value four or greater have vigilance.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/64_Deekah, Flummoxed Student.png" num="64">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/63_Deekah, Flummoxed Student.png" num="63">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -573,7 +573,7 @@ Creatures you control with mana value four or greater have vigilance.</text>
 		<card>
 			<name>Scouring Reflection</name>
 			<text>Each creature gets -X/-X until end of turn, where X is its mana value.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/137_Scouring Reflection.png" num="137">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/136_Scouring Reflection.png" num="136">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -606,7 +606,7 @@ Creatures you control with mana value four or greater have vigilance.</text>
 			<name>Discard Devourer</name>
 			<text>Whenever you sacrifice an artifact, target creature gets -X/-X until end of turn, where X is the number of artifacts you&apos;ve sacrificed this turn.
 {T}, Sacrifice this creature: Exile the top card of your library, you may play it this turn, activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/114_Discard Devourer.png" num="114">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/113_Discard Devourer.png" num="113">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -624,7 +624,7 @@ Creatures you control with mana value four or greater have vigilance.</text>
 			<name>Ashes to Ashes</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
 Draw a card, and create a Junk token. Each opponent loses 2 life. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/103_Ashes to Ashes.png" num="103">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/102_Ashes to Ashes.png" num="102">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -659,7 +659,7 @@ Draw a card, and create a Junk token. Each opponent loses 2 life. (It&apos;s an 
 			<text>Create a paradox (Choose one, the unchosen effect happens at the beginning of your next upkeep.)
 — Take an extra turn after this one.
 — Skip your next turn.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/98_Temporal Fracturing.png" num="98">XEX</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/97_Temporal Fracturing.png" num="97">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -765,7 +765,7 @@ This creature gets +1/+1 for each token you control.</text>
 			<name>Star-Knight</name>
 			<text>Flying
 Symmetry 2 — As long as you control two or more nonland permanents that share a mana value, this creature gets +1/+1 and has vigilance.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/35_Star-Knight.png" num="35">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/34_Star-Knight.png" num="34">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -800,7 +800,7 @@ When this creature enters, exile the top card of your library, you may play it t
 		<card>
 			<name>Combat Modifier</name>
 			<text>At the beginning of combat on your turn, target artifact creature or equipped creature you control gains your choice of menace or deathtouch until end of turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/109_Combat Modifier.png" num="109">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/108_Combat Modifier.png" num="108">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -818,7 +818,7 @@ When this creature enters, exile the top card of your library, you may play it t
 			<name>Fractured Scythe</name>
 			<text>Equipped creature gets +2/+0, has menace and &quot;Whenever this creature deals combat damage to a player, you may sacrifice a permanent, when you do, draw a card.&quot;
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/120_Fractured Scythe.png" num="120">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/119_Fractured Scythe.png" num="119">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -851,7 +851,7 @@ Equip {1}</text>
 		</card>
 		<card>
 			<name>The Worldsoul Anchor</name>
-			<text>Whenever a permanent you don&apos;t control becomes tapped, its controller loses 1 life, if this artifact is equipped to a creature you control, that player loses 2 life instead.
+			<text>{3}, {T}: Target artifact you control, it becomes a 4/4 creature in addition to its other types until end of turn. If this artifact is equipped to a creature, instead choose any number of target artifacts you control.
 Equip {7}</text>
 			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/152_The Worldsoul Anchor.png" num="152">XEX</set>
 			<prop>
@@ -869,7 +869,7 @@ Equip {7}</text>
 		<card>
 			<name>Worldsoul&apos;s Champion</name>
 			<text>Symmetry 4 — At the beginning of your end step, choose another creature you control, if you control four or more nonland permanents that share a mana value, create a token that&apos;s a copy of it. Otherwise, put a +1/+1 counter on it.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/51_Worldsoul&apos;s Champion.png" num="51">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/50_Worldsoul&apos;s Champion.png" num="50">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -906,7 +906,7 @@ Haste
 			<name>Unnatural Order</name>
 			<text>Untap target creature, it gains indestructible until end of turn.
 Symmetry 2 — If you control three or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/48_Unnatural Order.png" num="48">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/47_Unnatural Order.png" num="47">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -923,7 +923,7 @@ Symmetry 2 — If you control three or more nonland permanents that share a mana
 			<name>Scrapheap Scavengers</name>
 			<text>Affinity for tokens (This spell costs {1} less to cast for each token you control.)
 Deathtouch, menace</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/142_Scrapheap Scavengers.png" num="142">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/141_Scrapheap Scavengers.png" num="141">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -940,7 +940,7 @@ Deathtouch, menace</text>
 		<card>
 			<name>Cryptic Figure</name>
 			<text>Whenever this creature deals combat damage to a player, it gains hexproof until your next turn. If it was equipped, another target creature gains hexproof until your next turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/63_Cryptic Figure.png" num="63">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/62_Cryptic Figure.png" num="62">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -960,7 +960,7 @@ Deathtouch, menace</text>
 {T}: Create a paradox.
 — Search your library for an artifact card and put it onto the battlefield tapped, then shuffle.
 — Sacrifice an artifact, each opponent loses X life where X is the sacrificed permanents mana value.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/299_Tezzeret&apos;s Darksteel Heart.png" num="299">XEX</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/300_Tezzeret&apos;s Darksteel Heart.png" num="300">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -975,7 +975,7 @@ Deathtouch, menace</text>
 			<name>Symmetry Nest</name>
 			<text>Fractals you control get +1/+1
 At the beginning of your end step, if you&apos;ve created a token this turn, create a token that&apos;s a copy of this enchantment except it doesn&apos;t have this ability.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/96_Symmetry Nest.png" num="96">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/95_Symmetry Nest.png" num="95">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1059,7 +1059,7 @@ You may play an additional land this turn.</text>
 When this creature enters, create a paradox (Choose one, the unchosen effect happens at the beginning of your next upkeep.)
 — Each player discards a card.
 — Each player sacrifices a creature.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/117_Entropy Channeler.png" num="117">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/116_Entropy Channeler.png" num="116">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1088,7 +1088,7 @@ Whenever a player skips a step, phase, or turn, draw a card.</text>
 				<cmc>4</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1128,7 +1128,7 @@ Whenever a player skips a step, phase, or turn, draw a card.</text>
 			<text>Sky Meadows enters tapped.
 When Sky Meadows leaves the battlefield, draw a card.
 {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/312_Sky Meadows.png" num="312">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/313_Sky Meadows.png" num="313">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1145,7 +1145,7 @@ When Sky Meadows leaves the battlefield, draw a card.
 			<text>Control Room enters tapped.
 When Control Room leaves the battlefield, draw a card.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/306_Control Room.png" num="306">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/307_Control Room.png" num="307">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1162,7 +1162,7 @@ When Control Room leaves the battlefield, draw a card.
 			<text>Strobe-Knight&apos;s Armory enters tapped.
 When Strobe-Knight&apos;s Armory leaves the battlefield, draw a card.
 {T}: Add {R} or {W}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/313_Strobe-Knight&apos;s Armory.png" num="313">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/314_Strobe-Knight&apos;s Armory.png" num="314">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1179,7 +1179,7 @@ When Strobe-Knight&apos;s Armory leaves the battlefield, draw a card.
 			<text>Automated Farmland enters tapped.
 When Automated Farmland leaves the battlefield, draw a card.
 {T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/305_Automated Farmland.png" num="305">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/306_Automated Farmland.png" num="306">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1196,7 +1196,7 @@ When Automated Farmland leaves the battlefield, draw a card.
 			<text>Experiment Chambers enters tapped.
 When Experiment Chambers leaves the battlefield, draw a card.
 {T}: Add {U} or {B}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/308_Experiment Chambers.png" num="308">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/309_Experiment Chambers.png" num="309">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1213,7 +1213,7 @@ When Experiment Chambers leaves the battlefield, draw a card.
 			<text>Interdimensional Space enters tapped.
 When Interdimensional Space leaves the battlefield, draw a card.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/310_Interdimensional Space.png" num="310">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/311_Interdimensional Space.png" num="311">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1230,7 +1230,7 @@ When Interdimensional Space leaves the battlefield, draw a card.
 			<text>Molten Scrapyard enters tapped.
 When Molten Scrapyard leaves the battlefield, draw a card.
 {T}: Add {B} or {R}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/311_Molten Scrapyard.png" num="311">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/312_Molten Scrapyard.png" num="312">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1247,7 +1247,7 @@ When Molten Scrapyard leaves the battlefield, draw a card.
 			<text>Fungal Colony enters tapped.
 When Fungal Colony leaves the battlefield, draw a card.
 {T}: Add {B} or {G}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/309_Fungal Colony.png" num="309">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/310_Fungal Colony.png" num="310">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1277,7 +1277,7 @@ Symmetry 3 — {T}: Add one mana of any color. Activate this ability only if you
 		<card>
 			<name>Serendipitous Updraft</name>
 			<text>Target creature and each creature you control that shares a mana value with it gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/88_Serendipitous Updraft.png" num="88">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/87_Serendipitous Updraft.png" num="87">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1294,7 +1294,7 @@ Symmetry 3 — {T}: Add one mana of any color. Activate this ability only if you
 			<name>Targeted Collapse</name>
 			<text>Tap target creature.
 Symmetry 2 — Exile that creature if you control two or more nonland permanents that share a mana value.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/46_Targeted Collapse.png" num="46">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/45_Targeted Collapse.png" num="45">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1311,7 +1311,7 @@ Symmetry 2 — Exile that creature if you control two or more nonland permanents
 			<name>Absolute Value</name>
 			<text>Enchant creature
 Whenever you abstract, tap or untap enchanted creature (You abtract whenever you create a paradox, or cast a spell from exile.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/52_Absolute Value.png" num="52">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/51_Absolute Value.png" num="51">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1345,7 +1345,7 @@ Whenever this enchantment enters or you cast a spell from exile, you may discard
 			<name>Echo Chamber</name>
 			<text>{T}: Add {C}.
 {3}, {T}: Recast each creature you control that has been recast this turn. (You don&apos;t have to pay the recast costs.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/302_Echo Chamber.png" num="302">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/303_Echo Chamber.png" num="303">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1359,7 +1359,7 @@ Whenever this enchantment enters or you cast a spell from exile, you may discard
 		<card>
 			<name>Pattern Recognition</name>
 			<text>Destroy target creature and up to one other target creature that shares a mana value with it.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/133_Pattern Recognition.png" num="133">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/132_Pattern Recognition.png" num="132">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1375,7 +1375,7 @@ Whenever this enchantment enters or you cast a spell from exile, you may discard
 		<card>
 			<name>Quantum Leapfrog</name>
 			<text>Whenever you abstract, this creature gains flying until end of turn. (You abtract whenever you create a paradox, or cast a spell from exile.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/84_Quantum Leapfrog.png" num="84">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/83_Quantum Leapfrog.png" num="83">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1428,7 +1428,7 @@ Symmetry 3 — As long as you control three or more nonland permanents that shar
 		<card>
 			<name>Acute Observer</name>
 			<text>Whenever you abstract, scry 2 (You abtract whenever you create a paradox, or cast a spell from exile.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/53_Acute Observer.png" num="53">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/52_Acute Observer.png" num="52">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1498,7 +1498,7 @@ Whenever you cast an artifact spell, you may sacrifice this creature, if you do,
 			<text>Pay 1 life: Equipped creature gets +1/-1 until end of turn.
 Whenever this creature or equipped creature dies, draw 2 cards.
 Equip {1}{B}</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/129_Mindmelder.png" num="129">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/128_Mindmelder.png" num="128">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1516,7 +1516,7 @@ Equip {1}{B}</text>
 			<name>Star-Spawn</name>
 			<text>Flying
 Whenever you abstract, this creature gets +2/+0 until end of turn. (You abtract whenever you create a paradox, or cast a spell from exile.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/92_Star-Spawn.png" num="92">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/91_Star-Spawn.png" num="91">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1569,7 +1569,7 @@ Remove three counters from among permanents you control: Create a junk token.</t
 			<name>Reflection Caster</name>
 			<text>Flash
 Symmetry 3 — When this creature enters, return another target creature to its owners hand, if you control three or more nonland permanents that share a mana value, create a token that&apos;s a copy of it.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/85_Reflection Caster.png" num="85">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/84_Reflection Caster.png" num="84">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1676,7 +1676,7 @@ Whenever Lune or another creature you control enters, if it entered from exile o
 		<card>
 			<name>Misery Sifter</name>
 			<text>Whenever another nontoken creature you control dies, create a Junk token (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/130_Misery Sifter.png" num="130">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/129_Misery Sifter.png" num="129">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1729,7 +1729,7 @@ Whenever you cast this spell or another spell from exile, this creature deals 2 
 		<card>
 			<name>Symmetry Enforcer</name>
 			<text>When this creature enters, choose a number. Creatures you control with mana value equal to the chosen number get +2/+2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/44_Symmetry Enforcer.png" num="44">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/43_Symmetry Enforcer.png" num="43">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1763,7 +1763,7 @@ Whenever you cast this spell or another spell from exile, this creature deals 2 
 		<card>
 			<name>Halls of Mirrored Death</name>
 			<text>Whenever a nontoken creature dies, create a token that&apos;s a copy of it except it&apos;s a 1/1 black Illusion in addition to its other colors and types.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/122_Halls of Mirrored Death.png" num="122">XEX</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/121_Halls of Mirrored Death.png" num="121">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1845,7 +1845,7 @@ Whenever you cast a spell, create a 1/1 green and blue Fractal creature token wi
 		<card>
 			<name>Reflective Mirage</name>
 			<text>When this creature enters, if you control another permanent that shares a mana value with it, draw a card.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/86_Reflective Mirage.png" num="86">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/85_Reflective Mirage.png" num="85">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1862,7 +1862,7 @@ Whenever you cast a spell, create a 1/1 green and blue Fractal creature token wi
 		<card>
 			<name>Depths of Twisted Thought</name>
 			<text>Whenever a player casts an instant or sorcery spell, you may pay {2}, if you do, copy it. You may choose new targets for the copy.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/65_Depths of Twisted Thought.png" num="65">XEX</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/64_Depths of Twisted Thought.png" num="64">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1897,7 +1897,7 @@ Enchanted land is an artifact in addition to its other types and has &quot;{T}: 
 			<text>Create a paradox (Choose one, the unchosen effect happens at the beginning of your next upkeep.)
 — Return target creature to its owners hand.
 — Draw two cards.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/91_Staggering Echo.png" num="91">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/90_Staggering Echo.png" num="90">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1913,7 +1913,7 @@ Enchanted land is an artifact in addition to its other types and has &quot;{T}: 
 		<card>
 			<name>Rustborn Revenant</name>
 			<text>Whenever you sacrifice one or more tokens and/or artifacts for the first time each turn, this creature gets +2/+2 and gains menace until end of turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/136_Rustborn Revenant.png" num="136">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/135_Rustborn Revenant.png" num="135">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1931,7 +1931,7 @@ Enchanted land is an artifact in addition to its other types and has &quot;{T}: 
 			<name>It of the Twisted Mind</name>
 			<text>When this creature enters, each player exiles their hand, then draws three cards.
 Whenever this creature attacks, you may cast a card exiled with it without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/126_It of the Twisted Mind.png" num="126">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/125_It of the Twisted Mind.png" num="125">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1984,7 +1984,7 @@ Whenever you sacrifice one or more tokens, add that much mana of any one color. 
 		<card>
 			<name>Synergy Construct</name>
 			<text>Whenever another creature or artifact you control enters, this creature gets +1/+1 until end of turn</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/45_Synergy Construct.png" num="45">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/44_Synergy Construct.png" num="44">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2036,7 +2036,7 @@ Whenever an artifact creature or equipped creature you control deals combat dama
 			<name>Consortium Sentinel</name>
 			<text>Vigilance
 This creatures toughness is equal to the number of artifact creatures and/or equipment you control.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/60_Consortium Sentinel.png" num="60">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/59_Consortium Sentinel.png" num="59">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2054,7 +2054,7 @@ This creatures toughness is equal to the number of artifact creatures and/or equ
 			<name>Manta Shawl</name>
 			<text>Equipped creature gets +X/+X where X is this permanents mana value.
 Reconfigure {3}</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/76_Manta Shawl.png" num="76">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/75_Manta Shawl.png" num="75">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2073,7 +2073,7 @@ Reconfigure {3}</text>
 			<text>Whenever this creature or equipped creature deals combat damage to a player, tap target creature and put a stun counter on it.
 Equipped creature gets +2/+4.
 Reconfigure {1}{U}{U}</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/62_Crawling Iceguantlet.png" num="62">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/61_Crawling Iceguantlet.png" num="61">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2090,7 +2090,7 @@ Reconfigure {1}{U}{U}</text>
 		<card>
 			<name>Carrion Dredger</name>
 			<text>When this creature enters, you may sacrifice another artifact or creature, when you do, draw a card.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/108_Carrion Dredger.png" num="108">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/107_Carrion Dredger.png" num="107">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2107,7 +2107,7 @@ Reconfigure {1}{U}{U}</text>
 		<card>
 			<name>Feasting Automaton</name>
 			<text>When this creature enters, you may sacrifice another artifact, when you do, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/118_Feasting Automaton.png" num="118">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/117_Feasting Automaton.png" num="117">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2230,7 +2230,7 @@ Junk you control are equipment in addition to their other types and have &quot;E
 			<name>Cutthroat Scavenger</name>
 			<text>Menace
 At the beginning of your end step, if one or more nontoken artifacts left the battlefield under you control this turn, create a Treasure token.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/113_Cutthroat Scavenger.png" num="113">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/112_Cutthroat Scavenger.png" num="112">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2248,7 +2248,7 @@ At the beginning of your end step, if one or more nontoken artifacts left the ba
 			<name>Ruin Archivist</name>
 			<text>Deathtouch
 Whenever one or more creatures you control deal combat damage to a player, create a Junk token (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/135_Ruin Archivist.png" num="135">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/134_Ruin Archivist.png" num="134">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2267,7 +2267,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
 			<text>Indestructible
 Equipped creature has indestructible.
 Reconfigure {4}{B} ({4}{B}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/123_Herculean Plate.png" num="123">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/122_Herculean Plate.png" num="122">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2285,7 +2285,7 @@ Reconfigure {4}{B} ({4}{B}: Attach to target creature you control; or unattach f
 			<name>Beyond Ghoulcaller</name>
 			<text>Recast {4}{B}{B} ({4}{B}{B}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )
 When this creature enters, return target creature from your graveyard to the battlefield tapped with a finality counter on it.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/104_Beyond Ghoulcaller.png" num="104">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/103_Beyond Ghoulcaller.png" num="103">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2304,7 +2304,7 @@ When this creature enters, return target creature from your graveyard to the bat
 			<text>Menace
 When this creature enters, create two tapped Junk tokens.
 Whenever a token you control leaves the battlefield, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/110_Consortium Bonewinder.png" num="110">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/109_Consortium Bonewinder.png" num="109">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2321,7 +2321,7 @@ Whenever a token you control leaves the battlefield, put a +1/+1 counter on this
 		<card>
 			<name>Shift Between Worlds</name>
 			<text>Exile target nonland permanent you control, if it has recast, you may cast it for {2}, if you didn&apos;t cast it this way, return it to your hand.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/90_Shift Between Worlds.png" num="90">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/89_Shift Between Worlds.png" num="89">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2356,7 +2356,7 @@ When this creature enters, target creature must be blocked this turn if able.</t
 			<name>Dolphin Convoy</name>
 			<text>Equipped creature has &quot;Whenever this creature deals combat damage to a player, exile target noncreature, nonland card from your graveyard, you may cast it this turn.&quot;
 Reconfigure {1}{U} ({1}{U}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/67_Dolphin Convoy.png" num="67">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/66_Dolphin Convoy.png" num="66">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2375,7 +2375,7 @@ Reconfigure {1}{U} ({1}{U}: Attach to target creature you control; or unattach f
 			<text>Equipped creature gets +1/+0 and has ward {1}.
 Whenever equipped creature blocks or is blocked by a creature with equal mana value, put a +1/+1 counter on it.
 Equip {3}</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/93_Strobe Blade.png" num="93">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/92_Strobe Blade.png" num="92">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2391,7 +2391,7 @@ Equip {3}</text>
 		<card>
 			<name>Flood-Knight</name>
 			<text>Symmetry 3 — Whenever you attack, if you control three or more nonland permanents that share a mana value, tap target creature an opponent controls and put a stun counter on it.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/69_Flood-Knight.png" num="69">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/68_Flood-Knight.png" num="68">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2409,7 +2409,7 @@ Equip {3}</text>
 			<name>Polished Duelist</name>
 			<text>Vigilance
 As long as this creature is equipped it has hexproof.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/83_Polished Duelist.png" num="83">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/82_Polished Duelist.png" num="82">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2426,7 +2426,7 @@ As long as this creature is equipped it has hexproof.</text>
 		<card>
 			<name>Temporal Angler</name>
 			<text>Whenever you abstract, tap target creature an opponent controls and put a stun counter on it. (You abtract whenever you create a paradox, or cast a spell from exile.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/97_Temporal Angler.png" num="97">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/96_Temporal Angler.png" num="96">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2445,7 +2445,7 @@ As long as this creature is equipped it has hexproof.</text>
 			<text>Create a paradox
 — Return target nonland permanent to its owner&apos;s hand.
 — Return target instant card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/54_Anchor Appraisal.png" num="54">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/53_Anchor Appraisal.png" num="53">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2463,7 +2463,7 @@ As long as this creature is equipped it has hexproof.</text>
 			<text>When this artifact enters, create a paradox (Choose one, the unchosen effect happens at the beginning of your next upkeep.)
 — This artifact deals 5 damage to target creature.
 — This artifact deals 5 damage to each player.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/300_Unstable Tesseract.png" num="300">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/301_Unstable Tesseract.png" num="301">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2493,7 +2493,7 @@ As long as this creature is equipped it has hexproof.</text>
 		<card>
 			<name>Strobe-Knight Champion</name>
 			<text>Symmetry 4 — As long as you control four or more nonland permanents that share a mana value, at the beginning of your end step, create a 2/2 white Knight creature token.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/37_Strobe-Knight Champion.png" num="37">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/36_Strobe-Knight Champion.png" num="36">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2810,7 +2810,7 @@ Reconfigure {3}{W}</text>
 		<card>
 			<name>In the Mirror</name>
 			<text>Create X tokens that are each a copy of target creature you control, and each have mana value X.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/72_In the Mirror.png" num="72">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/71_In the Mirror.png" num="71">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2900,7 +2900,7 @@ Reconfigure {2}{G}</text>
 			<name>Elxle, Rust Feaster</name>
 			<text>Whenever you sacrifice one or more permanents, put that many +1/+1 counters on Elxle.
 Whenever Elxle deals combat damage to a player, you may remove all counters from it, if you do, create that many Junk tokens.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/115_Elxle, Rust Feaster.png" num="115">XEX</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/114_Elxle, Rust Feaster.png" num="114">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2933,7 +2933,7 @@ If you would be dealt damage, you are instead dealt that much damage minus one. 
 			<name>Timelocker</name>
 			<text>Recast {3}{U} ({3}{U}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )
 Whenever you cast this spell or another spell from exile, you may tap or untap target nonland permanent.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/99_Timelocker.png" num="99">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/98_Timelocker.png" num="98">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2951,7 +2951,7 @@ Whenever you cast this spell or another spell from exile, you may tap or untap t
 			<name>Broken Oath</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or token.
 Up to three target creatures each get -2/-2 until end of turn (You may choose the same creature more than once.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/106_Broken Oath.png" num="106">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/105_Broken Oath.png" num="105">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2984,7 +2984,7 @@ Whenever a creature enters under your control, gain 1 life.</text>
 		<card>
 			<name>Divide and Conquer</name>
 			<text>Target creature you control phases out, then create two tokens that are copies of it except they aren&apos;t legendary, sacrifice them at the beginning of the next end step. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/66_Divide and Conquer.png" num="66">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/65_Divide and Conquer.png" num="65">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3000,7 +3000,7 @@ Whenever a creature enters under your control, gain 1 life.</text>
 		<card>
 			<name>Strobe-Knight Colonal</name>
 			<text>Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/38_Strobe-Knight Colonal.png" num="38">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/37_Strobe-Knight Colonal.png" num="37">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3070,7 +3070,7 @@ When this creature dies, its owner puts it into their library fifth from the top
 			<name>Formless Graft</name>
 			<text>This creature and equipped creature can&apos;t be blocked by creatures with greater power.
 Reconfigure {1} ({1}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/119_Formless Graft.png" num="119">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/118_Formless Graft.png" num="118">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3142,7 +3142,7 @@ Sacrifice two tokens: Put a +1/+1 counter on this creature and draw a card.</tex
 Equipped creature has flying.
 Whenever this creature or equipped creature deals combat damage to a player, scry X, where X is the damage dealt.
 Reconfigure {3}{U}</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/58_Cobalt Hawk.png" num="58">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/57_Cobalt Hawk.png" num="57">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3196,7 +3196,7 @@ As long as you control a token, this creature has vigilance.</text>
 			<name>New Use</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or token or pay {3}.
 Exile target creature or artifact.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/131_New Use.png" num="131">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/130_New Use.png" num="130">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3233,7 +3233,7 @@ Whenever this creature attacks and isn&apos;t blocked, create a paradox (Choose 
 			<name>Strobe-Knight Tinkerer</name>
 			<text>Vigilance
 Whenever an artifact enters under your control, if it&apos;s a creature, put a +1/+1 counter on it, otherwise put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/41_Strobe-Knight Tinkerer.png" num="41">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/40_Strobe-Knight Tinkerer.png" num="40">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3251,18 +3251,18 @@ Whenever an artifact enters under your control, if it&apos;s a creature, put a +
 			<name>Slinking Spyglass</name>
 			<text>Vigilance
 Equipped creature has vigilance.
-Whenever this creature or equipped creature deals combat damage to a player, scry 1.
+Whenever this creature or equipped creature deals combat damage to a player, surveil 1.
 Reconfigure {2}</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/34_Slinking Spyglass.png" num="34">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/144_Slinking Spyglass.png" num="144">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact Creature — Equipment Cat</type>
 				<maintype>Creature</maintype>
-				<manacost>1W</manacost>
+				<manacost>1B</manacost>
 				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -3272,7 +3272,7 @@ Reconfigure {2}</text>
 			<text>Enchant creature
 As this enchantment enters, choose a number between 1 and 4. Enchanted creature has mana value equal to the chosen number.
 Enchanted creature gets +1/+1.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/47_Train for Synonymy.png" num="47">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/46_Train for Synonymy.png" num="46">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3305,7 +3305,7 @@ Exile target tapped or attacking creature.</text>
 		<card>
 			<name>Strobe-Knight Protector</name>
 			<text>Symmetry 2 — When this creature enters, if you control two or more nonland permanents that share a mana value, create a 1/1 white Knight creature token.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/40_Strobe-Knight Protector.png" num="40">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/39_Strobe-Knight Protector.png" num="39">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3340,7 +3340,7 @@ This creature gets +X/+0 where X is the greatest number of nonland permanents yo
 		<card>
 			<name>Subdual Operative</name>
 			<text>When this creature enters, tap up to two target creatures. If two creatures that share a mana value were tapped this way, put a stun counter on each of them.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/43_Subdual Operative.png" num="43">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/42_Subdual Operative.png" num="42">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3357,7 +3357,7 @@ This creature gets +X/+0 where X is the greatest number of nonland permanents yo
 		<card>
 			<name>Warpmetal Keeper</name>
 			<text>As long as you control two or more artifacts, this creature gets +1/+1 and has vigilance.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/50_Warpmetal Keeper.png" num="50">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/49_Warpmetal Keeper.png" num="49">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3428,7 +3428,7 @@ This creature enters with an additional +1/+1 counter on it as long as you contr
 			<name>Warden of the Eightfold Path</name>
 			<text>Vigilance
 When this creature enters you may behold an artifact creature, when you do, put two +1/+1 counters on this creature (To behold an artifact creature, choose an artifact creature you control or reveal an artifact creature card from your hand.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/49_Warden of the Eightfold Path.png" num="49">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/48_Warden of the Eightfold Path.png" num="48">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3516,7 +3516,7 @@ Whenever this creature attacks and isn&apos;t blocked, scry 1.</text>
 			<text>Recast {2}{U} ({2}{U}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )
 Flying
 When this creature enters, if it was cast from exile or entered from exile, create a tapped token that&apos;s a copy of it, except it loses all abilities.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/55_Bifurcating Familiar.png" num="55">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/54_Bifurcating Familiar.png" num="54">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3533,7 +3533,7 @@ When this creature enters, if it was cast from exile or entered from exile, crea
 		<card>
 			<name>Strobe-Knight Displacer</name>
 			<text>Symmetry 2 — Whenever this creature attacks, as long as you control three or more nonland permanents that share a mana value, it and another target creature you control gain flying until end of turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/94_Strobe-Knight Displacer.png" num="94">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/93_Strobe-Knight Displacer.png" num="93">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3550,7 +3550,7 @@ When this creature enters, if it was cast from exile or entered from exile, crea
 		<card>
 			<name>Phasing Intruder</name>
 			<text>This creature can&apos;t be blocked.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/82_Phasing Intruder.png" num="82">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/81_Phasing Intruder.png" num="81">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3567,7 +3567,7 @@ When this creature enters, if it was cast from exile or entered from exile, crea
 		<card>
 			<name>Bladesinger</name>
 			<text>When this creature enters, look at the top five cards of your library, you may reveal an artifact creature or equipment card from among them and put it into your hand. Put the rest on the bottom in a random order.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/56_Bladesinger.png" num="56">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/55_Bladesinger.png" num="55">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3584,7 +3584,7 @@ When this creature enters, if it was cast from exile or entered from exile, crea
 		<card>
 			<name>Rift Walker</name>
 			<text>This creature gets +2/+1 as long as it&apos;s equipped.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/87_Rift Walker.png" num="87">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/86_Rift Walker.png" num="86">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3602,7 +3602,7 @@ When this creature enters, if it was cast from exile or entered from exile, crea
 			<name>Looping Researcher</name>
 			<text>Recast {3}{U} ({3}{U}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )
 When this creature enters, scry 1. If you&apos;ve abstracted this turn, instead draw a card (You abtract whenever you create a paradox, or cast a spell from exile.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/74_Looping Researcher.png" num="74">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/73_Looping Researcher.png" num="73">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3620,7 +3620,7 @@ When this creature enters, scry 1. If you&apos;ve abstracted this turn, instead 
 			<name>Wingspan Pattern</name>
 			<text>Flying
 Symmetry 3 — Whenever this creature deals combat damage to a player, if you control three or more nonland permanents that share a mana value, scry 2.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/102_Wingspan Pattern.png" num="102">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/101_Wingspan Pattern.png" num="101">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3637,7 +3637,7 @@ Symmetry 3 — Whenever this creature deals combat damage to a player, if you co
 		<card>
 			<name>Minute Rift</name>
 			<text>Return target artifact or creature with mana value 4 or less to its owners hand. If that permanent was a token, surveil 1.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/77_Minute Rift.png" num="77">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/76_Minute Rift.png" num="76">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3654,7 +3654,7 @@ Symmetry 3 — Whenever this creature deals combat damage to a player, if you co
 			<name>Strobe-Knight Duplicator</name>
 			<text>Recast {4}{U} ({4}{U}, Exile this card from the battlefield any time you could cast it, if you do you may cast it from exile without paying its mana cost. Do this only once each turn. )
 When this creature enters, if you&apos;ve abstracted this turn, create a 2/2 white knight creature token (You abtract whenever you create a paradox, or cast a spell from exile.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/95_Strobe-Knight Duplicator.png" num="95">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/94_Strobe-Knight Duplicator.png" num="94">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3671,7 +3671,7 @@ When this creature enters, if you&apos;ve abstracted this turn, create a 2/2 whi
 		<card>
 			<name>Consortium Looter</name>
 			<text>When this creature enters, you may draw a card, if you do, discard a card. If the discarded card shares a mana value with a nonland permanent you control, draw an additional card.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/59_Consortium Looter.png" num="59">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/58_Consortium Looter.png" num="58">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3725,7 +3725,7 @@ Whenever this creature deals combat damage to a player, create a Junk token (It&
 			<text>Whenever this creature or equipped creature dies, each opponent sacrifices a creature
 Equipped creature gets +1/+1
 Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/125_Infestation Scorpion.png" num="125">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/124_Infestation Scorpion.png" num="124">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3743,7 +3743,7 @@ Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a 
 			<name>Scrap Surgeon</name>
 			<text>Deathtouch
 When this creature enters, return target artifact card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/140_Scrap Surgeon.png" num="140">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/139_Scrap Surgeon.png" num="139">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3760,7 +3760,7 @@ When this creature enters, return target artifact card from your graveyard to yo
 		<card>
 			<name>Junk Denial</name>
 			<text>Each opponent sacrifices an artifact. Each opponent who didn&apos;t sacrifice an artifact this way loses 2 life.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/127_Junk Denial.png" num="127">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/126_Junk Denial.png" num="126">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3777,7 +3777,7 @@ When this creature enters, return target artifact card from your graveyard to yo
 			<name>Scrapyard Vermin</name>
 			<text>Deathtouch
 When this creature enters, you may sacrifice another creature or artifact, when you do, create a 1/1 black Skeleton creature token.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/143_Scrapyard Vermin.png" num="143">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/142_Scrapyard Vermin.png" num="142">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3794,7 +3794,7 @@ When this creature enters, you may sacrifice another creature or artifact, when 
 		<card>
 			<name>Bioharvester Leech</name>
 			<text>When this creature dies, each opponent loses 1 life for each permanent that&apos;s left the battlefield under your control this turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/105_Bioharvester Leech.png" num="105">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/104_Bioharvester Leech.png" num="104">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3812,7 +3812,7 @@ When this creature enters, you may sacrifice another creature or artifact, when 
 			<name>Omnivorous Stalker</name>
 			<text>Whenever you sacrifice a creature, this creature gains menace until end of turn.
 Whenever you sacrifice an artifact, this creature gains lifelink until end of turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/132_Omnivorous Stalker.png" num="132">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/131_Omnivorous Stalker.png" num="131">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3830,7 +3830,7 @@ Whenever you sacrifice an artifact, this creature gains lifelink until end of tu
 			<name>Canciform Plating</name>
 			<text>Whenever this creature or equipped creature deals combat damage to a player, target player mills that many cards, then you may return a noncreature permanent card from your graveyard to your hand.
 Reconfigure {1}</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/107_Canciform Plating.png" num="107">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/106_Canciform Plating.png" num="106">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3865,7 +3865,7 @@ Reconfigure {1}</text>
 			<name>Scrapfeeder Imp</name>
 			<text>Flying
 Whenever you sacrifice another artifact or creature, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/141_Scrapfeeder Imp.png" num="141">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/140_Scrapfeeder Imp.png" num="140">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3882,7 +3882,7 @@ Whenever you sacrifice another artifact or creature, this creature gets +1/+0 un
 		<card>
 			<name>Consortium Inquisitor</name>
 			<text>{B}, Sacrifice an artifact or token: Put a +1/+1 counter on this creature, it gains menace until end of turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/112_Consortium Inquisitor.png" num="112">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/111_Consortium Inquisitor.png" num="111">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4520,7 +4520,7 @@ Whenever one or more artifact creatures and/or equipped creatures you control de
 		<card>
 			<name>Lune&apos;s Rescue</name>
 			<text>Target creature you control gains protection from spells, abilities, and creatures your opponents control until end of turn. (It can&apos;t be blocked, targeted or dealt damage by spells, abilities, and creatures your opponents control until end of turn.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/75_Lune&apos;s Rescue.png" num="75">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/74_Lune&apos;s Rescue.png" num="74">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4536,7 +4536,7 @@ Whenever one or more artifact creatures and/or equipped creatures you control de
 		<card>
 			<name>Dutiful Lackey</name>
 			<text>When this creature enters, choose a number, spells you cast with mana value equal to the chosen number cost {1} less to cast this turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/68_Dutiful Lackey.png" num="68">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/67_Dutiful Lackey.png" num="67">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4675,7 +4675,7 @@ Artifact creatures you control with mana value greater than four get +2/+2.</tex
 			<name>Sharding Sphinx</name>
 			<text>Flying
 Whenever an artifact creature you control deals combat damage to a player, you may create a 1/1 blue Thopter artifact creature token with flying.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/89_Sharding Sphinx.png" num="89">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/88_Sharding Sphinx.png" num="88">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4693,7 +4693,7 @@ Whenever an artifact creature you control deals combat damage to a player, you m
 			<name>Warhammer of the Like</name>
 			<text>Equipped creature gets +5/+5 and has vigilance and trample.
 Equip {7}. This ability costs {X} less to activate, where X is the greatest number of nonland permanents you control that share a mana value.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/301_Warhammer of the Like.png" num="301">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/302_Warhammer of the Like.png" num="302">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4709,7 +4709,7 @@ Equip {7}. This ability costs {X} less to activate, where X is the greatest numb
 			<text>Recast {5}{BG}
 When this creature enters, create a Junk token.
 This creatures recast ability costs {X} less to activate, where X is the number of permanent&apos;s you&apos;ve sacrificed this turn.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/138_Scrap Shaman.png" num="138">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/137_Scrap Shaman.png" num="137">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4778,7 +4778,7 @@ Whenever you cast a spell with the chosen name, choose a new card name.</text>
 		<card>
 			<name>Strobe-Knight Devestator</name>
 			<text>Symmetry 4 — When this creature enters, if you control four or more nonland permanents that share a mana value, exile all creatures you don&apos;t control, return them to the battlefield under their owners control at the end of your next turn.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/39_Strobe-Knight Devestator.png" num="39">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/38_Strobe-Knight Devestator.png" num="38">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4812,7 +4812,7 @@ Whenever you cast a spell with the chosen name, choose a new card name.</text>
 		<card>
 			<name>Gravelooper</name>
 			<text>At the beginning of your upkeep, if you don&apos;t control a skeleton, exile target creature card from your graveyard. When you do, create a 1/1 black Skeleton creature token. When that creature dies, return the exiled card to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/121_Gravelooper.png" num="121">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/120_Gravelooper.png" num="120">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4878,7 +4878,7 @@ When this enchantment enters, creatures you control gain your choice of menace o
 		<card>
 			<name>Pattern Splicer</name>
 			<text>Symmetry 4 — As long as you control five or more nonland permanents that share a mana value, those permanents other than this creature each have hexproof and flying.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/81_Pattern Splicer.png" num="81">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/80_Pattern Splicer.png" num="80">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4948,7 +4948,7 @@ When this creature enters, draw a card. If it was cast from exile, instead draw 
 		<card>
 			<name>Stop-Knight</name>
 			<text>Symmetry 2 — When this creature enters, if you control two or more nonland permanents that share a mana value, exile target creature you don&apos;t control until this creature leaves the battlefield.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/36_Stop-Knight.png" num="36">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/35_Stop-Knight.png" num="35">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5041,7 +5041,7 @@ When this creature enters, create a paradox (Choose one, the unchosen effect hap
 			<text>Flying
 Whenever this creature becomes the target of a spell an opponent controls, sacrifice it.
 When this creature leaves the battlefield, create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/124_Hypothetical Nightmare.png" num="124">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/123_Hypothetical Nightmare.png" num="123">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5098,7 +5098,7 @@ Creatures with inversion counters on them have mana value 6.</text>
 			<name>Junkgorging Automaton</name>
 			<text>Menace
 Whenever this creature attacks, you may sacrifice an artifact or creature, when you do, put a +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/128_Junkgorging Automaton.png" num="128">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/127_Junkgorging Automaton.png" num="127">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5136,7 +5136,7 @@ Whenever you cast a spell with mana value equal to this creatures power, double 
 			<text>Recast {3}{U}{U}
 Whenever you cast this spell from exile, copy it, the copy doesn&apos;t have any abilities.
 Whenever this creature attacks, for each other creature you control with the same name as it, draw a card.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/78_Mirageweaver Serpent.png" num="78">XEX</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/77_Mirageweaver Serpent.png" num="77">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5223,7 +5223,7 @@ When this creature enters, gain life equal to the number of other nonland perman
 		<card>
 			<name>The Inversion Zone</name>
 			<text>At the beginning of combat on your turn, switch the base power and mana value of each creature you control until end of turn.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/73_The Inversion Zone.png" num="73">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/72_The Inversion Zone.png" num="72">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5288,7 +5288,7 @@ When Xalax enters, look at the top six cards of your library, put one of them in
 				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>1/4</pt>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5296,7 +5296,7 @@ When Xalax enters, look at the top six cards of your library, put one of them in
 			<name>Mirror Spire</name>
 			<text>{T}: Add {C}.
 {X}: This land becomes a copy of target creature you control until end of turn except it has base power and toughness X and mana value X.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/304_Mirror Spire.png" num="304">XEX</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/305_Mirror Spire.png" num="305">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5312,7 +5312,7 @@ When Xalax enters, look at the top six cards of your library, put one of them in
 			<text>Crystal Jungle enters tapped.
 When Crystal Jungle leaves the battlefield, draw a card.
 {T}: Add {G} or {U}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/307_Crystal Jungle.png" num="307">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/308_Crystal Jungle.png" num="308">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5329,7 +5329,7 @@ When Crystal Jungle leaves the battlefield, draw a card.
 			<text>Temporal Forge enters tapped.
 When Temporal Forge leaves the battlefield, draw a card.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/314_Temporal Forge.png" num="314">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/315_Temporal Forge.png" num="315">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5346,7 +5346,7 @@ When Temporal Forge leaves the battlefield, draw a card.
 			<text>Whenever you sacrifice a permanent, create a paradox, this ability triggers only once each turn (Choose one, the unchosen effect happens at the beginning of your next upkeep.)
 — Each opponent loses 1 life and you gain 1 life.
 — Target creature gains menace until end of turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/111_Consortium Haruspex.png" num="111">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/110_Consortium Haruspex.png" num="110">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5364,7 +5364,7 @@ When Temporal Forge leaves the battlefield, draw a card.
 			<name>Change of Perspective</name>
 			<text>Target creature can&apos;t be blocked this turn.
 Symmetry 2 — If you control two or more nonland permanents that share a mana value, whenever that creature deals combat damage to a player this turn, draw two cards.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/57_Change of Perspective.png" num="57">XEX</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/56_Change of Perspective.png" num="56">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5380,7 +5380,7 @@ Symmetry 2 — If you control two or more nonland permanents that share a mana v
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/315_Plains.png" num="315">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/316_Plains.png" num="316">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5395,7 +5395,7 @@ Symmetry 2 — If you control two or more nonland permanents that share a mana v
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/319_Forest.png" num="319">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/320_Forest.png" num="320">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5410,7 +5410,7 @@ Symmetry 2 — If you control two or more nonland permanents that share a mana v
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/316_Island.png" num="316">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/317_Island.png" num="317">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5425,7 +5425,7 @@ Symmetry 2 — If you control two or more nonland permanents that share a mana v
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/317_Swamp.png" num="317">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/318_Swamp.png" num="318">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5440,7 +5440,7 @@ Symmetry 2 — If you control two or more nonland permanents that share a mana v
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/318_Mountain.png" num="318">XEX</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/319_Mountain.png" num="319">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5489,7 +5489,7 @@ Symmetry 2 — If you control two or more nonland permanents that share a mana v
 		<card>
 			<name>Counterbalance</name>
 			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/61_Counterbalance.png" num="61">XEX</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/60_Counterbalance.png" num="60">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5524,7 +5524,7 @@ Symmetry 2 — If you control two or more nonland permanents that share a mana v
 			<text>Equipped creature gets +2/+2 and has protection from black and from red.
 Whenever equipped creature deals combat damage to a player, destroy up to one target planeswalker and up to one target artifact.
 Equip {2}</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/298_Sword of Sinew and Steel.png" num="298">XEX</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/299_Sword of Sinew and Steel.png" num="299">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5550,6 +5550,22 @@ Equip {2}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sword of Reality and Illusion</name>
+			<text>Equipped creature gets +2/+2 and has protection from artifacts and enchantments.
+Whenever equipped creature deals combat damage to a player, its mana value becomes 3, then draw a card for each permanent you control with mana value equal to 3.
+Equip {2}</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/298_Sword of Reality and Illusion.png" num="298">XEX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
