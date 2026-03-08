@@ -1523,7 +1523,7 @@
 		{
 			"name": "Constructive Interference",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
 			"collector_number": "209",
 			"image_uris": {
@@ -1834,7 +1834,7 @@
 			"name": "New Use",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "130",
 			"image_uris": {
 				"en": "https://LeoDreyfuss.github.io/sets/XEX-files/img/130_New Use.png"

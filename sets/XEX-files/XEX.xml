@@ -5,7 +5,7 @@
 			<name>XEX</name>
 			<longname>Xerex (Name pending)</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-02</releasedate>
+			<releasedate>2026-03-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -851,7 +851,7 @@ Equip {1}</text>
 		</card>
 		<card>
 			<name>The Worldsoul Anchor</name>
-			<text>{3}, {T}: Target artifact you control, it becomes a 4/4 creature in addition to its other types until end of turn. If this artifact is equipped to a creature, instead choose any number of target artifacts you control.
+			<text>{3}, {T}: Choose target artifact you control, it becomes a 4/4 creature in addition to its other types until end of turn. If this artifact is equipped to a creature, instead choose any number of target artifacts you control.
 Equip {7}</text>
 			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/152_The Worldsoul Anchor.png" num="152">XEX</set>
 			<prop>
@@ -905,7 +905,7 @@ Haste
 		<card>
 			<name>Unnatural Order</name>
 			<text>Untap target creature, it gains indestructible until end of turn.
-Symmetry 2 — If you control three or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control.</text>
+Symmetry 2 — If you control two or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control.</text>
 			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/47_Unnatural Order.png" num="47">XEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1262,7 +1262,7 @@ When Fungal Colony leaves the battlefield, draw a card.
 		<card>
 			<name>Equalizing Engine</name>
 			<text>{2}: Add one mana of any color.
-Symmetry 3 — {T}: Add one mana of any color. Activate this ability only if you control three or more nonland permanents that share a mana value.</text>
+Symmetry 2 — {T}: Add one mana of any color. Activate this ability only if you control three or more nonland permanents that share a mana value.</text>
 			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/292_Equalizing Engine.png" num="292">XEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1497,7 +1497,7 @@ Whenever you cast an artifact spell, you may sacrifice this creature, if you do,
 			<name>Mindmelder</name>
 			<text>Pay 1 life: Equipped creature gets +1/-1 until end of turn.
 Whenever this creature or equipped creature dies, draw 2 cards.
-Equip {1}{B}</text>
+Reconfigure {1}{B}</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/128_Mindmelder.png" num="128">XEX</set>
 			<prop>
 				<layout>normal</layout>
@@ -2651,15 +2651,15 @@ Tokens you control have &quot;{T}: Add one mana of any color.&quot;</text>
 		</card>
 		<card>
 			<name>Constructive Interference</name>
-			<text>Tap two untapped artifacts and/or tokens you control: Tap target nonland permanent.</text>
+			<text>Tap three untapped artifacts and/or tokens you control: Target creature you control fights up to one target creature you don&apos;t control. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/209_Constructive Interference.png" num="209">XEX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -3200,8 +3200,8 @@ Exile target creature or artifact.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>B</manacost>
 				<cmc>1</cmc>
 				<colors>B</colors>
@@ -3857,7 +3857,7 @@ Reconfigure {1}</text>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5554,7 +5554,7 @@ Equip {2}</text>
 		<card>
 			<name>Sword of Reality and Illusion</name>
 			<text>Equipped creature gets +2/+2 and has protection from artifacts and enchantments.
-Whenever equipped creature deals combat damage to a player, its mana value becomes 3, then draw a card for each permanent you control with mana value equal to 3.
+Whenever equipped creature deals combat damage to a player, untap all artifacts you control, then scry 4.
 Equip {2}</text>
 			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/XEX-files/img/298_Sword of Reality and Illusion.png" num="298">XEX</set>
 			<prop>

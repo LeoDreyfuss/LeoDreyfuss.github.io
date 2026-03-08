@@ -877,7 +877,7 @@
             "number": 152,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "{3}, {T}: Target artifact you control, it becomes a 4/4 creature in addition to its other types until end of turn. If this artifact is equipped to a creature, instead choose any number of target artifacts you control.\nEquip {7}",
+            "rules_text": "{3}, {T}: Choose target artifact you control, it becomes a 4/4 creature in addition to its other types until end of turn. If this artifact is equipped to a creature, instead choose any number of target artifacts you control.\nEquip {7}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -931,7 +931,7 @@
             "number": 47,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Untap target creature, it gains indestructible until end of turn.\n[i]Symmetry 2[/i] \u2014 If you control three or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control.",
+            "rules_text": "Untap target creature, it gains indestructible until end of turn.\n[i]Symmetry 2[/i] \u2014 If you control two or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control.",
             "flavor_text": "[i]Lune grew up on Xerex, so a place where the world behaved normally unnerved her.[/i]",
             "pt": "",
             "special_text": "",
@@ -1173,7 +1173,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "Alexandra Petruk",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Control Room",
@@ -1191,7 +1191,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Strobe-Knight's Armory",
@@ -1209,7 +1209,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Automated Farmland",
@@ -1227,7 +1227,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Experiment Chambers",
@@ -1245,7 +1245,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Interdimensional Space",
@@ -1263,7 +1263,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "Ryky",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Molten Scrapyard",
@@ -1281,7 +1281,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "Alexandra Petruk",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Fungal Colony",
@@ -1299,7 +1299,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "Hasumi Yuki",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Equalizing Engine",
@@ -1309,7 +1309,7 @@
             "number": 292,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "{2}: Add one mana of any color.\n[i]Symmetry 3[/i] \u2014 {T}: Add one mana of any color. Activate this ability only if you control three or more nonland permanents that share a mana value.",
+            "rules_text": "{2}: Add one mana of any color.\n[i]Symmetry 2[/i] \u2014 {T}: Add one mana of any color. Activate this ability only if you control three or more nonland permanents that share a mana value.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1561,7 +1561,7 @@
             "number": 128,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Pay 1 life: Equipped creature gets +1/-1 until end of turn.\nWhenever this creature or equipped creature dies, draw 2 cards.\nEquip {1}{B}",
+            "rules_text": "Pay 1 life: Equipped creature gets +1/-1 until end of turn.\nWhenever this creature or equipped creature dies, draw 2 cards.\nReconfigure {1}{B}",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2748,8 +2748,8 @@
             "type": "Enchantment",
             "number": 209,
             "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "Tap two untapped artifacts and/or tokens you control: Tap target nonland permanent.",
+            "cost": "{3}{G}",
+            "rules_text": "Tap three untapped artifacts and/or tokens you control: Target creature you control fights up to one target creature you don't control. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3303,7 +3303,7 @@
             "card_name": "New Use",
             "color": "B",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 130,
             "color_identity": "B",
             "cost": "{B}",
@@ -3975,7 +3975,7 @@
             "cost": "{1}{B}",
             "rules_text": "When this creature dies, create a Junk token.",
             "flavor_text": "[i][/i]",
-            "pt": "1/2",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "XEX",
@@ -5493,7 +5493,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "Kristy Glas",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Temporal Forge",
@@ -5511,7 +5511,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "Deltakosh",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Consortium Haruspex",
@@ -5565,7 +5565,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Forest",
@@ -5583,7 +5583,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Island",
@@ -5601,7 +5601,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Swamp",
@@ -5619,7 +5619,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Mountain",
@@ -5637,7 +5637,7 @@
             "set": "XEX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Tezzeret, False Worldsoul",
@@ -5755,7 +5755,7 @@
             "number": 298,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Equipped creature gets +2/+2 and has protection from artifacts and enchantments.\nWhenever equipped creature deals combat damage to a player, its mana value becomes 3, then draw a card for each permanent you control with mana value equal to 3.\nEquip {2}",
+            "rules_text": "Equipped creature gets +2/+2 and has protection from artifacts and enchantments.\nWhenever equipped creature deals combat damage to a player, untap all artifacts you control, then scry 4.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5766,5 +5766,5 @@
             "notes": ""
         }
     ],
-    "version": 5
+    "version": 6
 }

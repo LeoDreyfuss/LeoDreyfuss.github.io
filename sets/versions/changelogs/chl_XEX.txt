@@ -1,4 +1,69 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+The Worldsoul Anchor
+rules_text: {3}, {T}: Target artifact you control, it becomes a 4/4 creature in addition to its other types until end of turn. If this artifact is equipped to a creature, instead choose any number of target artifacts you control.
+Equip {7} => {3}, {T}: Choose target artifact you control, it becomes a 4/4 creature in addition to its other types until end of turn. If this artifact is equipped to a creature, instead choose any number of target artifacts you control.
+Equip {7}
+
+Unnatural Order
+rules_text: Untap target creature, it gains indestructible until end of turn.
+[i]Symmetry 2[/i] — If you control three or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control. => Untap target creature, it gains indestructible until end of turn.
+[i]Symmetry 2[/i] — If you control two or more nonland permanents that share a mana value, put a +1/+1 counter on target creature you control.
+
+Sky Meadows
+
+Control Room
+
+Strobe-Knight's Armory
+
+Automated Farmland
+
+Experiment Chambers
+
+Interdimensional Space
+
+Molten Scrapyard
+
+Fungal Colony
+
+Equalizing Engine
+rules_text: {2}: Add one mana of any color.
+[i]Symmetry 3[/i] — {T}: Add one mana of any color. Activate this ability only if you control three or more nonland permanents that share a mana value. => {2}: Add one mana of any color.
+[i]Symmetry 2[/i] — {T}: Add one mana of any color. Activate this ability only if you control three or more nonland permanents that share a mana value.
+
+Mindmelder
+rules_text: Pay 1 life: Equipped creature gets +1/-1 until end of turn.
+Whenever this creature or equipped creature dies, draw 2 cards.
+Equip {1}{B} => Pay 1 life: Equipped creature gets +1/-1 until end of turn.
+Whenever this creature or equipped creature dies, draw 2 cards.
+Reconfigure {1}{B}
+
+Constructive Interference
+cost: {2}{G} => {3}{G}
+rules_text: Tap two untapped artifacts and/or tokens you control: Tap target nonland permanent. => Tap three untapped artifacts and/or tokens you control: Target creature you control fights up to one target creature you don't control. Activate only as a sorcery.
+
+New Use
+type: Instant => Sorcery
+
+Soulforge Automaton
+pt: 1/2 => 2/1
+
+Crystal Jungle
+
+Temporal Forge
+
+Sword of Reality and Illusion
+rules_text: Equipped creature gets +2/+2 and has protection from artifacts and enchantments.
+Whenever equipped creature deals combat damage to a player, its mana value becomes 3, then draw a card for each permanent you control with mana value equal to 3.
+Equip {2} => Equipped creature gets +2/+2 and has protection from artifacts and enchantments.
+Whenever equipped creature deals combat damage to a player, untap all artifacts you control, then scry 4.
+Equip {2}
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Sword of Reality and Illusion added.
