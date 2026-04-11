@@ -1,0 +1,1673 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Gigantersaurus",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/63_Gigantersaurus.png"
+			}
+		},
+		{
+			"name": "Time Dilate",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/31_Time Dilate.png"
+			}
+		},
+		{
+			"name": "Gitaxian Research",
+			"rarity": "uncommon",
+			"mana_cost": "{U/P}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/19_Gitaxian Research.png"
+			}
+		},
+		{
+			"name": "Aftershock",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/44_Aftershock.png"
+			}
+		},
+		{
+			"name": "Stone Downpour",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/54_Stone Downpour.png"
+			}
+		},
+		{
+			"name": "Enclosure Priest",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Priest",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/3_Enclosure Priest.png"
+			}
+		},
+		{
+			"name": "Kor Wayshaper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/W}",
+			"type": "Creature — Kor Scout",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/78_Kor Wayshaper.png"
+			}
+		},
+		{
+			"name": "Hogaak, the Unending",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/75_Hogaak, the Unending.png"
+			}
+		},
+		{
+			"name": "Archon of the Spheres",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Creature — Phyrexian Archon",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/2_Archon of the Spheres.png"
+			}
+		},
+		{
+			"name": "Scion of Karn",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/93_Scion of Karn.png"
+			}
+		},
+		{
+			"name": "Alhammarret's Intuition",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/16_Alhammarret's Intuition.png"
+			}
+		},
+		{
+			"name": "Temur Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island Mountain",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/104_Temur Triome.png"
+			}
+		},
+		{
+			"name": "Sultai Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest Island",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/103_Sultai Triome.png"
+			}
+		},
+		{
+			"name": "Mardu Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains Swamp",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/100_Mardu Triome.png"
+			}
+		},
+		{
+			"name": "Jeskai Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain Plains",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/98_Jeskai Triome.png"
+			}
+		},
+		{
+			"name": "Abzan Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp Forest",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/94_Abzan Triome.png"
+			}
+		},
+		{
+			"name": "Tibalt, Cruel Sadist",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "43",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/43_Tibalt, Cruel Sadist_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/43_Tibalt, Cruel Sadist_front.png"
+			}
+		},
+		{
+			"name": "Recast",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/29_Recast.png"
+			}
+		},
+		{
+			"name": "Storm Fiend",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/55_Storm Fiend.png"
+			}
+		},
+		{
+			"name": "Prayer to Sveylun",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/26_Prayer to Sveylun.png"
+			}
+		},
+		{
+			"name": "Prayer to Rhonas",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/65_Prayer to Rhonas.png"
+			}
+		},
+		{
+			"name": "Prayer to Purphuros",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/52_Prayer to Purphuros.png"
+			}
+		},
+		{
+			"name": "Prayer to Egon",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/40_Prayer to Egon.png"
+			}
+		},
+		{
+			"name": "Prayer to Avacyn",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/11_Prayer to Avacyn.png"
+			}
+		},
+		{
+			"name": "Grixis Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp Mountain",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/97_Grixis Triome.png"
+			}
+		},
+		{
+			"name": "Esper Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island Swamp",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/96_Esper Triome.png"
+			}
+		},
+		{
+			"name": "Naya Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest Plains",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/101_Naya Triome.png"
+			}
+		},
+		{
+			"name": "Bant Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains Island",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/95_Bant Triome.png"
+			}
+		},
+		{
+			"name": "Jund Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/99_Jund Triome.png"
+			}
+		},
+		{
+			"name": "Mox Pyrite",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/86_Mox Pyrite.png"
+			}
+		},
+		{
+			"name": "Mox Charcoal",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/84_Mox Charcoal.png"
+			}
+		},
+		{
+			"name": "Mox Bismuth",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/83_Mox Bismuth.png"
+			}
+		},
+		{
+			"name": "Mox Roselite",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/88_Mox Roselite.png"
+			}
+		},
+		{
+			"name": "Mox Quartz",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/87_Mox Quartz.png"
+			}
+		},
+		{
+			"name": "Mox Amethyst",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/82_Mox Amethyst.png"
+			}
+		},
+		{
+			"name": "Mox Obsidian",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/85_Mox Obsidian.png"
+			}
+		},
+		{
+			"name": "Mox Topaz",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/89_Mox Topaz.png"
+			}
+		},
+		{
+			"name": "Mox Turquoise",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/91_Mox Turquoise.png"
+			}
+		},
+		{
+			"name": "Mox Tourmaline",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/90_Mox Tourmaline.png"
+			}
+		},
+		{
+			"name": "Dredge the Depths",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/61_Dredge the Depths.png"
+			}
+		},
+		{
+			"name": "From the Grave",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/36_From the Grave.png"
+			}
+		},
+		{
+			"name": "Phyrexian Gladiator",
+			"rarity": "common",
+			"mana_cost": "{6}{B}",
+			"type": "Creature — Phyrexian Warrior",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/39_Phyrexian Gladiator.png"
+			}
+		},
+		{
+			"name": "Fomori Rallier",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Giant Soldier",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/48_Fomori Rallier.png"
+			}
+		},
+		{
+			"name": "Simian Spirit Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ape Spirit",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/53_Simian Spirit Guide.png"
+			}
+		},
+		{
+			"name": "Elvish Spirit Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Spirit",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/62_Elvish Spirit Guide.png"
+			}
+		},
+		{
+			"name": "Merrow Spirit Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Spirit",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/22_Merrow Spirit Guide.png"
+			}
+		},
+		{
+			"name": "Skeletal Spirit Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Spirit",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/42_Skeletal Spirit Guide.png"
+			}
+		},
+		{
+			"name": "Angelic Spirit Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/1_Angelic Spirit Guide.png"
+			}
+		},
+		{
+			"name": "Mana Warp",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/50_Mana Warp.png"
+			}
+		},
+		{
+			"name": "Birgi's Harbinger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/45_Birgi's Harbinger.png"
+			}
+		},
+		{
+			"name": "Polymorphists Caravan",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/25_Polymorphists Caravan.png"
+			}
+		},
+		{
+			"name": "Immutable Plans",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/20_Immutable Plans.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/72_.png"
+			}
+		},
+		{
+			"name": "Gate of Benedictions",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/7_Gate of Benedictions.png"
+			}
+		},
+		{
+			"name": "Dark Blessing",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/34_Dark Blessing.png"
+			}
+		},
+		{
+			"name": "Hectos, Titan of Mana's Roil",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Elder Giant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/74_Hectos, Titan of Mana's Roil.png"
+			}
+		},
+		{
+			"name": "Tempus, Titan of Time's Ruin",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Elder Giant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/77_Tempus, Titan of Time's Ruin.png"
+			}
+		},
+		{
+			"name": "Griselbrand, Unsealed",
+			"rarity": "mythic",
+			"mana_cost": "{7}{B}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/37_Griselbrand, Unsealed.png"
+			}
+		},
+		{
+			"name": "Stormbrain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/30_Stormbrain.png"
+			}
+		},
+		{
+			"name": "Ashiok, Dream Seeker",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "17",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/17_Ashiok, Dream Seeker_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/17_Ashiok, Dream Seeker_front.png"
+			}
+		},
+		{
+			"name": "Calix, Fate-Sworn",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "60",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/60_Calix, Fate-Sworn_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/60_Calix, Fate-Sworn_front.png"
+			}
+		},
+		{
+			"name": "Narset, Ojutai's Faithful",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "9",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/9_Narset, Ojutai's Faithful_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/9_Narset, Ojutai's Faithful_front.png"
+			}
+		},
+		{
+			"name": "Ulamog's Wake",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/105_Ulamog's Wake.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/14_.png"
+			}
+		},
+		{
+			"name": "Oblivion Signet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/10_Oblivion Signet.png"
+			}
+		},
+		{
+			"name": "Mage-Ring Guard",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/21_Mage-Ring Guard.png"
+			}
+		},
+		{
+			"name": "Stone Guardian",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/12_Stone Guardian.png"
+			}
+		},
+		{
+			"name": "World Ooze's Trail",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/71_World Ooze's Trail.png"
+			}
+		},
+		{
+			"name": "Bring Back",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/33_Bring Back.png"
+			}
+		},
+		{
+			"name": "Sylvan Guardian",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/68_Sylvan Guardian.png"
+			}
+		},
+		{
+			"name": "Consulate Informant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/18_Consulate Informant.png"
+			}
+		},
+		{
+			"name": "Windswept Heath",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/114_Windswept Heath.png"
+			}
+		},
+		{
+			"name": "Polluted Delta",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/111_Polluted Delta.png"
+			}
+		},
+		{
+			"name": "Misty Rainforest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/110_Misty Rainforest.png"
+			}
+		},
+		{
+			"name": "Scalding Tarn",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/112_Scalding Tarn.png"
+			}
+		},
+		{
+			"name": "Arid Mesa",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/106_Arid Mesa.png"
+			}
+		},
+		{
+			"name": "Bloodstained Mire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/107_Bloodstained Mire.png"
+			}
+		},
+		{
+			"name": "Flooded Strand",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/108_Flooded Strand.png"
+			}
+		},
+		{
+			"name": "Marsh Flats",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/109_Marsh Flats.png"
+			}
+		},
+		{
+			"name": "Wooded Foothills",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/115_Wooded Foothills.png"
+			}
+		},
+		{
+			"name": "Verdant Catacombs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/113_Verdant Catacombs.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/124_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/125_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/119_Island.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/118_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/121_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/120_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/123_Mountain.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/122_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/116_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/117_Plains.png"
+			}
+		},
+		{
+			"name": "Fear of War",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/4_Fear of War.png"
+			}
+		},
+		{
+			"name": "Manachaser",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/51_Manachaser.png"
+			}
+		},
+		{
+			"name": "Overwhelming Will",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/24_Overwhelming Will.png"
+			}
+		},
+		{
+			"name": "Storm Strike",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/56_Storm Strike.png"
+			}
+		},
+		{
+			"name": "Verdant Overflow",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/69_Verdant Overflow.png"
+			}
+		},
+		{
+			"name": "Wild Ritual",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/70_Wild Ritual.png"
+			}
+		},
+		{
+			"name": "Bloodrage",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/73_Bloodrage.png"
+			}
+		},
+		{
+			"name": "Sanctum of Eternity",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/67_Sanctum of Eternity.png"
+			}
+		},
+		{
+			"name": "Living Leyline",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/8_Living Leyline.png"
+			}
+		},
+		{
+			"name": "Dismember",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/P}{B/P}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/35_Dismember.png"
+			}
+		},
+		{
+			"name": "Prohibit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/P}{U/P}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/28_Prohibit.png"
+			}
+		},
+		{
+			"name": "Engulf",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/P}{R/P}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/47_Engulf.png"
+			}
+		},
+		{
+			"name": "Reclaim",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/P}{G/P}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/66_Reclaim.png"
+			}
+		},
+		{
+			"name": "Forget",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/P}{W/P}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/6_Forget.png"
+			}
+		},
+		{
+			"name": "Muldrotha, Rotbloom",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Elemental Avatar",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/76_Muldrotha, Rotbloom.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creatture — Human Artificer",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/13_.png"
+			}
+		},
+		{
+			"name": "Rotting Baloth",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Zombie Beast",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/41_Rotting Baloth.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/15_.png"
+			}
+		},
+		{
+			"name": "Karn, Father of Machines",
+			"rarity": "mythic",
+			"mana_cost": "{9}",
+			"type": "Legendary Artifact Creature — Phyrexian Golem",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/81_Karn, Father of Machines.png"
+			}
+		},
+		{
+			"name": "Forced Prayer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/5_Forced Prayer.png"
+			}
+		},
+		{
+			"name": "Ring of Fire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/92_Ring of Fire.png"
+			}
+		},
+		{
+			"name": "Thran Dragon Engine",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/57_Thran Dragon Engine.png"
+			}
+		},
+		{
+			"name": "Monoist Mutilator",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/38_Monoist Mutilator.png"
+			}
+		},
+		{
+			"name": "Bloodsoaked Lotus",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/80_Bloodsoaked Lotus.png"
+			}
+		},
+		{
+			"name": "Immersturm Conqueror",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/49_Immersturm Conqueror.png"
+			}
+		},
+		{
+			"name": "Nyxbloom Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment Creature — Dryad",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/64_Nyxbloom Prodigy.png"
+			}
+		},
+		{
+			"name": "Xenagos, Violent Hedonist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Satyr",
+			"collector_number": "59",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/59_Xenagos, Violent Hedonist_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/59_Xenagos, Violent Hedonist_front.png"
+			}
+		},
+		{
+			"name": "Black Lotus",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/79_Black Lotus.png"
+			}
+		},
+		{
+			"name": "Mind Accelerant",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/23_Mind Accelerant.png"
+			}
+		},
+		{
+			"name": "Voltaic Gamble",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/58_Voltaic Gamble.png"
+			}
+		},
+		{
+			"name": "Endless Windfall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/46_Endless Windfall.png"
+			}
+		},
+		{
+			"name": "Phyrexian Monolith",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/102_Phyrexian Monolith.png"
+			}
+		},
+		{
+			"name": "Violent Twister",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/32_Violent Twister.png"
+			}
+		},
+		{
+			"name": "Precognize",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/27_Precognize.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Gigantersaurus
+	2 Time Dilate
+	2 Stone Downpour
+	2 Enclosure Priest
+	1 Hogaak, the Unending
+	2 Archon of the Spheres
+	2 Scion of Karn
+	2 Temur Triome
+	2 Sultai Triome
+	2 Mardu Triome
+	2 Jeskai Triome
+	2 Abzan Triome
+	1 Tibalt, Cruel Sadist
+	2 Recast
+	2 Prayer to Sveylun
+	2 Prayer to Rhonas
+	2 Prayer to Purphuros
+	2 Prayer to Egon
+	2 Prayer to Avacyn
+	2 Grixis Triome
+	2 Esper Triome
+	2 Naya Triome
+	2 Bant Triome
+	2 Jund Triome
+	2 Mox Pyrite
+	2 Mox Charcoal
+	2 Mox Bismuth
+	2 Mox Roselite
+	2 Mox Quartz
+	2 Mox Amethyst
+	2 Mox Obsidian
+	2 Mox Topaz
+	2 Mox Turquoise
+	2 Mox Tourmaline
+	2 Polymorphists Caravan
+	2 Dark Blessing
+	1 Hectos, Titan of Mana's Roil
+	1 Tempus, Titan of Time's Ruin
+	1 Griselbrand, Unsealed
+	1 Ashiok, Dream Seeker
+	1 Calix, Fate-Sworn
+	1 Narset, Ojutai's Faithful
+	2 Sylvan Guardian
+	2 Manachaser
+	2 Wild Ritual
+	2 Sanctum of Eternity
+	2 Living Leyline
+	2 Muldrotha, Rotbloom
+	2 
+	1 Karn, Father of Machines
+	2 Bloodsoaked Lotus
+	2 Nyxbloom Prodigy
+	1 Xenagos, Violent Hedonist
+	1 Black Lotus
+	2 Phyrexian Monolith
+	2 Violent Twister
+[uncommon(3)]
+	4 Gitaxian Research
+	4 Aftershock
+	4 Kor Wayshaper
+	4 Alhammarret's Intuition
+	4 From the Grave
+	4 Immutable Plans
+	4 
+	4 Gate of Benedictions
+	4 Stormbrain
+	4 Ulamog's Wake
+	4 
+	4 Oblivion Signet
+	4 Fear of War
+	4 Overwhelming Will
+	4 Bloodrage
+	4 Dismember
+	4 Prohibit
+	4 Engulf
+	4 Reclaim
+	4 Forget
+	4 Rotting Baloth
+	4 Forced Prayer
+	4 Ring of Fire
+	4 Immersturm Conqueror
+	4 Mind Accelerant
+	4 Endless Windfall
+[common(6)]
+	8 Storm Fiend
+	8 Dredge the Depths
+	8 Phyrexian Gladiator
+	8 Fomori Rallier
+	8 Simian Spirit Guide
+	8 Elvish Spirit Guide
+	8 Merrow Spirit Guide
+	8 Skeletal Spirit Guide
+	8 Angelic Spirit Guide
+	8 Mana Warp
+	8 Birgi's Harbinger
+	8 Mage-Ring Guard
+	8 Stone Guardian
+	8 World Ooze's Trail
+	8 Bring Back
+	8 Consulate Informant
+	8 Windswept Heath
+	8 Polluted Delta
+	8 Misty Rainforest
+	8 Scalding Tarn
+	8 Arid Mesa
+	8 Bloodstained Mire
+	8 Flooded Strand
+	8 Marsh Flats
+	8 Wooded Foothills
+	8 Verdant Catacombs
+	8 Storm Strike
+	8 Verdant Overflow
+	8 
+	8 Thran Dragon Engine
+	8 Monoist Mutilator
+	8 Voltaic Gamble
+	8 Precognize
+[common | masterpiece(1)]
+	8 Storm Fiend
+	8 Dredge the Depths
+	8 Phyrexian Gladiator
+	8 Fomori Rallier
+	8 Simian Spirit Guide
+	8 Elvish Spirit Guide
+	8 Merrow Spirit Guide
+	8 Skeletal Spirit Guide
+	8 Angelic Spirit Guide
+	8 Mana Warp
+	8 Birgi's Harbinger
+	8 Mage-Ring Guard
+	8 Stone Guardian
+	8 World Ooze's Trail
+	8 Bring Back
+	8 Consulate Informant
+	8 Windswept Heath
+	8 Polluted Delta
+	8 Misty Rainforest
+	8 Scalding Tarn
+	8 Arid Mesa
+	8 Bloodstained Mire
+	8 Flooded Strand
+	8 Marsh Flats
+	8 Wooded Foothills
+	8 Verdant Catacombs
+	8 Storm Strike
+	8 Verdant Overflow
+	8 
+	8 Thran Dragon Engine
+	8 Monoist Mutilator
+	8 Voltaic Gamble
+	8 Precognize
+[foil(1)]
+	1 Gigantersaurus
+	2 Time Dilate
+	6 Gitaxian Research
+	6 Aftershock
+	2 Stone Downpour
+	2 Enclosure Priest
+	6 Kor Wayshaper
+	1 Hogaak, the Unending
+	2 Archon of the Spheres
+	2 Scion of Karn
+	6 Alhammarret's Intuition
+	2 Temur Triome
+	2 Sultai Triome
+	2 Mardu Triome
+	2 Jeskai Triome
+	2 Abzan Triome
+	1 Tibalt, Cruel Sadist
+	2 Recast
+	12 Storm Fiend
+	2 Prayer to Sveylun
+	2 Prayer to Rhonas
+	2 Prayer to Purphuros
+	2 Prayer to Egon
+	2 Prayer to Avacyn
+	2 Grixis Triome
+	2 Esper Triome
+	2 Naya Triome
+	2 Bant Triome
+	2 Jund Triome
+	2 Mox Pyrite
+	2 Mox Charcoal
+	2 Mox Bismuth
+	2 Mox Roselite
+	2 Mox Quartz
+	2 Mox Amethyst
+	2 Mox Obsidian
+	2 Mox Topaz
+	2 Mox Turquoise
+	2 Mox Tourmaline
+	12 Dredge the Depths
+	6 From the Grave
+	12 Phyrexian Gladiator
+	12 Fomori Rallier
+	12 Simian Spirit Guide
+	12 Elvish Spirit Guide
+	12 Merrow Spirit Guide
+	12 Skeletal Spirit Guide
+	12 Angelic Spirit Guide
+	12 Mana Warp
+	12 Birgi's Harbinger
+	2 Polymorphists Caravan
+	6 Immutable Plans
+	6 
+	6 Gate of Benedictions
+	2 Dark Blessing
+	1 Hectos, Titan of Mana's Roil
+	1 Tempus, Titan of Time's Ruin
+	1 Griselbrand, Unsealed
+	6 Stormbrain
+	1 Ashiok, Dream Seeker
+	1 Calix, Fate-Sworn
+	1 Narset, Ojutai's Faithful
+	6 Ulamog's Wake
+	6 
+	6 Oblivion Signet
+	12 Mage-Ring Guard
+	12 Stone Guardian
+	12 World Ooze's Trail
+	12 Bring Back
+	2 Sylvan Guardian
+	12 Consulate Informant
+	12 Windswept Heath
+	12 Polluted Delta
+	12 Misty Rainforest
+	12 Scalding Tarn
+	12 Arid Mesa
+	12 Bloodstained Mire
+	12 Flooded Strand
+	12 Marsh Flats
+	12 Wooded Foothills
+	12 Verdant Catacombs
+	6 Fear of War
+	2 Manachaser
+	6 Overwhelming Will
+	12 Storm Strike
+	12 Verdant Overflow
+	2 Wild Ritual
+	6 Bloodrage
+	2 Sanctum of Eternity
+	2 Living Leyline
+	6 Dismember
+	6 Prohibit
+	6 Engulf
+	6 Reclaim
+	6 Forget
+	2 Muldrotha, Rotbloom
+	2 
+	6 Rotting Baloth
+	12 
+	1 Karn, Father of Machines
+	6 Forced Prayer
+	6 Ring of Fire
+	12 Thran Dragon Engine
+	12 Monoist Mutilator
+	2 Bloodsoaked Lotus
+	6 Immersturm Conqueror
+	2 Nyxbloom Prodigy
+	1 Xenagos, Violent Hedonist
+	1 Black Lotus
+	6 Mind Accelerant
+	12 Voltaic Gamble
+	6 Endless Windfall
+	2 Phyrexian Monolith
+	2 Violent Twister
+	12 Precognize
+[wildcard(1)]
+	4 Gigantersaurus
+	7 Time Dilate
+	15 Gitaxian Research
+	15 Aftershock
+	7 Stone Downpour
+	7 Enclosure Priest
+	15 Kor Wayshaper
+	4 Hogaak, the Unending
+	7 Archon of the Spheres
+	7 Scion of Karn
+	15 Alhammarret's Intuition
+	7 Temur Triome
+	7 Sultai Triome
+	7 Mardu Triome
+	7 Jeskai Triome
+	7 Abzan Triome
+	4 Tibalt, Cruel Sadist
+	7 Recast
+	6 Storm Fiend
+	7 Prayer to Sveylun
+	7 Prayer to Rhonas
+	7 Prayer to Purphuros
+	7 Prayer to Egon
+	7 Prayer to Avacyn
+	7 Grixis Triome
+	7 Esper Triome
+	7 Naya Triome
+	7 Bant Triome
+	7 Jund Triome
+	7 Mox Pyrite
+	7 Mox Charcoal
+	7 Mox Bismuth
+	7 Mox Roselite
+	7 Mox Quartz
+	7 Mox Amethyst
+	7 Mox Obsidian
+	7 Mox Topaz
+	7 Mox Turquoise
+	7 Mox Tourmaline
+	6 Dredge the Depths
+	15 From the Grave
+	6 Phyrexian Gladiator
+	6 Fomori Rallier
+	6 Simian Spirit Guide
+	6 Elvish Spirit Guide
+	6 Merrow Spirit Guide
+	6 Skeletal Spirit Guide
+	6 Angelic Spirit Guide
+	6 Mana Warp
+	6 Birgi's Harbinger
+	7 Polymorphists Caravan
+	15 Immutable Plans
+	15 
+	15 Gate of Benedictions
+	7 Dark Blessing
+	4 Hectos, Titan of Mana's Roil
+	4 Tempus, Titan of Time's Ruin
+	4 Griselbrand, Unsealed
+	15 Stormbrain
+	4 Ashiok, Dream Seeker
+	4 Calix, Fate-Sworn
+	4 Narset, Ojutai's Faithful
+	15 Ulamog's Wake
+	15 
+	15 Oblivion Signet
+	6 Mage-Ring Guard
+	6 Stone Guardian
+	6 World Ooze's Trail
+	6 Bring Back
+	7 Sylvan Guardian
+	6 Consulate Informant
+	6 Windswept Heath
+	6 Polluted Delta
+	6 Misty Rainforest
+	6 Scalding Tarn
+	6 Arid Mesa
+	6 Bloodstained Mire
+	6 Flooded Strand
+	6 Marsh Flats
+	6 Wooded Foothills
+	6 Verdant Catacombs
+	15 Fear of War
+	7 Manachaser
+	15 Overwhelming Will
+	6 Storm Strike
+	6 Verdant Overflow
+	7 Wild Ritual
+	15 Bloodrage
+	7 Sanctum of Eternity
+	7 Living Leyline
+	15 Dismember
+	15 Prohibit
+	15 Engulf
+	15 Reclaim
+	15 Forget
+	7 Muldrotha, Rotbloom
+	7 
+	15 Rotting Baloth
+	6 
+	4 Karn, Father of Machines
+	15 Forced Prayer
+	15 Ring of Fire
+	6 Thran Dragon Engine
+	6 Monoist Mutilator
+	7 Bloodsoaked Lotus
+	15 Immersturm Conqueror
+	7 Nyxbloom Prodigy
+	4 Xenagos, Violent Hedonist
+	4 Black Lotus
+	15 Mind Accelerant
+	6 Voltaic Gamble
+	15 Endless Windfall
+	7 Phyrexian Monolith
+	7 Violent Twister
+	6 Precognize

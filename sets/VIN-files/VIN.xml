@@ -1,0 +1,2181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>VIN</name>
+			<longname>Vintage Horizons</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-04-11</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Gigantersaurus</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/63_Gigantersaurus.png" num="63">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>GGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>20/20</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Time Dilate</name>
+			<text>Take an extra turn after this one, then exile this spell.
+Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/31_Time Dilate.png" num="31">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gitaxian Research</name>
+			<text>Surveil 5 (Look at the top five cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/19_Gitaxian Research.png" num="19">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U/P</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aftershock</name>
+			<text>Deal 3 damage to any target.
+Whenever an opponent casts their second spell each turn, you may cast this spell from your graveyard without paying it&apos;s mana cost.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/44_Aftershock.png" num="44">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stone Downpour</name>
+			<text>Destroy all nonbasic lands.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/54_Stone Downpour.png" num="54">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enclosure Priest</name>
+			<text>If a land would enter the battlefield and it wasn&apos;t played, exile it instead.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/3_Enclosure Priest.png" num="3">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Priest</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kor Wayshaper</name>
+			<text>When this creature enters, each player sacrifices a land.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/78_Kor Wayshaper.png" num="78">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kor Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hogaak, the Unending</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Trample, deathtouch
+Whenever Hogaak leaves your graveyard, you may put it onto the battlefield.</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/75_Hogaak, the Unending.png" num="75">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3BGU</manacost>
+				<cmc>6</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Archon of the Spheres</name>
+			<text>Flying, vigilance, lifelink
+Whenever a nonland permanent would enter under an opponents control, if that player had three or more other nonland permanents enter this turn, exile it instead.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/2_Archon of the Spheres.png" num="2">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Phyrexian Archon</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scion of Karn</name>
+			<text>When you cast this spell, copy it for each artifact you control.
+Nonartifact creature spells cost {1} more to cast.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/93_Scion of Karn.png" num="93">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alhammarret&apos;s Intuition</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Your opponents can&apos;t draw more than one card each turn.
+If you would draw one or more cards, you draw that many plus one instead.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/16_Alhammarret&apos;s Intuition.png" num="16">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Temur Triome</name>
+			<text>({T}: Add {G}, {U}, or {R})
+When this land becomes tapped, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/104_Temur Triome.png" num="104">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sultai Triome</name>
+			<text>({T}: Add {B}, {G}, or {U})
+When this land becomes tapped, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/103_Sultai Triome.png" num="103">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mardu Triome</name>
+			<text>({T}: Add {R}, {W}, or {B})
+When this land becomes tapped, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/100_Mardu Triome.png" num="100">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jeskai Triome</name>
+			<text>({T}: Add {U}, {R}, or {W})
+When this land becomes tapped, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/98_Jeskai Triome.png" num="98">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Abzan Triome</name>
+			<text>({T}: Add {W}, {B}, or {G})
+When this land becomes tapped, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/94_Abzan Triome.png" num="94">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tibalt, Cruel Sadist</name>
+			<text>When Tibalt enters, create a 1/1 red devil creature token with &quot;When this creature dies, it deals 1 damage to any target.&quot;
+Whenever Tibalt is dealt damage and survives, you may exile him, then return him to the battlefield transformed under his owner&apos;s control.
+---
+(Back): Tibalt, Paincursed</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/43_Tibalt, Cruel Sadist_front.png" num="43a">VIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Tibalt, Paincursed</related>
+		</card>
+		<card>
+			<name>Tibalt, Paincursed</name>
+			<text>---
+(Front): Tibalt, Cruel Sadist</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/43_Tibalt, Cruel Sadist_back.png" num="43b">VIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Planeswalker — Tibalt</type>
+				<maintype>Planeswalker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Tibalt, Cruel Sadist</related>
+		</card>
+		<card>
+			<name>Recast</name>
+			<text>Exile target noncreature nonland card from your graveyard, you may cast it without paying its mana cost. If it&apos;s a permanent it enters with a finality counter on it, otherwise, exile it as it resolves.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/29_Recast.png" num="29">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Storm Fiend</name>
+			<text>Storm (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/55_Storm Fiend.png" num="55">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prayer to Sveylun</name>
+			<text>Choose one —
+• Counter target noncreature spell.
+• Draw 2 cards.
+You may exile a blue card from your hand rather than pay this spells mana cost.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/26_Prayer to Sveylun.png" num="26">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prayer to Rhonas</name>
+			<text>Choose one —
+• Exile target artifact or enchantment
+• Target player puts all cards from their graveyard on the bottom of their library in a random order.
+You may exile a green card from your hand rather than pay this spells mana cost.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/65_Prayer to Rhonas.png" num="65">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prayer to Purphuros</name>
+			<text>Choose one —
+• Each player discards their hand then draws 5 cards.
+• Deal 4 damage to target creature or planeswalker.
+You may exile a red card from your hand rather than pay this spells mana cost.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/52_Prayer to Purphuros.png" num="52">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prayer to Egon</name>
+			<text>Choose one —
+• Return target creature card from your graveyard to the battlefield.
+• Target player discards two cards at random.
+You may exile a black card from your hand rather than pay this spells mana cost.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/40_Prayer to Egon.png" num="40">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prayer to Avacyn</name>
+			<text>Choose one —
+• Artifacts and creatures you control gain hexproof and indestructible until end of turn.
+• Target opponent can&apos;t cast spells this turn.
+You may exile a white card from your hand rather than pay this spells mana cost.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/11_Prayer to Avacyn.png" num="11">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grixis Triome</name>
+			<text>({T}: Add {U}, {B}, or {R})
+When this land becomes tapped, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/97_Grixis Triome.png" num="97">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Esper Triome</name>
+			<text>({T}: Add {W}, {U}, or {B})
+When this land becomes tapped, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/96_Esper Triome.png" num="96">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Naya Triome</name>
+			<text>({T}: Add {R}, {G}, or {W})
+When this land becomes tapped, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/101_Naya Triome.png" num="101">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bant Triome</name>
+			<text>({T}: Add {G}, {W}, or {U})
+When this land becomes tapped, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/95_Bant Triome.png" num="95">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jund Triome</name>
+			<text>({T}: Add {B}, {R}, or {G})
+When this land becomes tapped, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/99_Jund Triome.png" num="99">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mox Pyrite</name>
+			<text>This artifact enters tapped.
+{T}: Add {R} or {W}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/86_Mox Pyrite.png" num="86">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mox Charcoal</name>
+			<text>This artifact enters tapped.
+{T}: Add {B} or {R}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/84_Mox Charcoal.png" num="84">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mox Bismuth</name>
+			<text>This artifact enters tapped.
+{T}: Add {G} or {U}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/83_Mox Bismuth.png" num="83">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mox Roselite</name>
+			<text>This artifact enters tapped.
+{T}: Add {R} or {G}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/88_Mox Roselite.png" num="88">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mox Quartz</name>
+			<text>This artifact enters tapped.
+{T}: Add {W} or {B}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/87_Mox Quartz.png" num="87">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mox Amethyst</name>
+			<text>This artifact enters tapped.
+{T}: Add {B} or {G}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/82_Mox Amethyst.png" num="82">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mox Obsidian</name>
+			<text>This artifact enters tapped.
+{T}: Add {U} or {B}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/85_Mox Obsidian.png" num="85">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mox Topaz</name>
+			<text>This artifact enters tapped.
+{T}: Add {G} or {W}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/89_Mox Topaz.png" num="89">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mox Turquoise</name>
+			<text>This artifact enters tapped.
+{T}: Add {W} or {U}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/91_Mox Turquoise.png" num="91">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mox Tourmaline</name>
+			<text>This artifact enters tapped.
+{T}: Add {U} or {R}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/90_Mox Tourmaline.png" num="90">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dredge the Depths</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Mill five cards, then you may return a permanent card from among them to your hand.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/61_Dredge the Depths.png" num="61">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>From the Grave</name>
+			<text>Return target creature card from your graveyard to the battlefield, you lose life equal to its power.
+Flashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/36_From the Grave.png" num="36">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Phyrexian Gladiator</name>
+			<text>Menace
+When this creature enters, target player draws a card and lose 1 life.
+Swampcycling {0} ({0}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/39_Phyrexian Gladiator.png" num="39">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phyrexian Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>6B</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fomori Rallier</name>
+			<text>Exile this card from your graveyard: Target creature must block this turn if able.
+Mountaincycling {0} ({0}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/48_Fomori Rallier.png" num="48">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Simian Spirit Guide</name>
+			<text>Exile this card from your hand: Add {R}.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/53_Simian Spirit Guide.png" num="53">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elvish Spirit Guide</name>
+			<text>Exile this card from your hand: Add {G}.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/62_Elvish Spirit Guide.png" num="62">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merrow Spirit Guide</name>
+			<text>Exile this card from your hand: Add {U}.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/22_Merrow Spirit Guide.png" num="22">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skeletal Spirit Guide</name>
+			<text>Exile this card from your hand: Add {B}.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/42_Skeletal Spirit Guide.png" num="42">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angelic Spirit Guide</name>
+			<text>Exile this card from your hand: Add {W}.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/1_Angelic Spirit Guide.png" num="1">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mana Warp</name>
+			<text>Add three mana of any one color.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/50_Mana Warp.png" num="50">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Birgi&apos;s Harbinger</name>
+			<text>When this creature enters, add two mana of any one color.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/45_Birgi&apos;s Harbinger.png" num="45">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Polymorphists Caravan</name>
+			<text>When this artifact enters create a 1/1 Illusion creature token.
+When this vehicle attacks, sacrifice a creature that crewed it this turn, when you do, reveal card from the top of your library until you reveal a creature card. Put that card onto the battlefield, then shuffle.
+Crew 1</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/25_Polymorphists Caravan.png" num="25">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Immutable Plans</name>
+			<text>Whenever you cast an instant spell during your main phase, copy it, you may choose new targets for the copy.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/20_Immutable Plans.png" num="20">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>Blitz {B}{R} (If you cast this spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card&quot;. Sacrifice it at the beginning of the next end step.)
+Whenever a creature you control dies, if it attacked this turn, create a Treasure, then if it entered this turn, create another Treasure.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/72_.png" num="72">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gate of Benedictions</name>
+			<text>Whenever you cast a spell for its miracle cost, reveal the top card of your library, if it has miracle you may cast it for its miracle cost, otherwise put it into your hand.
+Miracle {0} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/7_Gate of Benedictions.png" num="7">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dark Blessing</name>
+			<text>Search your library for a card, and put it into your hand, then shuffle. You lose 2 life.
+Miracle {B} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/34_Dark Blessing.png" num="34">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hectos, Titan of Mana&apos;s Roil</name>
+			<text>When Hectos enters, sacrifice it unless it escaped.
+Whenever Hectos enters or attacks, search your library for a land card and put it onto the battlefield tapped, then shuffle.
+Escape—{G}{G}{W}{W}, Exile five other cards from your graveyard.</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/74_Hectos, Titan of Mana&apos;s Roil.png" num="74">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tempus, Titan of Time&apos;s Ruin</name>
+			<text>When Tempus enters, sacrifice it unless it escaped.
+Whenever Tempus enters or attacks, target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.
+Escape—{U}{U}{B}{B}, Exile five other cards from your graveyard.</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/77_Tempus, Titan of Time&apos;s Ruin.png" num="77">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Griselbrand, Unsealed</name>
+			<text>Flying, lifelink
+When Griselbrand enters, exile the top seven cards of each opponents library face down.
+You may look at cards exiled with Griselbrand and may play lands and cast spells from among them without paying their mana cost.</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/37_Griselbrand, Unsealed.png" num="37">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>7BBB</manacost>
+				<cmc>10</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormbrain</name>
+			<text>Storm (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)
+When this creature enters, draw three cards, then put two cards from your hand on top of your library in any order.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/30_Stormbrain.png" num="30">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ashiok, Dream Seeker</name>
+			<text>{T}: Draw a card, discard a card, then exile the top card of your library with a dream counter on it. Then if you own four or more cards in exile, you may exile Ashiok, then return them to the battlefield transformed under their owner&apos;s control.
+---
+(Back): Ashiok, Nightmare Born</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/17_Ashiok, Dream Seeker_front.png" num="17a">VIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ashiok, Nightmare Born</related>
+		</card>
+		<card>
+			<name>Ashiok, Nightmare Born</name>
+			<text>---
+(Front): Ashiok, Dream Seeker</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/17_Ashiok, Dream Seeker_back.png" num="17b">VIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Planeswalker — Ashiok</type>
+				<maintype>Planeswalker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Ashiok, Dream Seeker</related>
+		</card>
+		<card>
+			<name>Calix, Fate-Sworn</name>
+			<text>When Calix or another enchantment you control enters, you draw a card and gain a life.
+Whenever another enchantment you control leaves the battlefield, you may exile Calix then return him to the battlefield transformed under his owner&apos;s control.
+---
+(Back): Calix, Fate-Bound</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/60_Calix, Fate-Sworn_front.png" num="60a">VIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Calix, Fate-Bound</related>
+		</card>
+		<card>
+			<name>Calix, Fate-Bound</name>
+			<text>---
+(Front): Calix, Fate-Sworn</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/60_Calix, Fate-Sworn_back.png" num="60b">VIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Planeswalker — Calix</type>
+				<maintype>Planeswalker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Calix, Fate-Sworn</related>
+		</card>
+		<card>
+			<name>Narset, Ojutai&apos;s Faithful</name>
+			<text>Whenever you cast a historic spell, scry 1. Then you may reveal the top card of your library. If a historic card is revealed this way, you may exile Narset, then return her to the battlefield tapped under her owner&apos;s control. (Artifacts, legendaries, and Sagas are historic.)
+---
+(Back): Narset, Eyes Opened</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/9_Narset, Ojutai&apos;s Faithful_front.png" num="9a">VIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Narset, Eyes Opened</related>
+		</card>
+		<card>
+			<name>Narset, Eyes Opened</name>
+			<text>---
+(Front): Narset, Ojutai&apos;s Faithful</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/9_Narset, Ojutai&apos;s Faithful_back.png" num="9b">VIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Planeswalker — Narset</type>
+				<maintype>Planeswalker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Narset, Ojutai&apos;s Faithful</related>
+		</card>
+		<card>
+			<name>Ulamog&apos;s Wake</name>
+			<text>Whenever one or more cards you own are put into exile from anywhere other than the battlefield, put a defile counter each of them.
+{T}: Add {C}.
+{T}: Choose a card you own in exile with a defile counter on it, you may play it this turn.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/105_Ulamog&apos;s Wake.png" num="105">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>Whenever you cast a spell, if no mana was spent to cast it, draw a card.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/14_.png" num="14">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oblivion Signet</name>
+			<text>Eerie — Whenever this enchantment or another enchantment you control enters and whenever you fully unlock a room, exile target nonland permanent until this enchantment leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/10_Oblivion Signet.png" num="10">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mage-Ring Guard</name>
+			<text>Whenever this card leaves your graveyard, add {U}.
+Islandcycling {0} ({0}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/21_Mage-Ring Guard.png" num="21">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stone Guardian</name>
+			<text>Flying
+Whenever you attack, target attacking creature gains flying until end of turn.
+Plainscycling {0} ({0}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/12_Stone Guardian.png" num="12">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>World Ooze&apos;s Trail</name>
+			<text>Deathtouch
+When this creature enters, destroy target artifact, enchantment, or nonbasic land.
+Forestcycling {0} ({0}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/71_World Ooze&apos;s Trail.png" num="71">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bring Back</name>
+			<text>Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/33_Bring Back.png" num="33">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sylvan Guardian</name>
+			<text>Whenever a land is put into your graveyard from anywhere, target creature you control gains hexproof until end of turn.
+{1}, {T}, Sacrifice a land: Search your library for a land and put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/68_Sylvan Guardian.png" num="68">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Consulate Informant</name>
+			<text>This creature can&apos;t be blocked.
+When this creature deals combat damage to a player, draw a card then discard a card.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/18_Consulate Informant.png" num="18">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Windswept Heath</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/114_Windswept Heath.png" num="114">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Polluted Delta</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/111_Polluted Delta.png" num="111">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Misty Rainforest</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/110_Misty Rainforest.png" num="110">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scalding Tarn</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/112_Scalding Tarn.png" num="112">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Arid Mesa</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/106_Arid Mesa.png" num="106">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bloodstained Mire</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/107_Bloodstained Mire.png" num="107">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Flooded Strand</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/108_Flooded Strand.png" num="108">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Marsh Flats</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/109_Marsh Flats.png" num="109">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wooded Foothills</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/115_Wooded Foothills.png" num="115">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Verdant Catacombs</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/113_Verdant Catacombs.png" num="113">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/124_Forest.png" num="124">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/125_Forest.png" num="125">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/119_Island.png" num="119">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/118_Island.png" num="118">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/121_Swamp.png" num="121">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/120_Swamp.png" num="120">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/123_Mountain.png" num="123">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/122_Mountain.png" num="122">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/116_Plains.png" num="116">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/117_Plains.png" num="117">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fear of War</name>
+			<text>Exile target creature that entered this turn, its controller gains 3 life.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/4_Fear of War.png" num="4">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Manachaser</name>
+			<text>Flash
+When this creature enters, copy target instant or sorcery spell you control. If no mana was spent to cast that spell, copy it an additional time.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/51_Manachaser.png" num="51">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overwhelming Will</name>
+			<text>Return any number of target spells to their owners hands. Draw a card for each spell returned this way.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/24_Overwhelming Will.png" num="24">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Storm Strike</name>
+			<text>Deal 1 damage to target creature or planeswalker. If you&apos;ve cast another spell this turn, this spell deals 3 damage to the chosen target instead.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/56_Storm Strike.png" num="56">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Verdant Overflow</name>
+			<text>Search your library for two land cards and put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/69_Verdant Overflow.png" num="69">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wild Ritual</name>
+			<text>Untap target land, until end of turn, whenever that land is tapped for mana, its controlled adds three times that much mana instead.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/70_Wild Ritual.png" num="70">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodrage</name>
+			<text>Return target creature card from your graveyard to the battlefield, it gains haste until end of turn. Sacrifice it at the beginning of the next end step. Whenever that creature is dealt damage this turn, create a tapped treasure token.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/73_Bloodrage.png" num="73">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sanctum of Eternity</name>
+			<text>Whenever another enchantment you control enters, untap all basic lands you control.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/67_Sanctum of Eternity.png" num="67">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Living Leyline</name>
+			<text>If this enchantment is in your opening hand, you may begin the game with it on the battlefield.
+Artifact and enchantment spells you cast cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/8_Living Leyline.png" num="8">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dismember</name>
+			<text>Target creature gets -5/-5 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/35_Dismember.png" num="35">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B/PB/P</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prohibit</name>
+			<text>Counter target spell unless its controller pays {1}.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/28_Prohibit.png" num="28">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U/PU/P</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Engulf</name>
+			<text>Deal 4 damage to target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/47_Engulf.png" num="47">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R/PR/P</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reclaim</name>
+			<text>Exile target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/66_Reclaim.png" num="66">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G/PG/P</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forget</name>
+			<text>Put target creature into its owner&apos;s library third from the top.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/6_Forget.png" num="6">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/PW/P</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Muldrotha, Rotbloom</name>
+			<text>As long as Muldrotha is in your graveyard and there are 5 or more cards in your graveyard, you may play lands and cast permanent spells from your graveyard.
+Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/76_Muldrotha, Rotbloom.png" num="76">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>You may pay 1 life and exile a colorless card from your hand rather than pay the mana cost of artifact spells you cast.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/13_.png" num="13">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creatture — Human Artificer</type>
+				<maintype>Creatture</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rotting Baloth</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Trample
+This creature enters with a +1/+1 counter on it for each card you own in exile.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/41_Rotting Baloth.png" num="41">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>7B</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Draw three cards then discard a card.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/15_.png" num="15">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Karn, Father of Machines</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/81_Karn, Father of Machines.png" num="81">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Phyrexian Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<cmc>9</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forced Prayer</name>
+			<text>The first card you draw each turn has miracle {2} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)
+Whenever you cast a spell for its miracle cost, sacrifice this enchantment.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/5_Forced Prayer.png" num="5">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ring of Fire</name>
+			<text>This artifact enters tapped.
+{T}: Add {C}{C}.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/92_Ring of Fire.png" num="92">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thran Dragon Engine</name>
+			<text>Flying
+Whenever this creature or another nonland permanent you control enters, you may discard a card, if you do, draw a card.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/57_Thran Dragon Engine.png" num="57">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monoist Mutilator</name>
+			<text>When this creature enters or dies, exile target creature, its controller creates a food token.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/38_Monoist Mutilator.png" num="38">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodsoaked Lotus</name>
+			<text>Morbid — {T}, Sacrifice this artifact: Add three mana of any one color. Activate this ability only if a creature died this turn.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/80_Bloodsoaked Lotus.png" num="80">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Immersturm Conqueror</name>
+			<text>Flash
+When this creature enters, it deals 3 damage to each creature that attacked this turn. Create a treasure token for each creature that dies this way.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/49_Immersturm Conqueror.png" num="49">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nyxbloom Prodigy</name>
+			<text>Lands you control have &quot;{T}: Add {G}{G}.&quot;</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/64_Nyxbloom Prodigy.png" num="64">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Xenagos, Violent Hedonist</name>
+			<text>Whenever Xenagos or another creature you control enters, Xenagos deals 1 damage to each opponent. Then if three or more creatures entered under your control this turn, you may exile Xenagos, then return him to the battlefield transformed under his owner&apos;s control.
+---
+(Back): Xenagos, King Stranger</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/59_Xenagos, Violent Hedonist_front.png" num="59a">VIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Satyr</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Xenagos, King Stranger</related>
+		</card>
+		<card>
+			<name>Xenagos, King Stranger</name>
+			<text>---
+(Front): Xenagos, Violent Hedonist</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/59_Xenagos, Violent Hedonist_back.png" num="59b">VIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Planeswalker — Xenagos</type>
+				<maintype>Planeswalker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Xenagos, Violent Hedonist</related>
+		</card>
+		<card>
+			<name>Black Lotus</name>
+			<text>{T}: Sacrifice this artifact: Add three mana of any one color.</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/79_Black Lotus.png" num="79">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mind Accelerant</name>
+			<text>Draw a card, if you&apos;ve cast another spell this turn, draw three cards instead.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/23_Mind Accelerant.png" num="23">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Voltaic Gamble</name>
+			<text>Exile the top three cards of your library, you may play them this turn. 
+Whenever you cast your third spell from exile this turn, add {R}{R}{R}{R}.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/58_Voltaic Gamble.png" num="58">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Endless Windfall</name>
+			<text>Storm (When you cast this spell, copy it for each spell cast before it this turn.)
+Create a treasure token.</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/46_Endless Windfall.png" num="46">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Phyrexian Monolith</name>
+			<text>{T}: Add {B}
+{T}, Exile a permanent card from your graveyard: Add {B}{B}.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/102_Phyrexian Monolith.png" num="102">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Violent Twister</name>
+			<text>Each player exiles their hand and graveyard, then draws seven cards, then exile this spell.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/32_Violent Twister.png" num="32">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Precognize</name>
+			<text>Draw a card, then surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/27_Precognize.png" num="27">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

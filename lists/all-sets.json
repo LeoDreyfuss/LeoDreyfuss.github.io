@@ -1,0 +1,14 @@
+﻿{
+    "sets": [
+        {
+            "set_code": "VIN",
+            "set_name": "Vintage Horizons",
+            "formats": ""
+        },
+        {
+            "set_code": "XEX",
+            "set_name": "Xerex (Name pending)",
+            "formats": ""
+        }
+    ]
+}
