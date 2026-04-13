@@ -1,4 +1,51 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Stormclaw Warsinger added.
+Blind Echoes added.
+Avishkari Gearsmith added.
+Search for Answers added.
+Voltaic Gambit added.
+Divine Respondant added.
+Xerex Paragon added.
+Shards of Alara added.
+Improper Burial added.
+Glasspool Rehearsal added.
+Kappa Artillerist added.
+The Spirit Gem added.
+Cabal Therapy added.
+Orb Caretaker added.
+Remnant of Titania added.
+Marit Lage's Prison added.
+Marit Lage added.
+Thaneborn Miracle added.
+
+Voltaic Gamble removed.
+
+Gate of Benedictions
+rules_text: Whenever you cast a spell for its miracle cost, reveal the top card of your library, if it has miracle you may cast it for its miracle cost, otherwise put it into your hand.
+Miracle {0} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Whenever you cast this spell or another spell for its miracle cost, reveal the top card of your library, if it has miracle you may cast it for its miracle cost, otherwise put it into your hand.
+Miracle {0} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Hectos, Titan of Mana's Roil
+pt:  => 6/6
+
+Tempus, Titan of Time's Ruin
+pt:  => 6/6
+
+Ashiok, Dream Seeker
+
+Karn, Father of Machines
+cost: {9} => {10}
+rules_text:  => Trample, Toxic 10 [i](Players dealt combat damage by this creature also get ten poison counters.)[/i]
+When Karn dies or is put into exile from the battlefield, you may put an artifact or creature card from your hand onto the battlefield.
+pt:  => 7/7
+
+Nyxbloom Prodigy
+rules_text: Lands you control have “{T}: Add {G}{G}.” => Forests you control have “{T}: Add {G}{G}.”
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
