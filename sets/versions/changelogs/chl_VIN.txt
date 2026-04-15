@@ -1,4 +1,41 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Dig for Answers added.
+Ring of Stars added.
+Divine Respondent added.
+Rune Blesser added.
+Razia, Boros Parun added.
+Brisela, Twisted Savior added.
+Liesa, Wish Granter added.
+Koma, Compleated added.
+Jori En, Relic Hunter added.
+Karametra, Bloom-Crowned added.
+Winter, Slave to Valgavoth added.
+Akul, the Scourge added.
+Ulasht, Writhing Hybrid added.
+Llanowar Dryad added.
+Growth Tender added.
+Bury added.
+Setessan Nyxweaver added.
+Fear of Losing Control added.
+Nyx Starscape added.
+Yawgmoth's Bastion added.
+Strixhaven, School of Mages added.
+Evendo, Terraformed added.
+Immersturm, the Ragelands added.
+Yavimaya Elves added.
+
+Search for Answers removed.
+Ring of Fire removed.
+Phyrexian Monolith removed.
+Divine Respondant removed.
+
+Muldrotha, Rotbloom
+cost: {3}{B}{G} => {2}{B}{B}{G}
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
