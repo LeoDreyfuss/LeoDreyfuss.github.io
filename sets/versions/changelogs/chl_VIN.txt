@@ -1,4 +1,111 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Polymorphist's Caravan added.
+Mark of Oblivion added.
+Shell Shock added.
+Corrode added.
+Banish added.
+Phyrexian Therapy added.
+Wickerfolk Tiller added.
+Final Charge added.
+Riveteer's Beatdown added.
+Detective's Study added.
+Ritual of Unmaking added.
+Mana Harvester added.
+Green Sun's Avatar added.
+Red Sun's Avatar added.
+Blue Sun's Avatar added.
+White Sun's Avatar added.
+Black Sun's Avatar added.
+Self-Duplicator added.
+Gelatinous Armor added.
+Extraplanar Surveyor added.
+Xenagos's Disciple added.
+Swarm of Voidflies added.
+Dryad Arbor added.
+Jasconian Isle added.
+Reed Strider added.
+Marsh Fiend added.
+Volcanic Remnant added.
+Spectral Forgemaster added.
+Temporal Tempest added.
+Door to Duskmourn added.
+Trostani's Advocate added.
+Arbor Awakener added.
+Boughs of Paradise added.
+Night of Living Magic added.
+Perfect's Scout added.
+Emry, Drowner of Fools added.
+Hit the Flanks added.
+Abbs of Steel added.
+Giada, Nascent Seraph added.
+
+Polymorphists Caravan removed.
+Oblivion Signet removed.
+Fear of War removed.
+Reclaim removed.
+Forget removed.
+Cabal Therapy removed.
+
+Griselbrand, Unsealed
+rules_text: Flying, lifelink
+When Griselbrand enters, exile the top seven cards of each opponents library face down.
+You may look at cards exiled with Griselbrand and may play lands and cast spells from among them without paying their mana cost. => Flying, lifelink
+When Griselbrand enters, exile the top seven cards of each players library face down.
+You may look at cards exiled with Griselbrand and may play lands and cast spells from among them without paying their mana cost.
+
+Narset, Ojutai's Faithful
+
+Muldrotha, Rotbloom
+cost: {2}{B}{B}{G} => {3}{B}{G}
+
+Avishkari Gearsmith
+type: Creatture — Vedalken Artificer => Creature — Vedalken Artificer
+
+Monoist Mutilator
+rules_text: When this creature enters or dies, exile target creature, its controller creates a food token. => When this creature enters or dies, destroy target creature, its controller creates a food token.
+pt: 5/5 => 5/4
+
+Voltaic Gambit
+rules_text: Exile the top three cards of your library, you may play them this turn. 
+Whenever you cast your third spell from exile this turn, add {R}{R}{R}{R}{R}. => Exile the top three cards of your library, you may play them this turn. 
+Whenever you cast your fourth spell this turn, add {R}{R}{R}{R}{R}.
+
+Razia, Boros Parun
+cost: {1}{R}{R}{W} => {2}{R}{W}
+
+Brisela, Twisted Savior
+cost: {2}{W}{W}{U} => {3}{W}{U}
+
+Liesa, Wish Granter
+cost: {3}{W}{W}{B} => {4}{W}{B}
+
+Koma, Compleated
+cost: {5}{G}{G}{U} => {5}{G}{U}
+
+Jori En, Relic Hunter
+cost: {U}{U}{R} => {1}{U}{R}
+
+Karametra, Bloom-Crowned
+cost: {1}{G}{G}{W} => {2}{G}{W}
+
+Winter, Slave to Valgavoth
+cost: {U}{U}{B} => {1}{U}{B}
+rules_text: Lifelink
+Whenever Winter attacks, draw a card, then you may discard a card, if you do Winter can't be blocked this turn. => Lifelink
+Whenever Winter attacks, draw a card, then you may discard a card, if you do Winter can't be blocked this turn.
+Whenever you discard a nonland card, put a +1/+1 counter in Winter.
+pt: 3/2 => 2/1
+
+Akul, the Scourge
+cost: {2}{B}{B}{R} => {3}{B}{R}
+
+Ulasht, Writhing Hybrid
+cost: {1}{R}{R}{G} => {2}{R}{G}
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Dig for Answers added.
