@@ -1,4 +1,302 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Forged by Fate added.
+Jeskai Rekindling added.
+Tibalt Causes a Doomskar added.
+Xenagos's Godly Ascension added.
+Elesh Norn's Nightmare added.
+Mullreaper added.
+Oracle's Rebuff added.
+Seasoned Inspector added.
+Thraben Converter added.
+Siege Horde added.
+Tocasia's Bauble added.
+Ral's Prodigy added.
+Gonti's Graverobber added.
+Drain Essence added.
+Carrion Broker added.
+Iterate added.
+Adrenaline Hellkite added.
+Storm-Kiln Aspirant added.
+Valgavoth's Harbinger added.
+Second Sun's Acolyte added.
+Remand added.
+Tourach's Bargain added.
+Unhallowed Exchange added.
+Abyssal Ledger added.
+Shivan Channeler added.
+Wilds Expansion added.
+Mulch Channeler added.
+Entropy Alignment added.
+Divine Return added.
+Wild Reflections added.
+Loam Familiar added.
+Dream Fragment added.
+
+
+Gitaxian Research
+
+Aftershock
+
+Stone Downpour
+
+Enclosure Priest
+
+Kor Wayshaper
+
+Archon of the Spheres
+
+Alhammarret's Intuition
+
+Recast
+
+Prayer to Sveylun
+
+Prayer to Rhonas
+
+Prayer to Purphuros
+
+Prayer to Egon
+
+Prayer to Avacyn
+
+Mox Pyrite
+
+Mox Charcoal
+
+Mox Bismuth
+
+Mox Roselite
+
+Mox Quartz
+
+Mox Amethyst
+
+Mox Obsidian
+
+Mox Topaz
+
+Mox Turquoise
+
+Mox Tourmaline
+
+From the Grave
+
+Phyrexian Gladiator
+
+Fomori Rallier
+
+Simian Spirit Guide
+
+Elvish Spirit Guide
+
+Merrow Spirit Guide
+
+Skeletal Spirit Guide
+
+Angelic Spirit Guide
+
+Mana Warp
+
+Polymorphist's Caravan
+
+Stormclaw Warsinger
+rules_text: Blitz {B}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, if it attacked this turn, create a Treasure, then if it entered this turn, create another Treasure. => Blitz {B}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, if it attacked this turn, create a Treasure token, then if it entered this turn, create another Treasure token.
+
+Gate of Benedictions
+
+Dark Blessing
+
+Hectos, Titan of Mana's Roil
+
+Tempus, Titan of Time's Ruin
+
+Stormbrain
+
+Ashiok, Dream Seeker
+rules_text: {T}: Draw a card, discard a card, then exile the top card of your library with a dream counter on it. Then if you own four or more cards in exile, you may exile Ashiok, then return them to the battlefield transformed under their owner's control. => {T}: Draw a card, then discard a card, then exile the top card of your library with a dream counter on it. Then if you own four or more cards in exile, you may exile Ashiok, then return them to the battlefield transformed under their owner's control.
+
+Ulamog's Wake
+rules_text: Whenever one or more cards you own are put into exile from anywhere other than the battlefield, put a defile counter each of them.
+{T}: Add {C}.
+{T}: Choose a card you own in exile with a defile counter on it, you may play it this turn. => Whenever one or more cards you own are put into exile from anywhere other than the battlefield, put a defile counter on each of them.
+{T}: Add {C}.
+{T}: Choose a card you own in exile with a defile counter on it, you may play it this turn.
+
+Blind Echoes
+
+Mark of Oblivion
+
+Mage-Ring Guard
+
+Stone Guardian
+
+World Ooze's Trail
+
+Bring Back
+
+Consulate Informant
+
+Shell Shock
+
+Overwhelming Will
+
+Storm Strike
+
+Verdant Overflow
+
+Wild Ritual
+
+Bloodrage
+cost: {B}{R} => {1}{BR}
+rules_text: Return target creature card from your graveyard to the battlefield, it gains haste until end of turn. Sacrifice it at the beginning of the next end step. Whenever that creature is dealt damage this turn, create a tapped treasure token. => Return target creature card from your graveyard to the battlefield, it gains haste until end of turn. Sacrifice it at the beginning of the next end step. Whenever that creature is dealt damage this turn, create a tapped Treasure token.
+
+Living Leyline
+cost: {1}{W}{W} => {2}{W}
+
+Dismember
+
+Prohibit
+
+Engulf
+
+Corrode
+
+Banish
+
+Avishkari Gearsmith
+
+Dig for Answers
+
+Forced Prayer
+
+Ring of Stars
+
+Thran Dragon Engine
+
+Monoist Mutilator
+
+Bloodsoaked Lotus
+
+Immersturm Conqueror
+rules_text: Flash
+When this creature enters, it deals 3 damage to each creature that attacked this turn. Create a treasure token for each creature that dies this way. => Flash
+When this creature enters, it deals 3 damage to each creature that attacked this turn. Create a Treasure token for each creature that dies this way.
+
+Nyxbloom Prodigy
+
+Black Lotus
+
+Mind Accelerant
+
+Voltaic Gambit
+
+Endless Windfall
+rules_text: Storm [i](When you cast this spell, copy it for each spell cast before it this turn.)[/i]
+Create a treasure token. => Storm [i](When you cast this spell, copy it for each spell cast before it this turn.)[/i]
+Create a Treasure token.
+
+Precognize
+
+Xerex Paragon
+
+Improper Burial
+cost: {1}{B} => {B}
+
+Kappa Artillerist
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Whenever this creature or another artifact you control enters, put a +1/+1 counter on this creature and draw a card. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Whenever another artifact you control enters, put a +1/+1 counter on this creature and draw a card.
+
+Phyrexian Therapy
+
+Thaneborn Miracle
+
+Rune Blesser
+
+Razia, Boros Parun
+rules_text: Flying, vigilance, haste
+Whenever Razia attack, it deals 3 damage to any target. => Flying, vigilance, haste
+Whenever Razia attacks, it deals 3 damage to any target.
+pt: 4/4 => 3/4
+
+Liesa, Wish Granter
+
+Jori En, Relic Hunter
+
+Karametra, Bloom-Crowned
+
+Winter, Slave to Valgavoth
+
+Akul, the Scourge
+
+Llanowar Dryad
+
+Bury
+
+Setessan Nyxweaver
+
+Yavimaya Elves
+
+Wickerfolk Tiller
+rules_text: You may play land cards from your graveyard.
+[i]Landfall[/i] — Whenever a land you control enters, this creature gets +1/+1 until end of turn. => You may play land cards from your graveyard.
+[i]Landfall[/i] — Whenever a land you control enters, this creature gets +2/+2 until end of turn.
+
+Final Charge
+rules_text: Creature cards in your hand have blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, create a tapped treasure token. => Creature cards in your hand have blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, create a tapped Treasure token.
+
+Riveteer's Beatdown
+
+Detective's Study
+
+Ritual of Unmaking
+
+Mana Harvester
+
+Green Sun's Avatar
+
+Red Sun's Avatar
+rules_text: When this creature enters, create a treasure token.
+Whenever you sacrifice an artifact. sacrifice this creature. => When this creature enters, create a Treasure token.
+Whenever you sacrifice an artifact. sacrifice this creature.
+pt: 3/2 => 3/3
+
+Blue Sun's Avatar
+
+Black Sun's Avatar
+
+Self-Duplicator
+
+Gelatinous Armor
+
+Extraplanar Surveyor
+
+Xenagos's Disciple
+rules_text: Tribute 2 [i](As this creature enters, an opponent of your choice may put two +1/+1 counters on it.)[/i]
+When this creature enters, if tribute wasn't payed, create two tapped treasures. => Tribute 2 [i](As this creature enters, an opponent of your choice may put two +1/+1 counters on it.)[/i]
+When this creature enters, if tribute wasn't payed, create two tapped Treasure tokens.
+
+Arbor Awakener
+
+Boughs of Paradise
+
+Night of Living Magic
+cost: {1}{G}{W} => {2}{GW}
+
+Perfect's Scout
+
+Abbs of Steel
+
+Giada, Nascent Seraph
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Polymorphist's Caravan added.
