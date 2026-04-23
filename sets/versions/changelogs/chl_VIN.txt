@@ -1,4 +1,243 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Souldrifter added.
+Siege Casket added.
+Wilderness Reflection added.
+Cosmic Repurposer added.
+Deathdrinker Oni added.
+Second Opinion added.
+Adrift Archive added.
+Soft Copy added.
+Timely Intervention added.
+Bauble Salvager added.
+Conjurer's Trinket added.
+Spell Rehearsal added.
+Veto added.
+Elenda's Visionary added.
+Squire of the Realm added.
+Cottorus, Hundred-Handed added.
+
+Mullreaper removed.
+Siege Horde removed.
+Wild Reflections removed.
+
+Gitaxian Research
+
+Kor Wayshaper
+
+Hogaak, the Unending
+
+Archon of the Spheres
+
+Scion of Karn
+rules_text: When you cast this spell, copy it for each artifact you control.
+Nonartifact creature spells cost {1} more to cast. => When you cast this spell, copy it for each artifact you control.
+Whenever this creature attacks, put a +1/+1 counter on it.
+
+Alhammarret's Intuition
+
+Temur Triome
+
+Sultai Triome
+
+Mardu Triome
+
+Jeskai Triome
+
+Abzan Triome
+
+Tibalt, Cruel Sadist
+
+Prayer to Sveylun
+
+Prayer to Rhonas
+
+Prayer to Purphuros
+
+Prayer to Egon
+
+Prayer to Avacyn
+
+Grixis Triome
+
+Esper Triome
+
+Naya Triome
+
+Bant Triome
+
+Jund Triome
+
+Phyrexian Gladiator
+
+Birgi's Harbinger
+
+Stormclaw Warsinger
+
+Hectos, Titan of Mana's Roil
+
+Tempus, Titan of Time's Ruin
+
+Griselbrand, Unsealed
+
+Calix, Fate-Sworn
+
+Narset, Ojutai's Faithful
+
+Ulamog's Wake
+
+Mark of Oblivion
+
+Mage-Ring Guard
+
+Stone Guardian
+pt: 3/4 => 4/5
+
+World Ooze's Trail
+
+Consulate Informant
+
+Muldrotha, Rotbloom
+
+Avishkari Gearsmith
+
+Karn, Father of Machines
+
+Thran Dragon Engine
+
+Monoist Mutilator
+
+Immersturm Conqueror
+
+Nyxbloom Prodigy
+
+Xenagos, Violent Hedonist
+
+Xerex Paragon
+
+Shards of Alara
+
+Glasspool Rehearsal
+
+Kappa Artillerist
+
+The Spirit Gem
+
+Phyrexian Therapy
+
+Orb Caretaker
+
+Remnant of Titania
+
+Marit Lage's Prison
+
+Thaneborn Miracle
+
+Rune Blesser
+
+Razia, Boros Parun
+
+Brisela, Twisted Savior
+
+Liesa, Wish Granter
+
+Koma, Compleated
+
+Jori En, Relic Hunter
+
+Karametra, Bloom-Crowned
+
+Winter, Slave to Valgavoth
+
+Akul, the Scourge
+
+Ulasht, Writhing Hybrid
+
+Llanowar Dryad
+
+Setessan Nyxweaver
+
+Fear of Losing Control
+
+Nyx Starscape
+
+Yawgmoth's Bastion
+
+Strixhaven, School of Mages
+
+Evendo, Terraformed
+
+Immersturm, the Ragelands
+
+Yavimaya Elves
+
+Wickerfolk Tiller
+
+Riveteer's Beatdown
+
+Green Sun's Avatar
+
+Red Sun's Avatar
+
+Blue Sun's Avatar
+
+White Sun's Avatar
+
+Black Sun's Avatar
+
+Xenagos's Disciple
+
+Swarm of Voidflies
+
+Door to Duskmourn
+
+Trostani's Advocate
+
+Perfect's Scout
+pt: 1/1 => 2/1
+
+Emry, Drowner of Fools
+
+Giada, Nascent Seraph
+
+Forged by Fate
+
+Jeskai Rekindling
+
+Tibalt Causes a Doomskar
+
+Xenagos's Godly Ascension
+
+Elesh Norn's Nightmare
+
+Oracle's Rebuff
+
+Thraben Converter
+
+Tocasia's Bauble
+
+Ral's Prodigy
+
+Gonti's Graverobber
+
+Storm-Kiln Aspirant
+
+Valgavoth's Harbinger
+
+Second Sun's Acolyte
+
+Tourach's Bargain
+
+Shivan Channeler
+
+Divine Return
+rules_text: Return target creature card from your graveyard to the battlefield.
+Miracle {WB} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Return target creature card from your graveyard to the battlefield.
+Miracle—Discard a card [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Forged by Fate added.
