@@ -1,4 +1,82 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Memnarch, Spark Hunter added.
+Arathia Shokta, Sleeper Agent added.
+Memnarch's Soul Trap added.
+Sapling of Wrenn added.
+The Mightstone added.
+The Weakstone added.
+Ennor, Garenbrig Exile added.
+Questing Beast's Head added.
+Baral, Consulate Captain added.
+Rakshasa's Will added.
+Unravelling Secrets added.
+Dusk Legion Defect added.
+Cleansing Ward added.
+Glimmer of Hope added.
+Stairway into the Abyss added.
+Onakke Chainsmith added.
+Xathrid, Shandalar's Bane added.
+Diamondstorm added.
+
+Gate of Benedictions removed.
+
+Kor Wayshaper
+cost: {1}{RW} => {1}{R}
+
+Polymorphist's Caravan
+rules_text: When this artifact enters create a 1/1 Illusion creature token.
+When this vehicle attacks, sacrifice a creature that crewed it this turn, when you do, reveal card from the top of your library until you reveal a creature card. Put that card onto the battlefield, then shuffle.
+Crew 1 => When this artifact enters create a 1/1 blue Illusion creature token.
+When this vehicle attacks, sacrifice a creature that crewed it this turn, when you do, reveal card from the top of your library until you reveal a creature card. Put that card onto the battlefield, then shuffle.
+Crew 1
+
+Prohibit
+rules_text: Counter target spell unless its controller pays {1}. => Counter target spell unless its controller pays {2}.
+
+Thaneborn Miracle
+cost: {1}{B}{B} => {2}{B}
+
+Swarm of Voidflies
+cost: {2}{B} => {1}{B}{B}
+
+Emry, Drowner of Fools
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Whenever an artifact you control enters, surveil 1 [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Artifact cards in your graveyard have unearth {1}{U} [i]({1}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i]
+
+Giada, Nascent Seraph
+pt: 2/3 => 3/2
+
+Tibalt Causes a Doomskar
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+
+Second Sun's Acolyte
+pt: 1/1 => 2/1
+
+Loam Familiar
+rules_text: When this creature enters, mill two cards.
+You may play nonbasic lands from your graveyard. => When this creature enters, mill three cards.
+You may play nonbasic lands from your graveyard.
+
+Adrift Archive
+rules_text: When this artifact enters, scry 1, then draw a card.
+Whenever a creature you control enters, if it entered or was cast from your graveyard, sacrifice this artifact, when you do, scry 1, then draw a card. => When this artifact enters, scry 1, then draw a card.
+Whenever one or more cards leave your graveyard, you may sacrifice this artifact, when you do, scry 1, then draw a card.
+
+Elenda's Visionary
+pt: 1/2 => 1/1
+
+Squire of the Realm
+cost: {2}{W} => {3}{W}
+pt: 3/2 => 4/2
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Souldrifter added.
