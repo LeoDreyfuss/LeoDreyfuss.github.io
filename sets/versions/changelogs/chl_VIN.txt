@@ -1,4 +1,61 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Stairway Into the Abyss added.
+Roaming Continent added.
+Awakened Biblioplex added.
+Lingering Devastation added.
+Box Jellyfish added.
+Ashling's Inferno added.
+Collective Conflagration added.
+Colossal Embermaw added.
+Prison Matrix added.
+Okanua, Kami Engine added.
+Protecting Licid added.
+Faithful Brutalization added.
+Belief added.
+Targeted Plague added.
+Returned Maskcarver added.
+The Faller, At The End of Time added.
+The Faller's Plunge added.
+Hidetsugu's Progeny added.
+Grave Sower added.
+
+Second Opinion removed.
+Stairway into the Abyss removed.
+
+Marit Lage's Prison
+rules_text: This land enters with twelve ice counters on it.
+At the beginning of each upkeep, remove an ice counter from this land, then if it has no ice counters on it, sacrifice it.
+When this land is put into your graveyard from the battlefield, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible. => This land enters with twelve ice counters on it.
+At the beginning of each upkeep, remove an ice counter from this land.
+When this land has no ice counters on it, sacrifice it.
+When this land is put into your graveyard from the battlefield, create Marit Lage, a legendary 10/10 black Avatar creature token with flying.
+
+Marit Lage
+rules_text: Flying, Indestructible => Flying
+pt: 20/20 => 10/10
+
+White Sun's Avatar
+rules_text: Whenever you cast your first spell each turn, put a +1/+1 counter on this creature.
+Miracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Whenever an opponent casts their first noncreature spell each turn, create a Treasure token.
+Miracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Tibalt Causes a Doomskar
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+
+Questing Beast's Head
+
+Onakke Chainsmith
+rules_text: At the beginning of each player's upkeep, this creature deals two damage to that player unless they control an artifact.
+Whenever this creature attacks, create a Treasure token. => At the beginning of each player's upkeep, this creature deals 2 damage to that player unless they control an artifact.
+Whenever this creature attacks, create a Treasure token.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Memnarch, Spark Hunter added.
