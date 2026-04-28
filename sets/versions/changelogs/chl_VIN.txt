@@ -1,4 +1,64 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Seething Cellarspawn added.
+Hauntwoods Harbinger added.
+Ashfall Regent added.
+Rotten Insight added.
+Born Anew added.
+Plasma Arc added.
+Insatiable Managorger added.
+
+Abbs of Steel removed.
+
+Griselbrand, Unsealed
+cost: {7}{B}{B}{B} => {8}{B}{R}
+
+Shell Shock
+rules_text: Exile target creature that entered this turn, its controller gains 3 life. => Exile target creature or planeswalker that entered this turn, its controller gains 3 life.
+
+Setessan Nyxweaver
+type: Creature — Satyr Druid => Enchantment Creature — Satyr Druid
+
+Strixhaven, School of Mages
+rules_text: {T}: Add {U} for each spell you've cast or copied this turn. => {T}: Add {U} for each spell that's been cast or copied this turn.
+
+Temporal Tempest
+cost: {2}{U}{U} => {U}{U}{U}
+
+Night of Living Magic
+cost: {2}{GW} => {1}{GW}{GW}
+rules_text: Other noncreature enchantments you control are creatures with base power and toughness 3/3 in addition to their other types. => Other noncreature artifacts and enchantments you control are creatures with base power and toughness 3/3 in addition to their other types.
+
+Gonti's Graverobber
+rules_text: When this creature enters, mill three cards.
+Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain 1 life. => When this creature enters, mill three cards.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+
+Entropy Alignment
+type: Sorcery => Instant
+
+Deathdrinker Oni
+rules_text: Deathtouch
+Whenever a nontoken permanent you control leaves the battlefield, create a treasure token.
+Miracle—Sacrifice a nonland permanent [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Deathtouch
+Whenever a nontoken permanent you control leaves the battlefield, create a treasure token.
+Miracle—{B}, Discard a card [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Roaming Continent
+rules_text: [i](This land isn't a spell and is affected by summoning sickness.)[/i]
+This land is all basic land types in all zones.
+This land enters tapped with ten stun counters on it.
+Whenever a land is put into your graveyard from the battlefield, untap this land. => [i](This land isn't a spell and is affected by summoning sickness.)[/i]
+This land is all basic land types in all zones.
+This land enters tapped with ten stun counters on it.
+At the beginning of your first main phase, if you have six or more cards in hand, untap this land.
+
+Irridescent Omenpath
+type: Land => Enchantment Land
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Return to Flesh added.
