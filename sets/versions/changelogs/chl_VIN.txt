@@ -1,4 +1,98 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Plasma Core added.
+Kruphix's Temple added.
+Thromak's Spawn added.
+Static Manipulator added.
+Angelic Upheaval added.
+Emperor's Vanguard added.
+Dauthi Mindthief added.
+
+Plasma Arc removed.
+
+Griselbrand, Unsealed
+cost: {8}{B}{R} => {8}{B}{B}
+
+Forged by Fate
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+
+Jeskai Rekindling
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with power four or greater.
+II — ​
+III — ​ => 
+I — Destroy target creature with power four or greater.
+
+Tibalt Causes a Doomskar
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+
+Xenagos's Godly Ascension
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+
+Elesh Norn's Nightmare
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+I — ​
+
+Valgavoth's Harbinger
+rules_text: When this creature enters, you may put a creature card from your hand onto the battlefield, it gains haste until end of turn. Return it to your hand at the beginning of the next end step. => When this creature enters, you may put a creature card that's one or more colors from your hand onto the battlefield, it gains haste until end of turn. Return it to your hand at the beginning of the next end step.
+
+Bauble Salvager
+cost: {2}{W} => {1}{W}
+rules_text: When this creature enters, return up to one target artifact or enchantment with mana value one or less from your graveyard to the battlefield. => When this creature enters, return up to one target artifact or enchantment with mana value 2 or less from your graveyard to the battlefield.
+pt: 3/2 => 2/1
+
+Collective Conflagration
+cost: {1}{R}{R} => {2}{R}
+
+Okuana, Kami Engine
+rules_text: Whenever another artifact or enchantment you control enters, put a +1/+1 counter on Okuana.
+Whenever you put one or more +1/+1 counters on Okuana, it gains lifelink until end of turn. => Whenever another artifact or enchantment you control enters, put a +1/+1 counter on Okuana.
+Whenever you put one or more +1/+1 counters on Okuana, it gains lifelink and vigilance until end of turn.
+pt: 2/3 => 3/3
+
+Nyx Presence
+rules_text: Creatures you control are enchantments in addition to their other types. => Creatures you control are enchantments in addition to their other types. The same is true for creature spells you cast and creature cards you own that aren't on the battlefield.
+
+Conflux Anima
+rules_text: Flying, vigilance
+Whenever this creature or another creature you control enters, look at the top seven cards of your library. For each of that creatures colors, you may reveal a card from among them with the same color and put it into your hand. Shuffle afterwards. => Flying, vigilance
+Whenever this creature or another creature you control enters, look at the top seven cards of your library. For each of that creatures colors, you may reveal a card from among them of that color and put it into your hand. Shuffle afterwards.
+
+Reconstruction Crew
+rules_text: Blitz—Discard a card, pay 2 life [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever you discard a card during your turn, you may cast this creature from your graveyard for its blitz cost. => Blitz—Pay 2 life [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, you may return this card from your graveyard to your hand.
+pt: 3/4 => 4/4
+
+Overgrown Undead
+rules_text: Whenever you mill or discard this creature, you may put it onto the battlefield tapped.
+When this creature dies, you may pay {BG}, when you do, put it on top of your library. => Whenever this card is put into your graveyard from your hand or your library, you may put it onto the battlefield tapped.
+When this creature dies, you may pay {BG}, when you do, put it on top of your library.
+
+Rotten Insight
+cost: {1}{BG}{BG} => {BG}{BG}
+rules_text: As an additional cost to cast this spell, exile three cards from your graveyard.
+Draw three cards. => As an additional cost to cast this spell, exile four cards from your graveyard.
+You draw three cards and lose 2 life.
+
+Born Anew
+type: Sorcery => Instant
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Seething Cellarspawn added.
