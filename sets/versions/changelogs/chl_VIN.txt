@@ -1,4 +1,96 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Mechan Soulkeeper added.
+Thromok's Spawn added.
+Veilweaver added.
+Imperial Sunderer added.
+Misthollow Geist added.
+Keldon Crusader added.
+Roilreaper added.
+Lumbering Landslide added.
+
+Mana Warp removed.
+Remand removed.
+Thromak's Spawn removed.
+
+Phyrexian Gladiator
+rules_text: Menace
+When this creature enters, target player draws a card and lose 1 life.
+Swampcycling {0} [i]({0}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => Menace
+When this creature enters or dies, target player draws a card and lose 1 life.
+Swampcycling {0} [i]({0}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Dark Blessing
+rules_text: Search your library for a card, and put it into your hand, then shuffle. You lose 2 life.
+Miracle {B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Search your library for a card, and put it into your hand, then shuffle. You lose 2 life.
+Miracle {B} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Stone Guardian
+pt: 4/5 => 4/6
+
+World Ooze's Trail
+pt: 3/4 => 4/4
+
+Forged by Fate
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+
+Jeskai Rekindling
+special_text: 
+I — Destroy target creature with power four or greater. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with power four or greater.
+II — ​
+III — ​
+
+Tibalt Causes a Doomskar
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+
+Xenagos's Godly Ascension
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+
+Elesh Norn's Nightmare
+special_text: 
+I — ​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+
+Divine Return
+rules_text: Return target creature card from your graveyard to the battlefield.
+Miracle—Discard a card [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Return target creature card from your graveyard to the battlefield.
+Miracle—Discard a card [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Diamondstorm
+rules_text: Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Oasis Channeler
+rules_text: {T}, Exile a card from your graveyard: Add {G}{U}. => {T}: Add {C}.
+{T}, Exile a card from your graveyard: Add {G}{U}.
+
+Salvation Glimmer
+cost: {2}{W}{B} => {1}{W}{B}
+
+Plasma Core
+rules_text: Whenever you cast a noncreature spell, put a charge counter on this artifact.
+{T}, Sacrifice this artifact: This artifact deals X damage to target creature or planeswalker, where X is the number of charge counters on this artifact. => Whenever you cast a noncreature spell, put a charge counter on this artifact.
+{T}, Sacrifice this artifact: This artifact deals X damage to any target, where X is the number of charge counters on this artifact.
+
+Angelic Upheaval
+rules_text: Creature cards you own that aren't on the battlefield have miracle {W}{B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Permanent cards you own that aren't on the battlefield have miracle {W}{B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Plasma Core added.
