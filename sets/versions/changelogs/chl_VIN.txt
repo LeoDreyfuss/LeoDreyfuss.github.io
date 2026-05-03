@@ -1,4 +1,90 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Nyx, Pantheon of Gods added.
+Emry, Boon Giver added.
+Mental Intrusion added.
+
+Nyx Starscape removed.
+Emry, Drowner of Fools removed.
+
+Angelic Spirit Guide
+
+Griselbrand, Unsealed
+
+Narset, Ojutai's Faithful
+
+Muldrotha, Rotbloom
+
+Karn, Father of Machines
+
+Xenagos, Violent Hedonist
+
+Black Lotus
+
+Improper Burial
+
+Brisela, Twisted Savior
+
+Strixhaven, School of Mages
+
+Immersturm, the Ragelands
+
+Seasoned Inspector
+rules_text: When this creature enters, investigate twice. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => When this creature enters, investigate twice. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Thraben Converter
+rules_text: Living weapon [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Equip {2}{W} => Living weapon [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Equip {2}{W}
+
+Memnarch, Spark Hunter
+
+Diamondstorm
+rules_text: Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Ashling's Inferno
+rules_text: As an additional cost to cast this spell, blight X. [i](To blight X, put X -1/-1 counters on a creature you control.)[/i]
+Deal X damage to target creature or planeswalker. => As an additional cost to cast this spell, blight X. [i](To blight X, put X -1/-1 counters on a creature you control.)[/i] [i](To blight X, put X -1/-1 counters on a creature you control.)[/i]
+Deal X damage to target creature or planeswalker.
+
+Chrome Host Entomber
+rules_text: At the beginning of your end step, surveil 2, then if a creature card was put into your graveyard this way, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => At the beginning of your end step, surveil 2, then if a creature card was put into your graveyard this way, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Conflux Anima
+rules_text: Flying, vigilance
+Whenever this creature or another creature you control enters, look at the top seven cards of your library. For each of that creatures colors, you may reveal a card from among them of that color and put it into your hand. Shuffle afterwards. => Flying, lifelink
+Whenever this creature or another creature you control enters, look at the top seven cards of your library. For each of that creatures colors, you may reveal a card from among them of that color and put it into your hand. Shuffle afterwards.
+
+Shade of Omens
+rules_text: Flying
+When this creature attacks, you may draw a card, if you do, discard a card.
+Whenever you discard a nonland card, each opponent loses 1 life. => Flying
+When this creature attacks, you may draw a card, if you do, discard a card.
+Whenever you discard one or more nonland cards, each opponent loses that much life.
+
+Hauntwoods Harbinger
+
+Ashfall Regent
+
+Rotten Insight
+rules_text: As an additional cost to cast this spell, exile four cards from your graveyard.
+You draw three cards and lose 2 life. => As an additional cost to cast this spell, exile four cards from your graveyard.
+You draw three cards and lose 3 life.
+
+Misthollow Geist
+rules_text: Exile a card from your graveyard: Exile target creature you control, then return it to the battlefield. Activate only once each turn. => Exile a card from your graveyard: Exile target creature you control, then return it to the battlefield under its owner's control.. Activate only once each turn.
+
+Ashiok, Dream Seeker
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Mechan Soulkeeper added.

@@ -5,9 +5,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{G}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/170_Gigantersaurus.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/171_Gigantersaurus.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Instant",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/122_Aftershock.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/123_Aftershock.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/147_Stone Downpour.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/148_Stone Downpour.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Kor Scout",
-			"collector_number": "135",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/135_Kor Wayshaper.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/136_Kor Wayshaper.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Legendary Creature — Avatar",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/210_Hogaak, the Unending.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/211_Hogaak, the Unending.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/263_Scion of Karn.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/264_Scion of Karn.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Island Mountain",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/288_Temur Triome.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/289_Temur Triome.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest Island",
-			"collector_number": "287",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/287_Sultai Triome.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/288_Sultai Triome.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains Swamp",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/278_Mardu Triome.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/279_Mardu Triome.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Mountain Plains",
-			"collector_number": "276",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/276_Jeskai Triome.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/277_Jeskai Triome.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp Forest",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/267_Abzan Triome.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/268_Abzan Triome.png"
 			}
 		},
 		{
@@ -165,16 +165,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "117",
+			"collector_number": "118",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/117_Tibalt, Cruel Sadist_back.png"
+					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/118_Tibalt, Cruel Sadist_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/117_Tibalt, Cruel Sadist_front.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/118_Tibalt, Cruel Sadist_front.png"
 			}
 		},
 		{
@@ -192,9 +192,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/148_Storm Fiend.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/149_Storm Fiend.png"
 			}
 		},
 		{
@@ -212,9 +212,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Instant",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/183_Prayer to Rhonas.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/184_Prayer to Rhonas.png"
 			}
 		},
 		{
@@ -222,9 +222,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/140_Prayer to Purphuros.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/141_Prayer to Purphuros.png"
 			}
 		},
 		{
@@ -232,9 +232,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/105_Prayer to Egon.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/106_Prayer to Egon.png"
 			}
 		},
 		{
@@ -252,9 +252,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp Mountain",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/272_Grixis Triome.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/273_Grixis Triome.png"
 			}
 		},
 		{
@@ -262,9 +262,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Island Swamp",
-			"collector_number": "270",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/270_Esper Triome.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/271_Esper Triome.png"
 			}
 		},
 		{
@@ -272,9 +272,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest Plains",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/281_Naya Triome.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/282_Naya Triome.png"
 			}
 		},
 		{
@@ -282,9 +282,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Plains Island",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/268_Bant Triome.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/269_Bant Triome.png"
 			}
 		},
 		{
@@ -292,9 +292,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain Forest",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/277_Jund Triome.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/278_Jund Triome.png"
 			}
 		},
 		{
@@ -302,9 +302,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/256_Mox Pyrite.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/257_Mox Pyrite.png"
 			}
 		},
 		{
@@ -312,9 +312,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/254_Mox Charcoal.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/255_Mox Charcoal.png"
 			}
 		},
 		{
@@ -322,9 +322,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/253_Mox Bismuth.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/254_Mox Bismuth.png"
 			}
 		},
 		{
@@ -332,9 +332,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/258_Mox Roselite.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/259_Mox Roselite.png"
 			}
 		},
 		{
@@ -342,9 +342,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/257_Mox Quartz.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/258_Mox Quartz.png"
 			}
 		},
 		{
@@ -352,9 +352,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/252_Mox Amethyst.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/253_Mox Amethyst.png"
 			}
 		},
 		{
@@ -362,9 +362,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/255_Mox Obsidian.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/256_Mox Obsidian.png"
 			}
 		},
 		{
@@ -372,9 +372,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/259_Mox Topaz.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/260_Mox Topaz.png"
 			}
 		},
 		{
@@ -382,9 +382,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/261_Mox Turquoise.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/262_Mox Turquoise.png"
 			}
 		},
 		{
@@ -392,9 +392,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/260_Mox Tourmaline.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/261_Mox Tourmaline.png"
 			}
 		},
 		{
@@ -402,9 +402,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/160_Dredge the Depths.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/161_Dredge the Depths.png"
 			}
 		},
 		{
@@ -422,9 +422,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{B}",
 			"type": "Creature — Phyrexian Warrior",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/103_Phyrexian Gladiator.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/104_Phyrexian Gladiator.png"
 			}
 		},
 		{
@@ -432,9 +432,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Giant Soldier",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/131_Fomori Rallier.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/132_Fomori Rallier.png"
 			}
 		},
 		{
@@ -442,9 +442,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Ape Spirit",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/146_Simian Spirit Guide.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/147_Simian Spirit Guide.png"
 			}
 		},
 		{
@@ -452,9 +452,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Spirit",
-			"collector_number": "163",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/163_Elvish Spirit Guide.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/164_Elvish Spirit Guide.png"
 			}
 		},
 		{
@@ -472,9 +472,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Skeleton Spirit",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/111_Skeletal Spirit Guide.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/112_Skeletal Spirit Guide.png"
 			}
 		},
 		{
@@ -492,9 +492,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/125_Birgi's Harbinger.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/126_Birgi's Harbinger.png"
 			}
 		},
 		{
@@ -522,9 +522,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/229_Stormclaw Warsinger.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/230_Stormclaw Warsinger.png"
 			}
 		},
 		{
@@ -542,9 +542,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Elder Giant",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/209_Hectos, Titan of Mana's Roil.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/210_Hectos, Titan of Mana's Roil.png"
 			}
 		},
 		{
@@ -552,9 +552,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Elder Giant",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/230_Tempus, Titan of Time's Ruin.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/231_Tempus, Titan of Time's Ruin.png"
 			}
 		},
 		{
@@ -578,37 +578,20 @@
 			}
 		},
 		{
-			"name": "Ashiok, Dream Seeker",
-			"rarity": "mythic",
-			"mana_cost": "{U}",
-			"type": "Legendary Creature — Human",
-			"collector_number": "41",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/41_Ashiok, Dream Seeker_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/41_Ashiok, Dream Seeker_front.png"
-			}
-		},
-		{
 			"name": "Calix, Fate-Sworn",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Enchantment Creature — Human",
-			"collector_number": "158",
+			"collector_number": "159",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/158_Calix, Fate-Sworn_back.png"
+					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/159_Calix, Fate-Sworn_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/158_Calix, Fate-Sworn_front.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/159_Calix, Fate-Sworn_front.png"
 			}
 		},
 		{
@@ -633,9 +616,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "289",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/289_Ulamog's Wake.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/290_Ulamog's Wake.png"
 			}
 		},
 		{
@@ -683,9 +666,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Ooze",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/196_World Ooze's Trail.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/197_World Ooze's Trail.png"
 			}
 		},
 		{
@@ -693,9 +676,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/106_Return to Flesh.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/107_Return to Flesh.png"
 			}
 		},
 		{
@@ -703,9 +686,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/191_Sylvan Guardian.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/192_Sylvan Guardian.png"
 			}
 		},
 		{
@@ -723,9 +706,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "300",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/300_Windswept Heath.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/301_Windswept Heath.png"
 			}
 		},
 		{
@@ -733,9 +716,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "297",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/297_Polluted Delta.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/298_Polluted Delta.png"
 			}
 		},
 		{
@@ -743,9 +726,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "296",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/296_Misty Rainforest.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/297_Misty Rainforest.png"
 			}
 		},
 		{
@@ -753,9 +736,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "298",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/298_Scalding Tarn.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/299_Scalding Tarn.png"
 			}
 		},
 		{
@@ -763,9 +746,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/292_Arid Mesa.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/293_Arid Mesa.png"
 			}
 		},
 		{
@@ -773,9 +756,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "293",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/293_Bloodstained Mire.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/294_Bloodstained Mire.png"
 			}
 		},
 		{
@@ -783,9 +766,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "294",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/294_Flooded Strand.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/295_Flooded Strand.png"
 			}
 		},
 		{
@@ -793,9 +776,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "295",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/295_Marsh Flats.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/296_Marsh Flats.png"
 			}
 		},
 		{
@@ -803,9 +786,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "301",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/301_Wooded Foothills.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/302_Wooded Foothills.png"
 			}
 		},
 		{
@@ -813,19 +796,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/299_Verdant Catacombs.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "310",
-			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/310_Forest.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/300_Verdant Catacombs.png"
 			}
 		},
 		{
@@ -839,13 +812,13 @@
 			}
 		},
 		{
-			"name": "Island",
+			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "304",
+			"type": "Basic Land — Forest",
+			"collector_number": "312",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/304_Island.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/312_Forest.png"
 			}
 		},
 		{
@@ -859,13 +832,13 @@
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land — Island",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/306_Swamp.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/306_Island.png"
 			}
 		},
 		{
@@ -879,13 +852,13 @@
 			}
 		},
 		{
-			"name": "Mountain",
+			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
+			"type": "Basic Land — Swamp",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/308_Mountain.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/308_Swamp.png"
 			}
 		},
 		{
@@ -899,13 +872,13 @@
 			}
 		},
 		{
-			"name": "Plains",
+			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "302",
+			"type": "Basic Land — Mountain",
+			"collector_number": "310",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/302_Plains.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/310_Mountain.png"
 			}
 		},
 		{
@@ -916,6 +889,16 @@
 			"collector_number": "303",
 			"image_uris": {
 				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/303_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/304_Plains.png"
 			}
 		},
 		{
@@ -933,9 +916,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "137",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/137_Manachaser.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/138_Manachaser.png"
 			}
 		},
 		{
@@ -953,9 +936,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/149_Storm Strike.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/150_Storm Strike.png"
 			}
 		},
 		{
@@ -963,9 +946,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/192_Verdant Overflow.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/193_Verdant Overflow.png"
 			}
 		},
 		{
@@ -973,9 +956,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/194_Wild Ritual.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/195_Wild Ritual.png"
 			}
 		},
 		{
@@ -983,9 +966,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/R}",
 			"type": "Sorcery",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/234_Bloodrage.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/235_Bloodrage.png"
 			}
 		},
 		{
@@ -993,9 +976,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/187_Sanctum of Eternity.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/188_Sanctum of Eternity.png"
 			}
 		},
 		{
@@ -1033,9 +1016,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/P}{R/P}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/129_Engulf.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/130_Engulf.png"
 			}
 		},
 		{
@@ -1043,9 +1026,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/P}{G/P}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/159_Corrode.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/160_Corrode.png"
 			}
 		},
 		{
@@ -1063,9 +1046,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Elemental Avatar",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/217_Muldrotha, Rotbloom.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/218_Muldrotha, Rotbloom.png"
 			}
 		},
 		{
@@ -1083,9 +1066,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}{B}",
 			"type": "Creature — Zombie Beast",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/109_Rotting Baloth.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/110_Rotting Baloth.png"
 			}
 		},
 		{
@@ -1103,9 +1086,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{10}",
 			"type": "Legendary Artifact Creature — Phyrexian Golem",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/250_Karn, Father of Machines.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/251_Karn, Father of Machines.png"
 			}
 		},
 		{
@@ -1123,9 +1106,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/262_Ring of Stars.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/263_Ring of Stars.png"
 			}
 		},
 		{
@@ -1133,9 +1116,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Dragon",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/151_Thran Dragon Engine.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/152_Thran Dragon Engine.png"
 			}
 		},
 		{
@@ -1143,9 +1126,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Vampire Soldier",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/102_Monoist Mutilator.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/103_Monoist Mutilator.png"
 			}
 		},
 		{
@@ -1153,9 +1136,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/245_Bloodsoaked Lotus.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/246_Bloodsoaked Lotus.png"
 			}
 		},
 		{
@@ -1163,9 +1146,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Demon",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/132_Immersturm Conqueror.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/133_Immersturm Conqueror.png"
 			}
 		},
 		{
@@ -1173,9 +1156,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment Creature — Dryad",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/182_Nyxbloom Prodigy.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/183_Nyxbloom Prodigy.png"
 			}
 		},
 		{
@@ -1183,16 +1166,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Satyr",
-			"collector_number": "154",
+			"collector_number": "155",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/154_Xenagos, Violent Hedonist_back.png"
+					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/155_Xenagos, Violent Hedonist_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/154_Xenagos, Violent Hedonist_front.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/155_Xenagos, Violent Hedonist_front.png"
 			}
 		},
 		{
@@ -1200,9 +1183,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/244_Black Lotus.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/245_Black Lotus.png"
 			}
 		},
 		{
@@ -1220,9 +1203,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/153_Voltaic Gambit.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/154_Voltaic Gambit.png"
 			}
 		},
 		{
@@ -1230,9 +1213,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/128_Endless Windfall.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/129_Endless Windfall.png"
 			}
 		},
 		{
@@ -1280,9 +1263,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/285_Shards of Alara.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/286_Shards of Alara.png"
 			}
 		},
 		{
@@ -1320,9 +1303,9 @@
 			"rarity": "rare",
 			"mana_cost": "{8}",
 			"type": "Legendary Artifact",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/265_The Spirit Gem.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/266_The Spirit Gem.png"
 			}
 		},
 		{
@@ -1330,9 +1313,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/104_Phyrexian Therapy.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/105_Phyrexian Therapy.png"
 			}
 		},
 		{
@@ -1340,9 +1323,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/198_Zur's Attendant.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/199_Zur's Attendant.png"
 			}
 		},
 		{
@@ -1350,9 +1333,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/186_Remnant of Titania.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/187_Remnant of Titania.png"
 			}
 		},
 		{
@@ -1360,9 +1343,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Snow Land",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/279_Marit Lage's Prison.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/280_Marit Lage's Prison.png"
 			}
 		},
 		{
@@ -1380,9 +1363,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/115_Thaneborn Miracle.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/116_Thaneborn Miracle.png"
 			}
 		},
 		{
@@ -1400,9 +1383,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/222_Razia, Boros Parun.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/223_Razia, Boros Parun.png"
 			}
 		},
 		{
@@ -1410,9 +1393,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — Eldrazi Angel",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/202_Brisela, Twisted Savior.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/203_Brisela, Twisted Savior.png"
 			}
 		},
 		{
@@ -1420,9 +1403,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/216_Liesa, Wish Granter.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/217_Liesa, Wish Granter.png"
 			}
 		},
 		{
@@ -1430,9 +1413,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{U}",
 			"type": "Legendary Creature — Phyrexian Serpent",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/214_Koma, Compleated.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/215_Koma, Compleated.png"
 			}
 		},
 		{
@@ -1440,9 +1423,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Merfolk Wizard",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/211_Jori En, Relic Hunter.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/212_Jori En, Relic Hunter.png"
 			}
 		},
 		{
@@ -1450,9 +1433,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Enchantment Creature — God",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/212_Karametra, Bloom-Crowned.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/213_Karametra, Bloom-Crowned.png"
 			}
 		},
 		{
@@ -1460,9 +1443,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/233_Winter, Slave to Valgavoth.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/234_Winter, Slave to Valgavoth.png"
 			}
 		},
 		{
@@ -1470,9 +1453,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Scorpion Dragon Rogue",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/199_Akul, the Scourge.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/200_Akul, the Scourge.png"
 			}
 		},
 		{
@@ -1480,9 +1463,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Hellion Hydra",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/232_Ulasht, Writhing Hybrid.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/233_Ulasht, Writhing Hybrid.png"
 			}
 		},
 		{
@@ -1490,9 +1473,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Dryad",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/177_Llanowar Dryad.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/178_Llanowar Dryad.png"
 			}
 		},
 		{
@@ -1500,9 +1483,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dryad",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/172_Growth Tender.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/173_Growth Tender.png"
 			}
 		},
 		{
@@ -1520,9 +1503,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment Creature — Satyr Druid",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/190_Setessan Nyxweaver.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/191_Setessan Nyxweaver.png"
 			}
 		},
 		{
@@ -1530,19 +1513,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment Creature — Nightmare",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/166_Fear of Losing Control.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/167_Fear of Losing Control.png"
 			}
 		},
 		{
-			"name": "Nyx Starscape",
+			"name": "Nyx, Pantheon of Gods",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/282_Nyx Starscape.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/283_Nyx, Pantheon of Gods.png"
 			}
 		},
 		{
@@ -1550,9 +1533,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/291_Yawgmoth's Bastion.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/292_Yawgmoth's Bastion.png"
 			}
 		},
 		{
@@ -1560,9 +1543,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/286_Strixhaven, School of Mages.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/287_Strixhaven, School of Mages.png"
 			}
 		},
 		{
@@ -1570,9 +1553,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "271",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/271_Evendo, Terraformed.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/272_Evendo, Terraformed.png"
 			}
 		},
 		{
@@ -1580,9 +1563,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/273_Immersturm, the Ragelands.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/274_Immersturm, the Ragelands.png"
 			}
 		},
 		{
@@ -1590,9 +1573,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/197_Yavimaya Elves.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/198_Yavimaya Elves.png"
 			}
 		},
 		{
@@ -1600,9 +1583,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact Creature — Scarecrow",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/193_Wickerfolk Tiller.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/194_Wickerfolk Tiller.png"
 			}
 		},
 		{
@@ -1610,9 +1593,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/130_Final Charge.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/131_Final Charge.png"
 			}
 		},
 		{
@@ -1620,9 +1603,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/143_Riveteer's Beatdown.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/144_Riveteer's Beatdown.png"
 			}
 		},
 		{
@@ -1640,9 +1623,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/108_Ritual of Unmaking.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/109_Ritual of Unmaking.png"
 			}
 		},
 		{
@@ -1650,9 +1633,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/179_Mana Harvester.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/180_Mana Harvester.png"
 			}
 		},
 		{
@@ -1660,9 +1643,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elemental Avatar",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/171_Green Sun's Avatar.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/172_Green Sun's Avatar.png"
 			}
 		},
 		{
@@ -1670,9 +1653,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Elemental Avatar",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/142_Red Sun's Avatar.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/143_Red Sun's Avatar.png"
 			}
 		},
 		{
@@ -1710,9 +1693,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/264_Self-Duplicator.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/265_Self-Duplicator.png"
 			}
 		},
 		{
@@ -1720,9 +1703,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/169_Gelatinous Armor.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/170_Gelatinous Armor.png"
 			}
 		},
 		{
@@ -1730,9 +1713,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/165_Extraplanar Surveyor.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/166_Extraplanar Surveyor.png"
 			}
 		},
 		{
@@ -1740,9 +1723,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Satyr",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/155_Xenagos's Disciple.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/156_Xenagos's Disciple.png"
 			}
 		},
 		{
@@ -1750,9 +1733,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Eldrazi Insect",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/113_Swarm of Voidflies.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/114_Swarm of Voidflies.png"
 			}
 		},
 		{
@@ -1760,9 +1743,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land Creature — Forest Dryad",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/269_Dryad Arbor.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/270_Dryad Arbor.png"
 			}
 		},
 		{
@@ -1770,9 +1753,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land Creature — Island Fish",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/275_Jasconian Isle.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/276_Jasconian Isle.png"
 			}
 		},
 		{
@@ -1780,9 +1763,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land Creature — Plains Plant",
-			"collector_number": "283",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/283_Reed Strider.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/284_Reed Strider.png"
 			}
 		},
 		{
@@ -1790,9 +1773,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land Creature — Swamp Devil",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/280_Marsh Fiend.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/281_Marsh Fiend.png"
 			}
 		},
 		{
@@ -1800,9 +1783,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land Creature — Mountain Elemental",
-			"collector_number": "290",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/290_Volcanic Remnant.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/291_Volcanic Remnant.png"
 			}
 		},
 		{
@@ -1810,9 +1793,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Spirit Artificer",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/227_Spectral Forgemaster.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/228_Spectral Forgemaster.png"
 			}
 		},
 		{
@@ -1830,9 +1813,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/248_Door to Duskmourn.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/249_Door to Duskmourn.png"
 			}
 		},
 		{
@@ -1850,9 +1833,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Dryad",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/201_Arbor Awakener.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/202_Arbor Awakener.png"
 			}
 		},
 		{
@@ -1860,9 +1843,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/157_Boughs of Paradise.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/158_Boughs of Paradise.png"
 			}
 		},
 		{
@@ -1870,9 +1853,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/W}{G/W}",
 			"type": "Enchantment",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/240_Night of Living Magic.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/241_Night of Living Magic.png"
 			}
 		},
 		{
@@ -1880,19 +1863,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/220_Perfect's Scout.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/221_Perfect's Scout.png"
 			}
 		},
 		{
-			"name": "Emry, Drowner of Fools",
+			"name": "Emry, Boon Giver",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Merfolk Wizard",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/52_Emry, Drowner of Fools.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/52_Emry, Boon Giver.png"
 			}
 		},
 		{
@@ -1900,9 +1883,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}",
 			"type": "Enchantment",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/238_Hit the Flanks.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/239_Hit the Flanks.png"
 			}
 		},
 		{
@@ -1920,9 +1903,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/168_Forged by Fate.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/169_Forged by Fate.png"
 			}
 		},
 		{
@@ -1940,9 +1923,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/116_Tibalt Causes a Doomskar.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/117_Tibalt Causes a Doomskar.png"
 			}
 		},
 		{
@@ -1950,9 +1933,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "156",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/156_Xenagos's Godly Ascension.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/157_Xenagos's Godly Ascension.png"
 			}
 		},
 		{
@@ -2010,9 +1993,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/110_Siege Casket.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/111_Siege Casket.png"
 			}
 		},
 		{
@@ -2020,9 +2003,9 @@
 			"rarity": "common",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/266_Tocasia's Bauble.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/267_Tocasia's Bauble.png"
 			}
 		},
 		{
@@ -2030,9 +2013,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Sorcerer",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/141_Ral's Prodigy.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/142_Ral's Prodigy.png"
 			}
 		},
 		{
@@ -2070,9 +2053,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/133_Iterate.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/134_Iterate.png"
 			}
 		},
 		{
@@ -2080,9 +2063,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/121_Adrenaline Hellkite.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/122_Adrenaline Hellkite.png"
 			}
 		},
 		{
@@ -2090,9 +2073,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Dwarf Sorcerer",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/150_Storm-Kiln Aspirant.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/151_Storm-Kiln Aspirant.png"
 			}
 		},
 		{
@@ -2100,9 +2083,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/152_Valgavoth's Harbinger.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/153_Valgavoth's Harbinger.png"
 			}
 		},
 		{
@@ -2130,9 +2113,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/118_Tourach's Bargain.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/119_Tourach's Bargain.png"
 			}
 		},
 		{
@@ -2140,9 +2123,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/119_Unhallowed Exchange.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/120_Unhallowed Exchange.png"
 			}
 		},
 		{
@@ -2160,9 +2143,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Sorcerer",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/145_Shivan Channeler.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/146_Shivan Channeler.png"
 			}
 		},
 		{
@@ -2170,9 +2153,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/180_Mulch Channeler.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/181_Mulch Channeler.png"
 			}
 		},
 		{
@@ -2180,9 +2163,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U/B}",
 			"type": "Instant",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/237_Entropy Alignment.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/238_Entropy Alignment.png"
 			}
 		},
 		{
@@ -2190,9 +2173,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Sorcery",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/236_Divine Return.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/237_Divine Return.png"
 			}
 		},
 		{
@@ -2200,9 +2183,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/195_Wilderness Reflection.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/196_Wilderness Reflection.png"
 			}
 		},
 		{
@@ -2210,9 +2193,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Insect",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/178_Loam Familiar.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/179_Loam Familiar.png"
 			}
 		},
 		{
@@ -2230,9 +2213,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Kindred Artifact — Eldrazi",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/247_Cosmic Repurposer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/248_Cosmic Repurposer.png"
 			}
 		},
 		{
@@ -2290,9 +2273,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/246_Conjurer's Trinket.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/247_Conjurer's Trinket.png"
 			}
 		},
 		{
@@ -2300,9 +2283,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W/U}{W/U}",
 			"type": "Instant",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/243_Veto.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/244_Veto.png"
 			}
 		},
 		{
@@ -2360,9 +2343,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/251_Memnarch's Soul Trap.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/252_Memnarch's Soul Trap.png"
 			}
 		},
 		{
@@ -2370,9 +2353,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Plant",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/188_Sapling of Wrenn.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/189_Sapling of Wrenn.png"
 			}
 		},
 		{
@@ -2380,9 +2363,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Artifact",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/138_The Mightstone.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/139_The Mightstone.png"
 			}
 		},
 		{
@@ -2400,9 +2383,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/164_Ennor, Garenbrig Exile.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/165_Ennor, Garenbrig Exile.png"
 			}
 		},
 		{
@@ -2410,9 +2393,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Artifact",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/184_Questing Beast's Head.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/185_Questing Beast's Head.png"
 			}
 		},
 		{
@@ -2430,9 +2413,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{3/B}{3/G}{3/U}",
 			"type": "Sorcery",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/221_Rakshasa's Will.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/222_Rakshasa's Will.png"
 			}
 		},
 		{
@@ -2480,9 +2463,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/112_Stairway Into the Abyss.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/113_Stairway Into the Abyss.png"
 			}
 		},
 		{
@@ -2490,9 +2473,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Ogre Artificer",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/139_Onakke Chainsmith.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/140_Onakke Chainsmith.png"
 			}
 		},
 		{
@@ -2500,9 +2483,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/120_Xathrid, Shandalar's Bane.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/121_Xathrid, Shandalar's Bane.png"
 			}
 		},
 		{
@@ -2520,9 +2503,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land Creature — Elemental",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/284_Roaming Continent.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/285_Roaming Continent.png"
 			}
 		},
 		{
@@ -2560,9 +2543,9 @@
 			"rarity": "common",
 			"mana_cost": "{X}{R}",
 			"type": "Instant",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/124_Ashling's Inferno.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/125_Ashling's Inferno.png"
 			}
 		},
 		{
@@ -2570,9 +2553,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/126_Collective Conflagration.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/127_Collective Conflagration.png"
 			}
 		},
 		{
@@ -2580,9 +2563,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Elemental Dinosaur",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/127_Colossal Embermaw.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/128_Colossal Embermaw.png"
 			}
 		},
 		{
@@ -2640,9 +2623,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/114_Targeted Plague.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/115_Targeted Plague.png"
 			}
 		},
 		{
@@ -2650,9 +2633,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/107_Returned Maskcarver.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/108_Returned Maskcarver.png"
 			}
 		},
 		{
@@ -2750,9 +2733,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment Creature — Dryad",
-			"collector_number": "161",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/161_Dryad of the Cycle.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/162_Dryad of the Cycle.png"
 			}
 		},
 		{
@@ -2760,9 +2743,9 @@
 			"rarity": "common",
 			"mana_cost": "{0}",
 			"type": "Enchantment",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/181_Nyx Presence.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/182_Nyx Presence.png"
 			}
 		},
 		{
@@ -2770,9 +2753,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/185_Rancorous Roil.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/186_Rancorous Roil.png"
 			}
 		},
 		{
@@ -2780,9 +2763,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Troll Berserker",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/173_Hamundar Haymaker.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/174_Hamundar Haymaker.png"
 			}
 		},
 		{
@@ -2800,9 +2783,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Enchantment Land",
-			"collector_number": "274",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/274_Irridescent Omenpath.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/275_Irridescent Omenpath.png"
 			}
 		},
 		{
@@ -2810,9 +2793,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "162",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/162_Ecological Niche.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/163_Ecological Niche.png"
 			}
 		},
 		{
@@ -2820,9 +2803,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{G}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/167_Force of Devestation.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/168_Force of Devestation.png"
 			}
 		},
 		{
@@ -2830,9 +2813,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{U}{B}{R}{G}",
 			"type": "Creature — Elemental Avatar",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/203_Conflux Anima.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/204_Conflux Anima.png"
 			}
 		},
 		{
@@ -2840,9 +2823,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/175_Kalonian Gargantua.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/176_Kalonian Gargantua.png"
 			}
 		},
 		{
@@ -2850,9 +2833,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{G}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/176_Kami of Endless Potential.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/177_Kami of Endless Potential.png"
 			}
 		},
 		{
@@ -2860,9 +2843,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Snake Shaman",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/218_Oasis Channeler.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/219_Oasis Channeler.png"
 			}
 		},
 		{
@@ -2870,9 +2853,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Ogre Citizen",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/223_Reconstruction Crew.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/224_Reconstruction Crew.png"
 			}
 		},
 		{
@@ -2880,9 +2863,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/206_Elite Shieldmage.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/207_Elite Shieldmage.png"
 			}
 		},
 		{
@@ -2890,9 +2873,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Enchantment Creature — Horror",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/213_Karametra's Reaper.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/214_Karametra's Reaper.png"
 			}
 		},
 		{
@@ -2900,9 +2883,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Plant Zombie",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/219_Overgrown Undead.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/220_Overgrown Undead.png"
 			}
 		},
 		{
@@ -2910,9 +2893,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Shade",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/226_Shade of Omens.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/227_Shade of Omens.png"
 			}
 		},
 		{
@@ -2930,9 +2913,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Artifact",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/205_Electrostatic Accumulator.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/206_Electrostatic Accumulator.png"
 			}
 		},
 		{
@@ -2940,9 +2923,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Troll",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/208_Forestback Troll.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/209_Forestback Troll.png"
 			}
 		},
 		{
@@ -2950,9 +2933,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment Creature — Glimmer",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/225_Salvation Glimmer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/226_Salvation Glimmer.png"
 			}
 		},
 		{
@@ -2960,9 +2943,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Artifact Creature — Servo",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/224_Saheeli's Messenger.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/225_Saheeli's Messenger.png"
 			}
 		},
 		{
@@ -2970,9 +2953,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Horror",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/189_Seething Cellarspawn.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/190_Seething Cellarspawn.png"
 			}
 		},
 		{
@@ -2980,9 +2963,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Enchantment Creature — Horror",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/174_Hauntwoods Harbinger.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/175_Hauntwoods Harbinger.png"
 			}
 		},
 		{
@@ -2990,9 +2973,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/123_Ashfall Regent.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/124_Ashfall Regent.png"
 			}
 		},
 		{
@@ -3000,9 +2983,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/G}{B/G}",
 			"type": "Instant",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/242_Rotten Insight.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/243_Rotten Insight.png"
 			}
 		},
 		{
@@ -3010,9 +2993,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G/U}{G/U}",
 			"type": "Instant",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/235_Born Anew.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/236_Born Anew.png"
 			}
 		},
 		{
@@ -3020,9 +3003,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}",
 			"type": "Artifact",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/241_Plasma Core.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/242_Plasma Core.png"
 			}
 		},
 		{
@@ -3030,9 +3013,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/G}{R/G}",
 			"type": "Creature — Hydra",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/239_Insatiable Managorger.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/240_Insatiable Managorger.png"
 			}
 		},
 		{
@@ -3040,9 +3023,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/215_Kruphix's Temple.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/216_Kruphix's Temple.png"
 			}
 		},
 		{
@@ -3050,9 +3033,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Hellion",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/231_Thromok's Spawn.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/232_Thromok's Spawn.png"
 			}
 		},
 		{
@@ -3060,9 +3043,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Lizard Wizard",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/228_Static Manipulator.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/229_Static Manipulator.png"
 			}
 		},
 		{
@@ -3070,9 +3053,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/200_Angelic Upheaval.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/201_Angelic Upheaval.png"
 			}
 		},
 		{
@@ -3080,9 +3063,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Samurai",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/207_Emperor's Vanguard.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/208_Emperor's Vanguard.png"
 			}
 		},
 		{
@@ -3090,9 +3073,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Creature — Dauthi Soldier",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/204_Dauthi Mindthief.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/205_Dauthi Mindthief.png"
 			}
 		},
 		{
@@ -3110,9 +3093,9 @@
 			"rarity": "common",
 			"mana_cost": "{7}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/249_Imperial Sunderer.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/250_Imperial Sunderer.png"
 			}
 		},
 		{
@@ -3130,9 +3113,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/134_Keldon Crusader.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/135_Keldon Crusader.png"
 			}
 		},
 		{
@@ -3140,9 +3123,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/144_Roilreaper.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/145_Roilreaper.png"
 			}
 		},
 		{
@@ -3150,9 +3133,36 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/136_Lumbering Landslide.png"
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/137_Lumbering Landslide.png"
+			}
+		},
+		{
+			"name": "Ashiok, Dream Seeker",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "41",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/41_Ashiok, Dream Seeker_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/41_Ashiok, Dream Seeker_front.png"
+			}
+		},
+		{
+			"name": "Mental Intrusion",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/102_Mental Intrusion.png"
 			}
 		}
 	]
@@ -3197,7 +3207,6 @@
 	1 Hectos, Titan of Mana's Roil
 	1 Tempus, Titan of Time's Ruin
 	1 Griselbrand, Unsealed
-	1 Ashiok, Dream Seeker
 	1 Calix, Fate-Sworn
 	1 Narset, Ojutai's Faithful
 	2 Sylvan Guardian
@@ -3226,7 +3235,7 @@
 	2 Winter, Slave to Valgavoth
 	2 Akul, the Scourge
 	2 Ulasht, Writhing Hybrid
-	2 Nyx Starscape
+	2 Nyx, Pantheon of Gods
 	2 Yawgmoth's Bastion
 	2 Strixhaven, School of Mages
 	2 Evendo, Terraformed
@@ -3252,6 +3261,7 @@
 	1 Conflux Anima
 	1 Hauntwoods Harbinger
 	1 Ashfall Regent
+	1 Ashiok, Dream Seeker
 [uncommon(3)]
 	4 Gitaxian Research
 	4 Aftershock
@@ -3299,7 +3309,7 @@
 	4 Boughs of Paradise
 	4 Night of Living Magic
 	4 Perfect's Scout
-	4 Emry, Drowner of Fools
+	4 Emry, Boon Giver
 	4 Hit the Flanks
 	4 Giada, Nascent Seraph
 	4 Forged by Fate
@@ -3336,6 +3346,7 @@
 	4 Emperor's Vanguard
 	4 Dauthi Mindthief
 	4 Lumbering Landslide
+	4 Mental Intrusion
 [common(6)]
 	8 Storm Fiend
 	8 Dredge the Depths
@@ -3644,7 +3655,6 @@
 	1 Tempus, Titan of Time's Ruin
 	1 Griselbrand, Unsealed
 	6 Stormbrain
-	1 Ashiok, Dream Seeker
 	1 Calix, Fate-Sworn
 	1 Narset, Ojutai's Faithful
 	6 Ulamog's Wake
@@ -3726,7 +3736,7 @@
 	12 Bury
 	6 Setessan Nyxweaver
 	6 Fear of Losing Control
-	2 Nyx Starscape
+	2 Nyx, Pantheon of Gods
 	2 Yawgmoth's Bastion
 	2 Strixhaven, School of Mages
 	2 Evendo, Terraformed
@@ -3761,7 +3771,7 @@
 	6 Boughs of Paradise
 	6 Night of Living Magic
 	6 Perfect's Scout
-	6 Emry, Drowner of Fools
+	6 Emry, Boon Giver
 	6 Hit the Flanks
 	6 Giada, Nascent Seraph
 	6 Forged by Fate
@@ -3888,6 +3898,8 @@
 	12 Keldon Crusader
 	12 Roilreaper
 	6 Lumbering Landslide
+	1 Ashiok, Dream Seeker
+	6 Mental Intrusion
 [wildcard(1)]
 	4 Gigantersaurus
 	7 Time Dilate
@@ -3946,7 +3958,6 @@
 	4 Tempus, Titan of Time's Ruin
 	4 Griselbrand, Unsealed
 	15 Stormbrain
-	4 Ashiok, Dream Seeker
 	4 Calix, Fate-Sworn
 	4 Narset, Ojutai's Faithful
 	15 Ulamog's Wake
@@ -4028,7 +4039,7 @@
 	6 Bury
 	15 Setessan Nyxweaver
 	15 Fear of Losing Control
-	7 Nyx Starscape
+	7 Nyx, Pantheon of Gods
 	7 Yawgmoth's Bastion
 	7 Strixhaven, School of Mages
 	7 Evendo, Terraformed
@@ -4063,7 +4074,7 @@
 	15 Boughs of Paradise
 	15 Night of Living Magic
 	15 Perfect's Scout
-	15 Emry, Drowner of Fools
+	15 Emry, Boon Giver
 	15 Hit the Flanks
 	15 Giada, Nascent Seraph
 	15 Forged by Fate
@@ -4190,3 +4201,5 @@
 	6 Keldon Crusader
 	6 Roilreaper
 	15 Lumbering Landslide
+	4 Ashiok, Dream Seeker
+	15 Mental Intrusion
