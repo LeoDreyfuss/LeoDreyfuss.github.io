@@ -1,4 +1,63 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Return added.
+Giant Ladybug added.
+
+Recast removed.
+Phyrexian Therapy removed.
+
+Tibalt, Cruel Sadist
+
+Mox Bismuth
+
+From the Grave
+cost: {2}{B} => {1}{B}
+
+Simian Spirit Guide
+
+Elvish Spirit Guide
+
+Merrow Spirit Guide
+
+Skeletal Spirit Guide
+
+Dark Blessing
+rules_text: Search your library for a card, and put it into your hand, then shuffle. You lose 2 life.
+Miracle {B} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Search your library for a card, and put it into your hand, then shuffle. You lose 2 life.
+Miracle {B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Stormbrain
+
+Bloodsoaked Lotus
+
+Entropy Alignment
+
+Divine Return
+rules_text: Return target creature card from your graveyard to the battlefield.
+Miracle—Discard a card [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Return target creature card from your graveyard to the battlefield.
+Miracle—Discard a card [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Loam Familiar
+
+Conflux Anima
+rules_text: Flying, lifelink
+Whenever this creature or another creature you control enters, look at the top seven cards of your library. For each of that creatures colors, you may reveal a card from among them of that color and put it into your hand. Shuffle afterwards. => Flying, lifelink
+Whenever this creature or another creature you control enters, look at the top ten cards of your library. You may reveal up to one white, blue, black, red, green, and/or colorless card from among them. Put all cards revealed this way into your hand, then shuffle.
+
+Born Anew
+
+Plasma Core
+
+Insatiable Managorger
+
+Keldon Crusader
+rules_text: When this attacks or dies, reveal the top card of your library, any opponent may pay life equal to its mana value, when they do, put that card into your graveyard. Otherwise, put it into your hand. => When this creature attacks or dies, reveal the top card of your library, any opponent may pay life equal to its mana value, when they do, put that card into your graveyard. Otherwise, put it into your hand.
+
+Ashiok, Dream Seeker
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Nyx, Pantheon of Gods added.
