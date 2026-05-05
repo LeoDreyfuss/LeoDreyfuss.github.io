@@ -1,4 +1,73 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Stone Deluge added.
+Araithia Shokta, Sleeper Agent added.
+Bringer of Decay added.
+Second Sun's Coming added.
+Curse of Wandering added.
+Aetherstorm added.
+
+Stone Downpour removed.
+Arathia Shokta, Sleeper Agent removed.
+
+Dark Blessing
+rules_text: Search your library for a card, and put it into your hand, then shuffle. You lose 2 life.
+Miracle {B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Search your library for a card, and put it into your hand, then shuffle. You lose 2 life.
+Miracle {B} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+World Ooze's Trail
+
+Windswept Heath
+
+Polluted Delta
+
+Misty Rainforest
+
+Scalding Tarn
+
+Arid Mesa
+
+Bloodstained Mire
+
+Flooded Strand
+
+Marsh Flats
+
+Wooded Foothills
+
+Verdant Catacombs
+
+Thran Dragon Engine
+
+Temporal Tempest
+
+Divine Return
+rules_text: Return target creature card from your graveyard to the battlefield.
+Miracle—Discard a card [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Return target creature card from your graveyard to the battlefield.
+Miracle—Discard a card [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Diamondstorm
+rules_text: Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Roaming Continent
+type: Land Creature — Elemental => Land Creature — Turtle
+
+Box Jellyfish
+
+Colossal Embermaw
+
+Overgrown Undead
+
+Ashfall Regent
+rules_text: Flying, Trample
+At the beginning of your end step, each player reveals the top card of their library. This creature deals damage to any target equal to the greatest mana value among cards revealed this way, then each player draws a card. => Flying, trample
+At the beginning of your end step, each player reveals the top card of their library. This creature deals damage to any target equal to the greatest mana value among cards revealed this way, then each player draws a card.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Return added.
