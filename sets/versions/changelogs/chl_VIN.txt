@@ -1,4 +1,30 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Conflagrant Emergence added.
+Flame Tempest added.
+War of the Spark added.
+Dross Gazestealer added.
+Hydroa added.
+Glen Elendra Ambush added.
+Cataclysmic Impact added.
+
+
+Windswept Heath
+
+Verdant Catacombs
+
+Soft Copy
+
+Second Sun's Coming
+rules_text: When this enchantment enters, if it was not cast for its miracle cost, put it on top of its owners library, otherwise, destroy all creatures.
+Whenever an opponent casts a spell, create a 1/1 white warrior creature token.
+Miracle {W}{W}{W} => When this enchantment enters, if it was not cast for its miracle cost, put it on top of its owners library, otherwise, destroy all creatures.
+Whenever an opponent plays a land or casts a spell, create a 1/1 white warrior creature token.
+Miracle {W}{W}{W}
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Stone Deluge added.
