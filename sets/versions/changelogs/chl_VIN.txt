@@ -1,4 +1,125 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Karametra, Bloom Regent added.
+Soulkeeper Mechan added.
+The Faller, At the End Of Time added.
+Dreadhorde Archon added.
+Insanity Chronicler added.
+Hidetsugu, World Burner added.
+Mizzix, Storm Sculptor added.
+Thread of Fate added.
+Spindle of Klothys added.
+Axe of Mogis added.
+Scythe of Karametra added.
+Mask of Phenax added.
+Scroll of Ephara added.
+Cloak of Kruphix added.
+Bolt of Keranos added.
+Shield of Iroas added.
+Bowl of Pharika added.
+Staff of Athreos added.
+
+Karametra, Bloom-Crowned removed.
+Mechan Soulkeeper removed.
+The Faller, At The End of Time removed.
+
+Stormclaw Warsinger
+rules_text: Blitz {1}{BR} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, if it attacked this turn, create a Treasure token, then if it entered this turn, create another Treasure token. => Blitz {1}{BR} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, if it attacked this turn, this creature deals 2 damage to each opponent, if it entered this turn, create a Treasure token.
+
+Hectos, Titan of Mana's Roil
+
+Karn, Father of Machines
+
+The Spirit Gem
+
+Brisela, Twisted Savior
+
+Liesa, Wish Granter
+rules_text: Flying
+Whenever you cast this spell or another spell, if the amount of mana spent to cast that spell was less than its mana value, you gain 3 life and draw a card.
+Miracle {1}{W}{B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Flying
+Whenever you cast this spell or another spell, if the amount of mana spent to cast that spell was less than its mana value, you gain 3 life and draw a card.
+Miracle {2}{W}{B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Koma, Compleated
+
+Jori En, Relic Hunter
+
+Forged by Fate
+cost: {G} => {2}{G}{G}
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for an artifact or enchantment card, reveal it, and put it into your hand.
+II, III — Target creature you control deals damage equal to its power to target creature you don't control, then put a +1/+1 counter on it.
+​
+
+Tibalt Causes a Doomskar
+cost: {B} => {1}{B}{B}
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a finality counter on target creature you control.
+II — Each opponent sacrifices two creatures.
+III — Each opponent sacrifices two lands.
+
+Xenagos's Godly Ascension
+cost: {R} => {1}{R}
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red and green Satyr creature token with haste.
+II — Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.
+III — Deal 2 damage to each creature.
+
+Wilderness Reflection
+rules_text: Whenever a land you control enters, you may have it become a copy of another target land you control until end of turn. => Whenever a land you control enters, you may have it become a copy of another target permanent you control until end of turn.
+
+Baral, Consulate Captain
+rules_text: Noncreature spells your opponents cast cost {1} more to cast.
+Whenever an opponent casts their first noncreature spell each turn, put a +1/+1 counter on Baral, then draw a card. => Noncreature spells your opponents cast cost {1} more to cast.
+Whenever an opponent casts their first noncreature spell each turn, put a +1/+1 counter on Baral, when you do, draw a card then discard a card.
+
+Xathrid, Shandalar's Bane
+rules_text: Flying
+Whenever another creature enters, you may put a -1/-1 counter on Xathrid, when you do, destroy that creature.
+Miracle {2}{B}{B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Flying
+Whenever another creature enters, you may put a -1/-1 counter on Xathrid, when you do, destroy that creature.
+Miracle {4}{B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Hidetsugu's Progeny
+type: Legendary Creature — Spirit => Legendary Creature — Demon Spirit
+
+Emrakul's Boon
+cost: {3}{B} => {1}{B}{B}
+
+Giant Ladybug
+rules_text: {G}: This creature gains flying until end of turn.
+{G}: This creature gains trample until end of turn.
+{G}: Until end of turn, this creature gains “When this creature deals combat damage to a player, put that many +1/+1 counters on it.” => {G}: This creature gains flying until end of turn.
+{G}: This creature gains trample until end of turn.
+{G}: Until end of turn, this creature gains “Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.”
+
+Aetherstorm
+rules_text: Storm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]
+When this enchantment enters, draw three cards, then discard a card.
+Whenever you discard one or more cards, scry 1. => Storm [i](When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies. Copies become tokens.)[/i]
+When this enchantment enters, target player draws three cards, then discard a card.
+Whenever you discard one or more cards, scry 1.
+
+Flame Tempest
+rules_text: [i]Strive[/i] — This spell costs {R} more to cast for each spell chosen beyond the first.
+Choose any number of target nonland permanents. For each creature or planeswalker chosen this way, this spell deals 3 damage to them. Destroy each artifact or nonbasic land chosen this way. => [i]Strive[/i] — This spell costs {R} more to cast for each spell chosen beyond the first.
+Choose any number of target permanents. For each creature or planeswalker chosen this way, this spell deals 3 damage to them. Destroy each artifact and/or nonbasic land chosen this way.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Conflagrant Emergence added.
