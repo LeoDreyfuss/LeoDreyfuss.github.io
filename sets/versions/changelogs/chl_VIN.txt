@@ -1,4 +1,109 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Mechan Soulkeeper added.
+Unrestricted Growth added.
+The Eludha added.
+Blood Transfusion added.
+Mishra, Butcher of Kroog added.
+War Foundry added.
+Shooting Star added.
+Extra Common 3 added.
+Extra Common 4 added.
+Extra Common 1 added.
+Extra Common 2 added.
+Green Uncommon 1 added.
+Red Uncommon 1 added.
+Red Uncommon 2 added.
+Black Uncommon 1 added.
+Black Uncommon 2 added.
+White Uncommon 1 added.
+White Uncommon 4 added.
+White Uncommon 3 added.
+White Uncommon 2 added.
+Extra Uncommon 2 added.
+Extra Uncommon 3 added.
+Extra Uncommon 4 added.
+Extra Uncommon 5 added.
+Extra Uncommon 8 added.
+Extra Uncommon 1 added.
+Extra Uncommon 6 added.
+Extra Uncommon 7 added.
+Red Rare 1 added.
+Red Rare 2 added.
+Red Rare 3 added.
+Black Rare 1 added.
+Black Rare 2 added.
+White Rare 3 added.
+White Rare 1 added.
+White Rare 4 added.
+White Rare 2 added.
+
+Soulkeeper Mechan removed.
+
+Birgi's Harbinger
+type: Creature — Human => Creature — Human Berserker
+
+Sylvan Guardian
+type: Creature — Elf Druid => Creature — Human Druid
+
+Avishkari Gearsmith
+type: Creature — Vedalken Artificer => Creature — Human Artificer
+
+Zur's Attendant
+type: Creature — Human => Creature — Human Advisor
+
+Growth Tender
+type: Creature — Dryad => Creature — Human Druid
+
+Self-Duplicator
+pt: 1/2 => 2/2
+
+Extraplanar Surveyor
+type: Creature — Elf Scout => Creature — Human Scout
+
+Mulch Channeler
+type: Creature — Dryad => Creature — Human Druid
+
+Diamondstorm
+rules_text: Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Protecting Licid
+rules_text: {W}: If this creature is not an aura, it becomes an aura enchantment with enchant creature, and loses all other card types. Attach it to target creature.
+Enchanted creature has umbra armor.
+Whenever enchanted creature dies, return this card to the battlefield as an enchantment creature. => {W}: If this creature is not an aura, it becomes an aura enchantment with enchant creature, and loses all other card types. Attach it to target creature you control.
+Enchanted creature has umbra armor.
+Whenever enchanted creature dies, return this card to the battlefield as an enchantment creature.
+
+Insanity Chronicler
+rules_text: Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+At the beginning of your end step, if their are three or less cards in your library, you win the game. => Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+At the beginning of each end step, if their are three or less cards in your library, you win the game.
+
+Mizzix, Storm Sculptor
+rules_text: Instant and sorcery spells you cast cost {2} less to cast.
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, create a token that's a copy of target creature you control except it isn't legendary, and gains haste. Sacrifice it at the beginning of the next end step. => Instant and sorcery spells you cast cost {2} less to cast.
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, create a token that's a copy of another target creature you control except it isn't legendary, and gains haste. Sacrifice it at the beginning of the next end step.
+
+Scroll of Ephara
+rules_text: Whenever this or another permanent you control enters, you may reveal the top card of your library, when a card which shares a card type with the permanent which entered is revealed this way, put it into your hand.
+{WU}, {T}: Scry 2. => Whenever this permanent or another permanent you control enters, you may reveal the top card of your library, when a card which shares a card type with the permanent which entered is revealed this way, put it into your hand.
+{WU}, {T}: Scry 2.
+
+Bolt of Keranos
+rules_text: When this permanent enters, it deals 3 damage to any target, then draw a card.
+{3}{UR}, {T}: Until end of turn, whenever you cast a spell, create a token that's a copy of this permanent except it doesn't have this ability. => When this permanent enters, it deals 3 damage to any target and you draw a card.
+{3}{UR}, {T}: Until end of turn, whenever you cast a spell, create a token that's a copy of this permanent except it doesn't have this ability.
+
+Bowl of Pharika
+rules_text: Whenever a creature card is put into your graveyard from anywhere, create a 1/1 black snake creature token with deathtouch.
+{5}{BG}, {T}: Until end of turn, target creature you control with deathtouch gains “When this creature deals combat damage to a player, that player loses the game.” => Whenever one or more creature cards are put into your graveyard from anywhere, create a 1/1 black snake creature token with deathtouch.
+{5}{BG}, {T}: Until end of turn, target creature you control with deathtouch gains “Whenever this creature deals combat damage to a player, that player loses the game.”
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Karametra, Bloom Regent added.
