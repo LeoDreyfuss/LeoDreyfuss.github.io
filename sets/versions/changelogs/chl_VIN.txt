@@ -1,4 +1,195 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Alhammarret's Expertise added.
+Geth's Expertise added.
+Spawn of The All Consuming added.
+Grounded Ornithopter added.
+Nyxborn Fuel added.
+Kodama's Expertise added.
+Veyran's Expertise added.
+Adeline's Expertise added.
+Frozen Mind added.
+Visions of Fire added.
+Ancient Huntmaster added.
+
+Alhammarret's Intuition removed.
+Thaneborn Miracle removed.
+Hidetsugu's Progeny removed.
+Extra Common 3 removed.
+Extra Common 4 removed.
+Green Uncommon 1 removed.
+Red Uncommon 2 removed.
+White Uncommon 3 removed.
+Extra Uncommon 7 removed.
+Red Rare 3 removed.
+
+Mark of Oblivion
+rules_text: [i]Eerie[/i] — Whenever this enchantment or another enchantment you control enters and whenever you fully unlock a room, exile target nonland permanent until this enchantment leaves the battlefield. => [i]Eerie[/i] — Whenever this enchantment or another enchantment you control enters and whenever you fully unlock a room, exile target creature until this enchantment leaves the battlefield.
+
+Sylvan Guardian
+rules_text: Whenever a land is put into your graveyard from anywhere, target creature you control gains hexproof until end of turn.
+{1}, {T}, Sacrifice a land: Search your library for a land and put it onto the battlefield tapped, then shuffle. => Whenever a land is put into your graveyard from anywhere, target creature you control gains hexproof until end of turn.
+{1}, {T}, Sacrifice a land: Search your library for a land and put it onto the battlefield, then shuffle.
+
+Forced Prayer
+rules_text: The first card you draw each turn has miracle {2} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+Whenever you cast a spell for its miracle cost, sacrifice this enchantment. => The first card you draw each turn has miracle {1} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+Whenever you cast a spell for its miracle cost, sacrifice this enchantment.
+
+Xerex Paragon
+
+Akul, the Scourge
+rules_text: Flying, trample
+Sacrifice a nontoken creature: Put a creature card from your hand onto the battlefield, it gains haste until end of turn. Sacrifice it at the beginning of the next end step. => Flying, trample
+Sacrifice a nontoken creature: You may put a creature card from your hand onto the battlefield, it gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+
+Setessan Nyxweaver
+
+Riveteer's Beatdown
+rules_text: The next creature spell you cast this turn costs {R} to cast.
+Whenever you cast your next creature spell this turn, it gains haste, sacrifice it at the beginning of the next end step. => The next creature spell you cast this turn costs {R} to cast.
+Whenever you cast your next creature spell this turn, it gains haste, sacrifice it at the beginning of the next end step, then draw a card.
+
+Tibalt Causes a Doomskar
+cost: {1}{B}{B} => {2}{B}{B}
+
+Souldrifter
+rules_text: As an additional cost to cast this spell, exile seven cards from your graveyard.
+When this creature enters, draw two cards. => As an additional cost to cast this spell, exile five cards from your graveyard.
+When this creature enters, draw two cards.
+
+Oracle's Rebuff
+rules_text: Counter target spell unless its controller pays {3}. If they do, you may draw a card then discard a card. => Counter target spell unless its controller pays {3}. If they do, you may draw a card.
+
+Ral's Prodigy
+cost: {1}{R} => {R}
+pt: 2/2 => 2/1
+
+Mechan Soulkeeper
+
+Dream Fragment
+
+Cosmic Repurposer
+cost: {4} => {2}
+rules_text: Exile a creature you control: Reveal cards from the top of your library until you reveal a creature card, you may cast it without paying it's mana cost. Put the rest of the revealed cards onto the bottom of your library in a random order. Activate only once each turn. => Exile a creature you control: Reveal cards from the top of your library until you reveal a creature card with mana value equal to 1 plus the mana value of the exiled creature. You may cast it without paying it's mana cost. Put the rest of the revealed cards onto the bottom of your library in a random order. Activate only once each turn.
+
+Veto
+rules_text: Counter target spells unless its controller pays {2}.
+Players can't cast noncreature spells this turn. => Counter target spells unless its controller pays {3}.
+Your opponents can't cast noncreature spells this turn.
+
+The Weakstone
+
+Baral, Consulate Captain
+
+Okuana, Kami Engine
+
+Protecting Licid
+rules_text: {W}: If this creature is not an aura, it becomes an aura enchantment with enchant creature, and loses all other card types. Attach it to target creature you control.
+Enchanted creature has umbra armor.
+Whenever enchanted creature dies, return this card to the battlefield as an enchantment creature. => {W}: If this creature is not an aura, it becomes an aura enchantment with enchant creature, and loses all other card types. Attach it to target creature you control.
+Enchanted creature gets +2/+2
+Whenever enchanted creature dies, return this card to the battlefield as an enchantment creature.
+
+The Faller, At the End Of Time
+
+The Faller's Plunge
+
+Grave Sower
+
+Chrome Host Entomber
+
+Transcendent Emeritus
+
+Esper Opperative
+
+Rancorous Roil
+rules_text: Enchant land
+[i]Landfall[/i] — Whenever a land you control enters, put a grow counter on this enchantment.
+Whenever enchanted land is tapped for mana, its controlled adds an additional X mana of any one color, where X is the number of growth counters on this enchantment. => Enchant land
+[i]Landfall[/i] — Whenever a land you control enters, put a growth counter on this enchantment.
+Whenever enchanted land is tapped for mana, its controlled adds an additional X mana of any one color, where X is the number of growth counters on this enchantment.
+
+Ecological Niche
+cost: {1}{G}{G} => {1}{G}
+rules_text: Choose target creature you control. Search your library for a green creature card and exile it, then shuffle. The chosen creature becomes a copy of the exiled card for as long as it remains in exile. When the chosen creature leaves the battlefield, shuffle the exiled card into your library. => Choose target creature you control. Search your library for a creature card that's one or more colors and exile it, then shuffle. The chosen creature becomes a copy of the exiled card for as long as it remains in exile. When the chosen creature leaves the battlefield, shuffle the exiled card into your library.
+
+Force of Devestation
+rules_text: Vigilance, trample
+[i]Enrage[/i] — Whenever this creature is dealt damage, it deals damage equal to its power to up to one target creature or planeswalker. => Vigilance, trample
+Other creatures you control have base power and toughness 7/7.
+
+Kalonian Gargantua
+rules_text: [i]Landfall[/i] — This creature gets +2/+0 and gains trample until end of turn.
+Creatures you control have “{T}: Add {C}.” => Trample
+At the beginning of your upkeep, create a forest land token.
+
+Emrakul's Boon
+
+Veilweaver
+
+Misthollow Geist
+rules_text: Exile a card from your graveyard: Exile target creature you control, then return it to the battlefield under its owner's control.. Activate only once each turn. => Exile a card from your graveyard: Exile target creature you control, then return it to the battlefield under its owner's control. Activate only once each turn.
+
+Second Sun's Coming
+rules_text: When this enchantment enters, if it was not cast for its miracle cost, put it on top of its owners library, otherwise, destroy all creatures.
+Whenever an opponent plays a land or casts a spell, create a 1/1 white warrior creature token.
+Miracle {W}{W}{W} => When this enchantment enters, if it was not cast for its miracle cost, put it on top of its owners library, otherwise, destroy all creatures.
+Whenever an opponent plays a land or casts a spell, create a 1/1 white human creature token.
+Miracle {W}{W}{W}
+
+Curse of Wandering
+
+Flame Tempest
+rules_text: [i]Strive[/i] — This spell costs {R} more to cast for each spell chosen beyond the first.
+Choose any number of target permanents. For each creature or planeswalker chosen this way, this spell deals 3 damage to them. Destroy each artifact and/or nonbasic land chosen this way. => [i]Strive[/i] — This spell costs {R} more to cast for each target chosen beyond the first.
+Choose any number of target permanents. For each creature or planeswalker chosen this way, this spell deals 3 damage to them. Destroy each artifact and/or nonbasic land chosen this way.
+
+War of the Spark
+
+Dross Gazestealer
+
+Glen Elendra Ambush
+
+Dreadhorde Archon
+
+Spindle of Klothys
+rules_text: You may look at the top five cards of your library, and may play lands and cast creature spells from among them.
+{1}{RG}, {T}: You mill three cards and gain 3 life. => You may look at the top five cards of your library at any time, and may play lands and cast creature spells from among them.
+{1}{RG}, {T}: You mill three cards and gain 3 life.
+
+The Eludha
+rules_text: Companion — Your deck has at least three human creatures and at least three nonhuman creatures.
+Creature cards in your hand have mutate, and can be mutated onto human and nonhuman creatures you control.
+Whenever a creature you control mutates, put a +1/+1 counter on it. => Companion — Your deck has at least three human creatures and at least three nonhuman creatures.
+Creature cards in your hand have mutate, and can be mutated onto human and nonhuman creatures you control. The mutate cost is equal to its mana cost.
+Whenever a creature you control mutates, put a +1/+1 counter on it.
+
+Mishra, Butcher of Kroog
+pt:  => 1/4
+
+War Foundry
+rules_text: When this artifact enters, create two 0/0 colorless Construct artifact creature tokens with “This creature gets +1/+1 for each artifact you control.”
+{2}, {T}, Sacrifice another artifact: Deal 2 damage to target creature or planeswalker. => When this artifact enters, create two 0/0 colorless Construct artifact creature tokens with “This creature gets +1/+1 for each artifact you control.”
+{T}, Sacrifice another artifact: Add {R}{R}.
+
+Viziers Companion
+
+Shattered Sphinx
+rules_text: Flying
+When this creature enters, and at the beginning of your upkeep, look at the top five cards of your library, put one of them into your hand, and the rest on the bottom of your library in a random order.
+Cumulative upkeep— Discard a card [i](At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)[/i] => Flying
+When this creature enters and at the beginning of your first main phase, look at the top five cards of your library, put one of them into your hand, and the rest on the bottom of your library in a random order.
+Cumulative upkeep— Discard a card [i](At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)[/i]
+
+Dust to Dust
+rules_text: Exile target creature you don't control.
+Overload {6}{W} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Destroy target creature you don't control.
+Overload {6}{W} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Skotha, Titan of Eternal Dark added.
