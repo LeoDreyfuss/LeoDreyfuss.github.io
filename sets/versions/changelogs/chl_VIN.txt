@@ -1,4 +1,143 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+Neverending Windfall added.
+Divine Nectar added.
+Villainous Tutor added.
+Weatherlight, Legacy Weapon added.
+Animated Lightning added.
+Mirrored Depths added.
+Infernal Pact added.
+Mass Production added.
+Progenitor Moth added.
+Treasure added.
+Construct added.
+Construct added.
+Phyrexian Germ added.
+Illusion added.
+Elf added.
+Clue added.
+Vampire Soldier added.
+
+Endless Windfall removed.
+Glasspool Rehearsal removed.
+Nyxborn Fuel removed.
+Black Uncommon 2 removed.
+Extra Uncommon 6 removed.
+Red Rare 1 removed.
+Red Rare 2 removed.
+Black Rare 2 removed.
+White Rare 3 removed.
+White Rare 2 removed.
+
+Tibalt, Cruel Sadist
+rules_text: When Tibalt enters, create a 1/1 red devil creature token with “When this creature dies, it deals 1 damage to any target.”
+Whenever Tibalt is dealt damage and survives, you may exile him, then return him to the battlefield transformed under his owner's control. => When Tibalt enters, create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
+Whenever Tibalt is dealt damage and survives, you may exile him, then return him to the battlefield transformed under his owner's control.
+
+Dark Blessing
+rules_text: Search your library for a card, and put it into your hand, then shuffle. You lose 2 life.
+Miracle {B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Search your library for a card, and put it into your hand, then shuffle. You lose 2 life.
+Miracle {B} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Skotha, Titan of Eternal Dark
+
+Growth Tender
+rules_text: When this creature enters, return target nonland card from your graveyard to your hand. => Deathtouch
+When this creature enters, return target nonland card from your graveyard to your hand.
+
+Setessan Nyxweaver
+type: Enchantment Creature — Satyr Druid => Enchantment Creature — Druid
+
+Swarm of Voidflies
+rules_text: Flying, devoid [i](This card has no color.)[/i]
+Ingest [i](Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)[/i]
+When this creature enters, create a token that's a copy of it for each nonland card you own in exile. => Flying, deathtouch, devoid [i](This card has no color.)[/i]
+Ingest [i](Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)[/i]
+When this creature enters, create a token that's a copy of it for each nonland card you own in exile.
+
+Hit the Flanks
+rules_text: Creatures you control have haste.
+Whenever a nontoken creature you control dies, create a 1/1 white soldier creature token. => Creatures you control have haste.
+Whenever a nontoken creature you control dies, create a 1/1 white Human creature token.
+
+Divine Return
+rules_text: Return target creature card from your graveyard to the battlefield.
+Miracle—Discard a card [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Return target creature card from your graveyard to the battlefield.
+Miracle—Discard a card [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Cottorus, Hundred-Handed
+pt: 3/100 => 1/100
+
+Diamondstorm
+rules_text: Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+The Faller, At the End Of Time
+rules_text: As an additional cost to cast this spell, sacrifice three nonland permanents and discard three cards.
+When The Faller enters, each opponent sacrifices three nonland permanents and discards three cards. => As an additional cost to cast this spell, sacrifice three nonland permanents and discard three cards.
+Indestructible
+When The Faller enters, each opponent sacrifices three nonland permanents and discards three cards.
+
+Spawn of The All Consuming
+rules_text: When this creature enters, each opponent discards two cards.
+[i]Channel[/i] — {B}, Discard this card: Each opponent loses 2 life and you gain 2 life. => Deathtouch
+When this creature enters, each opponent discards two cards.
+[i]Channel[/i] — {B}, Discard this card: Each opponent loses 2 life and you gain 2 life.
+
+Kalonian Gargantua
+rules_text: Trample
+At the beginning of your upkeep, create a forest land token. => Trample
+At the beginning of your upkeep, create a Forest land token.
+
+Emperor's Vanguard
+rules_text: At the beginning of combat on your turn, up to one target creature you control gains vigilance, double strike, and haste until end of turn. If a creature was chosen this way, only that creature can attack this turn. => At the beginning of combat on your turn, up to one target creature you control gains vigilance, double strike, and haste until end of turn. If a creature was chosen this way, only that creature can attack this combat.
+
+Giant Ladybug
+rules_text: {G}: This creature gains flying until end of turn.
+{G}: This creature gains trample until end of turn.
+{G}: Until end of turn, this creature gains “Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.” => {G}: This creature gains flying and trample until end of turn.
+{G}: This creature hexproof and indestructible until end of turn.
+{G}: Until end of turn, this creature gains “Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.”
+pt: 6/6 => 3/3
+
+Bringer of Decay
+type: Creature — Elemental => Creature — Human Druid
+rules_text: You may play an additional three lands each turn.
+At the beginning of your upkeep, sacrifice two lands. => Deathtouch
+You may play an additional three lands each turn.
+At the beginning of your upkeep, sacrifice two lands.
+
+Second Sun's Coming
+rules_text: When this enchantment enters, if it was not cast for its miracle cost, put it on top of its owners library, otherwise, destroy all creatures.
+Whenever an opponent plays a land or casts a spell, create a 1/1 white human creature token.
+Miracle {W}{W}{W} => When this enchantment enters, if it was not cast for its miracle cost, put it on top of its owners library, otherwise, destroy all creatures.
+Whenever an opponent plays a land or casts a spell, create a 1/1 white Human creature token.
+Miracle {W}{W}{W}
+
+Hidetsugu, World Burner
+rules_text: Whenever Hidetsugu attacks, up to one target creature can't block this turn.
+Whenever Hidetsugu deals combat damage to a player, create two blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i] => Whenever Hidetsugu attacks, up to one target creature can't block this turn.
+Whenever Hidetsugu deals combat damage to a player, create two Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Cloak of Kruphix
+rules_text: Whenever you tap another nonland permanent for mana, you may return up to one target nonland noncreature card from your graveyard to your hand.
+{T}: Add {C}{C}{C}. => Whenever you tap another nonland permanent for mana, you may return up to one target noncreature nonland card from your graveyard to your hand.
+{T}: Add {C}{C}{C}.
+
+Bowl of Pharika
+rules_text: Whenever one or more creature cards are put into your graveyard from anywhere, create a 1/1 black snake creature token with deathtouch.
+{5}{BG}, {T}: Until end of turn, target creature you control with deathtouch gains “Whenever this creature deals combat damage to a player, that player loses the game.” => Whenever one or more creature cards are put into your graveyard from anywhere, create a 1/1 black Snake creature token with deathtouch.
+{5}{BG}, {T}: Until end of turn, target creature you control with deathtouch gains “Whenever this creature deals combat damage to a player, that player loses the game.”
+
+Adeline's Expertise
+rules_text: Whenever another nonland, nontoken permanent you control enters, create a 1/1 white human creature token.
+Miracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Whenever another nonland, nontoken permanent you control enters, create a 1/1 white Human creature token.
+Miracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Alhammarret's Expertise added.
