@@ -1,4 +1,160 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Marit Lage, Awoken added.
+Glimmer of Salvation added.
+Planar Slip added.
+Cling to Light added.
+Dissonant Orb added.
+Rend added.
+Astelli Reanimator added.
+Archetype of Immortality added.
+
+Marit Lage removed.
+Salvation Glimmer removed.
+Extra Common 2 removed.
+Black Uncommon 1 removed.
+White Uncommon 1 removed.
+White Uncommon 2 removed.
+Black Rare 1 removed.
+White Rare 1 removed.
+
+Forced Prayer
+rules_text: The first card you draw each turn has miracle {1} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+Whenever you cast a spell for its miracle cost, sacrifice this enchantment. => The first card you draw each turn has miracle {0} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+Whenever you cast a spell for its miracle cost, draw a card, then sacrifice this enchantment.
+
+Divine Respondent
+rules_text: Flying
+You may cast spells you draw with miracle for their miracle cost if they're the second or third card you draw each turn.
+Miracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Flying
+You may cast cards you draw with miracle for their miracle cost even if they're not the first card you draw each turn.
+Miracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Xerex Paragon
+rules_text: Flying, flash
+When this creature enters, exile target artifact, creature or planeswalker, its controller gains life equal to its mana value.
+Miracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Flash
+Flying
+When this creature enters, exile target artifact, creature or planeswalker, its controller gains life equal to its mana value.
+Miracle {W}
+
+Marit Lage's Prison
+rules_text: This land enters with twelve ice counters on it.
+At the beginning of each upkeep, remove an ice counter from this land.
+When this land has no ice counters on it, sacrifice it.
+When this land is put into your graveyard from the battlefield, create Marit Lage, a legendary 10/10 black Avatar creature token with flying. => This land enters with twelve ice counters on it.
+At the beginning of each upkeep, remove an ice counter from this land.
+When this land has no ice counters on it, sacrifice it.
+When this land is put into your graveyard from the battlefield, create Marit Lage, Awoken, a legendary 10/10 black Avatar creature token with flying.
+
+Setessan Nyxweaver
+type: Enchantment Creature — Druid => Enchantment Creature — Dryad
+rules_text: Whenever you cast an enchantment spell, draw a card. => Whenever another enchantment you control enters, draw a card.
+pt: 0/1 => 1/1
+
+Blue Sun's Avatar
+rules_text: Flash
+Whenever an opponent draws a card other than the first one they draw during each of their draw steps, draw a card. => Flash
+Whenever an opponent draws a card other than the first one they draw during each of their draw steps, instead you may draw a card.
+
+Giada, Nascent Seraph
+rules_text: Flying
+{T}: Add {W}, spend this mana only to cast creature spells.
+Miracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Flying
+{T}: Add {W}, this mana can't be spent to cast noncreature spells.
+Miracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Jeskai Rekindling
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with power four or greater.
+II — ​
+III — ​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with power four or greater.
+II — Draw three cards, then put two cards from your hand on top of your library.
+III — Distribute three +1/+1 counters among creatures you control.
+
+Tibalt Causes a Doomskar
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a finality counter on target creature you control.
+II — Each opponent sacrifices two creatures.
+III — Each opponent sacrifices two lands. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a finality counter on each creature you control.
+II — Each opponent sacrifices two creatures.
+III — Each opponent sacrifices two lands.
+
+Xenagos's Godly Ascension
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red and green Satyr creature token with haste.
+II — Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.
+III — Deal 2 damage to each creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 red and green Satyr creature token with haste.
+Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.
+Deal 2 damage to each creature.
+
+Elesh Norn's Nightmare
+cost: {4}{U} => {2}{U}{U}
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Storm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]
+Tap up to one target creature and put a stun counter on it.
+Scry 2, then you may draw a card.
+​
+
+Cosmic Repurposer
+
+Ennor, Garenbrig Exile
+cost: {X}{G}{G} => {X}{X}{G}{G}
+rules_text: When you cast Ennor, create an X/X colorless snake artifact creature token named Stonecoil Serpent with reach, trample and protection from multicolored. => When you cast Ennor, create X 0/0 colorless snake artifact creature token named Stonecoil Serpent with reach, trample and protection from multicolored. Then put X +1/+1 counters on each snake creature you control.
+
+Roaming Continent
+rules_text: [i](This land isn't a spell and is affected by summoning sickness.)[/i]
+This land is all basic land types in all zones.
+This land enters tapped with ten stun counters on it.
+At the beginning of your first main phase, if you have six or more cards in hand, untap this land. => This permanent is all basic land types in all zones.
+This permanent enters tapped with ten slumber counters on it.
+As long as this permanent has a slumber counter on it, it's not a creature.
+Whenever you draw a card, remove a slumber counter from this permanent.
+
+Forestback Troll
+rules_text: As long as this card is in your library, it's a mountain forest land in addition to its other types.
+{T}: Add {R} or {G}. => As long as this card is in your library or in your graveyard, it's a mountain forest land in addition to its other types.
+{T}: Add {R} or {G}.
+
+Angelic Upheaval
+rules_text: Permanent cards you own that aren't on the battlefield have miracle {W}{B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Permanent cards you own that aren't on the battlefield have miracle {W}{B} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Flame Tempest
+rules_text: [i]Strive[/i] — This spell costs {R} more to cast for each target chosen beyond the first.
+Choose any number of target permanents. For each creature or planeswalker chosen this way, this spell deals 3 damage to them. Destroy each artifact and/or nonbasic land chosen this way. => [i]Strive[/i] — This spell costs {R} more to cast for each target chosen beyond the first.
+Choose any number of target permanents. For each creature or planeswalker chosen this way, this spell deals 3 damage to it. Destroy each artifact and/or nonbasic land chosen this way.
+
+Villainous Tutor
+rules_text: Search your library for a nonland card, reveal it, and put it into your hand, then shuffle. => Search your library for a nonland card, reveal it, and put it into your hand, then shuffle. You lose 2 life.
+
+Weatherlight, Legacy Weapon
+special_text: When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+
+[level 4+] At the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8] => When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+
+[level 4+] Flying
+At the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8]
+
+Frozen Mind
+cost: {1}{U} => {U}
+rules_text: Enchant player
+Enchanted player skips their upkeep step. => Flash
+Enchant player
+Enchanted player skips their upkeep step.
+
+Dust to Dust
+
+
+VERSION 22 CHANGELOG
 ====================
 
 Neverending Windfall added.
