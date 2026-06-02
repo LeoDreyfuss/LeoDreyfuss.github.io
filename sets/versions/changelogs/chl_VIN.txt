@@ -1,4 +1,68 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Maha's Nest added.
+The Rise of Cacophony added.
+Realmbreaker, Herald of Phyresis added.
+The Reaper, Wicker Liege added.
+
+Yawgmoth's Bastion removed.
+Elesh Norn's Nightmare removed.
+Extra Uncommon 5 removed.
+
+Enclosure Priest
+pt:  => 1/2
+
+Scion of Karn
+rules_text: When you cast this spell, copy it for each artifact you control.
+Whenever this creature attacks, put a +1/+1 counter on it. => When you cast this spell, copy it for each artifact you control.
+Whenever this creature attacks, put a +1/+1 counter on each artifact creature you control.
+
+Mox Obsidian
+
+Violent Twister
+cost: {3}{U} => {1}{U}{U}
+
+Evendo, Terraformed
+
+Xenagos's Godly Ascension
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 red and green Satyr creature token with haste.
+Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.
+Deal 2 damage to each creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 red and green Satyr creature token with haste.
+I, II — Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.
+Deal 2 damage to each creature.
+
+Souldrifter
+cost: {2}{U} => {7}{U}
+rules_text: As an additional cost to cast this spell, exile five cards from your graveyard.
+When this creature enters, draw two cards. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+When this creature enters, draw two cards.
+
+Carrion Broker
+rules_text: When this creature enters, create a Treasure token.
+Whenever this creature or another creature you control dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Creatures you control have “Sacrifice this creature: Each opponent loses 1 life.”
+Miracle—Sacrifice a permanent [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Conflagrant Emergence
+rules_text: Search your library for a creature card that's one or more colors and put it onto the battlefield. At the beginning of the next end step, it deals damage equal to its power to any target, then sacrifice it. => Search your library for a creature card and put it onto the battlefield. At the beginning of the next end step, it deals damage equal to its power to any target, then sacrifice it.
+
+Rend
+
+Weatherlight, Legacy Weapon
+special_text: When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+
+[level 4+] Flying
+At the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8] => When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+
+[level 4+] Flying
+At the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8]
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Marit Lage, Awoken added.
