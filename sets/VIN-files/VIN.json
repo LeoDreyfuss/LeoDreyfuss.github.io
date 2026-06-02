@@ -2706,7 +2706,7 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "7Legionarmy",
             "notes": "plane dominaria"
         },
         {
@@ -3432,7 +3432,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 2/2 red and green Satyr creature token with haste.\nI, II \u2014 Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.\nDeal 2 damage to each creature.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 red and green Satyr creature token with haste.\nII \u2014 Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.\nIII \u2014 Deal 2 damage to each creature.",
             "shape": "saga",
             "set": "VIN",
             "loyalty": "",
@@ -3450,7 +3450,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nStorm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]\nI \u2014 Tap up to one target creature and put a stun counter on it.\nII, III \u2014 Scry 2, then you may draw a card.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nStorm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]\nI, II, III \u2014 Tap up to one target creature and put a stun counter on it.\nScry 2, then you may draw a card.\n\u200b",
             "shape": "saga",
             "set": "VIN",
             "loyalty": "",
@@ -6978,5 +6978,5 @@
             "notes": ""
         }
     ],
-    "version": 24
+    "version": 25
 }
