@@ -1,4 +1,117 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+
+Kor Wayshaper
+pt: 1/1 => 2/1
+
+Brisela, Twisted Savior
+rules_text: Devoid [i](This card has no color.)[/i]
+Flying, Vigilance
+Spells you cast during your opponent's turn cost {2} less to cast.
+Spells your opponent's cast during your turn cost {2} more to cast. => Devoid [i](This card has no color.)[/i]
+Flash
+Flying, Vigilance
+Whenever you cast a colorless spell or artifact spell, search target opponents library for a colorless permanent card and put it onto the battlefield under your control.
+
+Koma, Compleated
+rules_text: As Koma enters, create three 3/3 blue Phyrexian Serpent creature tokens named Koma's Coil.
+Whenever another creature you control dies, put two +1/+1 counters on Koma. => As Koma enters, create three 3/3 blue Phyrexian Serpent creature tokens named Phyrexia's Coil.
+Whenever another creature you control dies, put two +1/+1 counters on Koma.
+
+Akul, the Scourge
+type: Legendary Creature — Scorpion Dragon Rogue => Legendary Creature — Scorpion Dragon
+
+Yavimaya Elves
+rules_text: {T}: Add {G} or {U}. => {T}: Add {G}.
+{T}, Pay 1 life: Add {U}.
+
+The Rise of Cacophony
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Storm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]
+I, II, III — Tap up to one target creature and put a stun counter on it.
+Scry 2, then you may draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Storm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]
+Tap up to one target creature and put a stun counter on it.
+Scry 2, then you may draw a card.
+​
+
+Cosmic Repurposer
+rules_text: Exile a creature you control: Reveal cards from the top of your library until you reveal a creature card with mana value equal to 1 plus the mana value of the exiled creature. You may cast it without paying it's mana cost. Put the rest of the revealed cards onto the bottom of your library in a random order. Activate only once each turn. => {T}, Exile a creature you control: Reveal cards from the top of your library until you reveal a creature card with mana value equal to 1 plus the mana value of the exiled creature. You may cast it without paying it's mana cost. Put the rest of the revealed cards onto the bottom of your library in a random order.
+
+Araithia Shokta, Sleeper Agent
+rules_text: Deathtouch
+Prevent all combat damage that would be dealt to this creature.
+Whenever a creature dealt damage by this creature this turn dies, draw a card. => Deathtouch
+Prevent all combat damage that would be dealt to this creature.
+Whenever this creature deals combat damage to a player, draw a card.
+
+Irridescent Omenpath
+rules_text: This land enters tapped.
+{T}: Add one mana of any color. => This land enters tapped. As this land enters, choose a color.
+{T}: Add one mana of the chosen color.
+
+Seething Cellarspawn
+rules_text: Enchantment spells you cast cost {G} less to cast, this ability only reduces the amount of colored mana you pay.
+Whenever an enchantment you control enters, put a +1/+1 counter on this creature. => Enchantment spells you cast cost {1} less to cast.
+Whenever an enchantment you control enters, put a +1/+1 counter on this creature.
+
+Rotten Insight
+rules_text: As an additional cost to cast this spell, exile four cards from your graveyard.
+You draw three cards and lose 3 life. => As an additional cost to cast this spell, exile three cards from your graveyard.
+You draw three cards and lose 3 life.
+
+Imperial Sunderer
+rules_text: Flying
+When this artifact enters, exile target artifact, enchantment, or creature with power 4 or greater.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying
+When this artifact enters, exile target artifact, enchantment, or creature with power 3 or greater.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Giant Ladybug
+rules_text: {G}: This creature gains flying and trample until end of turn.
+{G}: This creature hexproof and indestructible until end of turn.
+{G}: Until end of turn, this creature gains “Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.” => {G}: This creature gains your choice of flying, trample, hexproof, or indestructible until end of turn.
+{G}: Until end of turn, this creature gains “Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.”
+
+Dreadhorde Archon
+rules_text: Flying
+When this creature enters, each opponent mills three cards, then you may exile a card from each players graveyard.
+you may play lands and cast spells from among cards exiled with this creature and may spend mana as though it were mana of any type to cast them. => Flying
+When this creature enters, each opponent mills three cards, then you may exile a card from each players graveyard.
+You may play lands and cast spells from among cards exiled with this creature and may spend mana as though it were mana of any type to cast them.
+
+Viziers Companion
+pt: 2/1 => 3/1
+
+Weatherlight, Legacy Weapon
+special_text: When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+
+[level 4+] Flying
+At the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8] => When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+
+[level 4+] Flying
+At the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8]
+
+Astelli Reanimator
+rules_text: Flash
+Flying
+When this creature enters, put up to one target creature card from a graveyard onto the battlefield under your control.
+Miracle {2}{B} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Flying
+When this creature enters, put up to one target creature card from a graveyard onto the battlefield under your control.
+Miracle {2}{B}
+
+Progenitor Moth
+rules_text: Flying, lifelink
+Whenever a nonland permanent you control enters, if you did not cast it, or if the amount of mana spent to cast it was less than its mana value, create a tapped token that is a copy of this creature. => Flying, lifelink
+Whenever a nonland, nontoken permanent you control enters, if you did not cast it, or if the amount of mana spent to cast it was less than its mana value, create a tapped token that is a copy of this creature.
+
+
+VERSION 25 CHANGELOG
 ====================
 
 

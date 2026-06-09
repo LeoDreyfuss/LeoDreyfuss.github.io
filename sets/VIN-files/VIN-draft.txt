@@ -1422,7 +1422,7 @@
 			"name": "Akul, the Scourge",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
-			"type": "Legendary Creature — Scorpion Dragon Rogue",
+			"type": "Legendary Creature — Scorpion Dragon",
 			"collector_number": "246",
 			"image_uris": {
 				"en": "https://LeoDreyfuss.github.io/sets/VIN-files/img/246_Akul, the Scourge.png"

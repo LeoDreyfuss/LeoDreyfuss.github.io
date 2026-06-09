@@ -5,7 +5,7 @@
 			<name>VIN</name>
 			<longname>Vintage Horizons</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-01</releasedate>
+			<releasedate>2026-06-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -122,7 +122,7 @@ Whenever an opponent casts their second spell each turn, you may cast this spell
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2304,9 +2304,9 @@ Whenever Razia attacks, it deals 3 damage to any target.</text>
 		<card>
 			<name>Brisela, Twisted Savior</name>
 			<text>Devoid (This card has no color.)
+Flash
 Flying, Vigilance
-Spells you cast during your opponent&apos;s turn cost {2} less to cast.
-Spells your opponent&apos;s cast during your turn cost {2} more to cast.</text>
+Whenever you cast a colorless spell or artifact spell, search target opponents library for a colorless permanent card and put it onto the battlefield under your control.</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/252_Brisela, Twisted Savior.png" num="252">VIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2341,7 +2341,7 @@ Miracle {2}{W}{B} (You may cast this card for its miracle cost when you draw it 
 		</card>
 		<card>
 			<name>Koma, Compleated</name>
-			<text>As Koma enters, create three 3/3 blue Phyrexian Serpent creature tokens named Koma&apos;s Coil.
+			<text>As Koma enters, create three 3/3 blue Phyrexian Serpent creature tokens named Phyrexia&apos;s Coil.
 Whenever another creature you control dies, put two +1/+1 counters on Koma.</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/265_Koma, Compleated.png" num="265">VIN</set>
 			<prop>
@@ -2421,7 +2421,7 @@ Sacrifice a nontoken creature: You may put a creature card from your hand onto t
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Scorpion Dragon Rogue</type>
+				<type>Legendary Creature — Scorpion Dragon</type>
 				<maintype>Creature</maintype>
 				<manacost>3BR</manacost>
 				<cmc>5</cmc>
@@ -2612,7 +2612,8 @@ Enchanted creature gets +2/+2 and attacks each combat if able.</text>
 		</card>
 		<card>
 			<name>Yavimaya Elves</name>
-			<text>{T}: Add {G} or {U}.</text>
+			<text>{T}: Add {G}.
+{T}, Pay 1 life: Add {U}.</text>
 			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/244_Yavimaya Elves.png" num="244">VIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3714,7 +3715,7 @@ You may play nonbasic lands from your graveyard.</text>
 		</card>
 		<card>
 			<name>Cosmic Repurposer</name>
-			<text>Exile a creature you control: Reveal cards from the top of your library until you reveal a creature card with mana value equal to 1 plus the mana value of the exiled creature. You may cast it without paying it&apos;s mana cost. Put the rest of the revealed cards onto the bottom of your library in a random order. Activate only once each turn.</text>
+			<text>{T}, Exile a creature you control: Reveal cards from the top of your library until you reveal a creature card with mana value equal to 1 plus the mana value of the exiled creature. You may cast it without paying it&apos;s mana cost. Put the rest of the revealed cards onto the bottom of your library in a random order.</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/304_Cosmic Repurposer.png" num="304">VIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3921,7 +3922,7 @@ Whenever another creature or artifact you control enters, you may sacrifice it, 
 			<name>Araithia Shokta, Sleeper Agent</name>
 			<text>Deathtouch
 Prevent all combat damage that would be dealt to this creature.
-Whenever a creature dealt damage by this creature this turn dies, draw a card.</text>
+Whenever this creature deals combat damage to a player, draw a card.</text>
 			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/103_Araithia Shokta, Sleeper Agent.png" num="103">VIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4711,8 +4712,8 @@ Counter target spell.</text>
 		</card>
 		<card>
 			<name>Irridescent Omenpath</name>
-			<text>This land enters tapped.
-{T}: Add one mana of any color.</text>
+			<text>This land enters tapped. As this land enters, choose a color.
+{T}: Add one mana of the chosen color.</text>
 			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/336_Irridescent Omenpath.png" num="336">VIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5012,7 +5013,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 		</card>
 		<card>
 			<name>Seething Cellarspawn</name>
-			<text>Enchantment spells you cast cost {G} less to cast, this ability only reduces the amount of colored mana you pay.
+			<text>Enchantment spells you cast cost {1} less to cast.
 Whenever an enchantment you control enters, put a +1/+1 counter on this creature.</text>
 			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/235_Seething Cellarspawn.png" num="235">VIN</set>
 			<prop>
@@ -5066,7 +5067,7 @@ At the beginning of your end step, each player reveals the top card of their lib
 		</card>
 		<card>
 			<name>Rotten Insight</name>
-			<text>As an additional cost to cast this spell, exile four cards from your graveyard.
+			<text>As an additional cost to cast this spell, exile three cards from your graveyard.
 You draw three cards and lose 3 life.</text>
 			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/299_Rotten Insight.png" num="299">VIN</set>
 			<prop>
@@ -5258,7 +5259,7 @@ Madness {1}{U}{B}</text>
 		<card>
 			<name>Imperial Sunderer</name>
 			<text>Flying
-When this artifact enters, exile target artifact, enchantment, or creature with power 4 or greater.
+When this artifact enters, exile target artifact, enchantment, or creature with power 3 or greater.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/308_Imperial Sunderer.png" num="308">VIN</set>
 			<prop>
@@ -5398,8 +5399,7 @@ Whenever a land you control is put into the graveyard from the battlefield, put 
 		</card>
 		<card>
 			<name>Giant Ladybug</name>
-			<text>{G}: This creature gains flying and trample until end of turn.
-{G}: This creature hexproof and indestructible until end of turn.
+			<text>{G}: This creature gains your choice of flying, trample, hexproof, or indestructible until end of turn.
 {G}: Until end of turn, this creature gains &quot;Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.&quot;</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/214_Giant Ladybug.png" num="214">VIN</set>
 			<prop>
@@ -5612,7 +5612,7 @@ Deal damage to each creature you don&apos;t control and each opponent equal to t
 			<name>Dreadhorde Archon</name>
 			<text>Flying
 When this creature enters, each opponent mills three cards, then you may exile a card from each players graveyard.
-you may play lands and cast spells from among cards exiled with this creature and may spend mana as though it were mana of any type to cast them.</text>
+You may play lands and cast spells from among cards exiled with this creature and may spend mana as though it were mana of any type to cast them.</text>
 			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/114_Dreadhorde Archon.png" num="114">VIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6139,7 +6139,7 @@ You may exert this creature as it attacks, when you do, destroy target artifact 
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/1</pt>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -6354,10 +6354,9 @@ You may cast this spell from your graveyard by discarding a card in addition to 
 		</card>
 		<card>
 			<name>Astelli Reanimator</name>
-			<text>Flash
-Flying
+			<text>Flying
 When this creature enters, put up to one target creature card from a graveyard onto the battlefield under your control.
-Miracle {2}{B} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
+Miracle {2}{B}</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/104_Astelli Reanimator.png" num="104">VIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6445,7 +6444,7 @@ Miracle {2}{W}{W} (You may cast this card for its miracle cost when you draw it 
 		<card>
 			<name>Progenitor Moth</name>
 			<text>Flying, lifelink
-Whenever a nonland permanent you control enters, if you did not cast it, or if the amount of mana spent to cast it was less than its mana value, create a tapped token that is a copy of this creature.</text>
+Whenever a nonland, nontoken permanent you control enters, if you did not cast it, or if the amount of mana spent to cast it was less than its mana value, create a tapped token that is a copy of this creature.</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/36_Progenitor Moth.png" num="36">VIN</set>
 			<prop>
 				<layout>normal</layout>
