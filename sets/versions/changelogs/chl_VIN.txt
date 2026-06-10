@@ -1,4 +1,81 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+Etherium Forger added.
+Grove Tender added.
+Elbrus, Blade of Withengar added.
+The Firemind's Ego added.
+Hand of Eternity added.
+Thran Powerstone added.
+Leyline Reader added.
+Emrakul's Binding added.
+
+Overwhelming Will removed.
+Growth Tender removed.
+Red Uncommon 1 removed.
+Extra Uncommon 2 removed.
+Extra Uncommon 3 removed.
+Extra Uncommon 4 removed.
+
+Gitaxian Research
+
+Living Leyline
+
+Muldrotha, Rotbloom
+
+Razia, Boros Parun
+
+Brisela, Twisted Savior
+
+Fear of Losing Control
+
+Mana Harvester
+
+Blue Sun's Avatar
+rules_text: Flash
+Whenever an opponent draws a card other than the first one they draw during each of their draw steps, instead you may draw a card. => Flash
+Whenever an opponent would draw a card other than the first one they draw during each of their draw steps, instead you may draw a card.
+
+Marsh Fiend
+type: Land Creature — Swamp Devil => Land Creature — Swamp Demon
+
+Jeskai Rekindling
+cost: {1}{W}{W} => {1}{W}
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with power four or greater.
+II — Draw three cards, then put two cards from your hand on top of your library.
+III — Distribute three +1/+1 counters among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with power four or greater.
+II — Draw three cards, then put two cards from your hand on top of your library.
+III — Distribute two +1/+1 counters among creatures you control.
+
+Xenagos's Godly Ascension
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red and green Satyr creature token with haste.
+II — Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.
+III — Deal 2 damage to each creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 red and green Satyr creature token with haste.
+Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.
+Deal 2 damage to each creature.
+
+Cosmic Repurposer
+
+Squire of the Realm
+
+Cottorus, Hundred-Handed
+cost: {3}{W} => {4}{W}
+rules_text: Reach
+Cottorus can block an additional two creatures each combat. => Reach
+Cottorus can block an additional 99 creatures each combat.
+
+Xathrid, Shandalar's Bane
+
+Belief
+
+Blood Transfusion
+
+
+VERSION 26 CHANGELOG
 ====================
 
 
