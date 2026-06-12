@@ -1,4 +1,40 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+Electrifying Encore added.
+Salt Pillar added.
+
+Extra Common 1 removed.
+Extra Uncommon 1 removed.
+
+Mox Turquoise
+
+From the Grave
+
+Narset, Ojutai's Faithful
+rules_text: Whenever you cast a historic spell, scry 1. Then you may reveal the top card of your library. If a historic card is revealed this way, you may exile Narset, then return her to the battlefield tapped under her owner's control. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Whenever you cast a historic spell, scry 1. Then you may reveal the top card of your library. If a historic card is revealed this way, you may exile Narset, then return her to the battlefield transformed under her owner's control. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+Storm Strike
+
+Banish
+
+Ring of Stars
+
+Green Sun's Avatar
+
+Deathdrinker Oni
+
+Force of Devestation
+type: Creature — Dinosaur => Creature — Elemental
+rules_text: Vigilance, trample
+Other creatures you control have base power and toughness 7/7. => Vigilance, trample
+Other creatures you control have base power and toughness 8/8.
+pt: 7/7 => 8/8
+
+Reconstruction Crew
+
+
+VERSION 27 CHANGELOG
 ====================
 
 Etherium Forger added.
