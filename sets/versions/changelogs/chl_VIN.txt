@@ -1,4 +1,882 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+Emry, Gift Giver added.
+Turn to Ash added.
+Jukai Harmonist added.
+Nicol Bolas, Planeswalker added.
+Human added.
+Food added.
+Devil added.
+Blood added.
+Satyr added.
+Stonecoil Serpent added.
+Elemental added.
+Snake added.
+Phyrexia's Coil added.
+
+Emry, Boon Giver removed.
+Dust to Dust removed.
+Leyline Reader removed.
+
+Gigantersaurus
+
+Time Dilate
+
+Gitaxian Research
+
+Aftershock
+
+Stone Deluge
+
+Enclosure Priest
+
+Kor Wayshaper
+
+Hogaak, the Unending
+
+Archon of the Spheres
+
+Scion of Karn
+
+Alhammarret's Expertise
+
+Temur Triome
+
+Sultai Triome
+
+Mardu Triome
+
+Jeskai Triome
+
+Abzan Triome
+
+Return
+
+Storm Fiend
+
+Prayer to Sveylun
+
+Prayer to Rhonas
+
+Prayer to Purphuros
+
+Prayer to Egon
+
+Prayer to Avacyn
+
+Grixis Triome
+
+Esper Triome
+
+Naya Triome
+
+Bant Triome
+
+Jund Triome
+
+Mox Pyrite
+
+Mox Charcoal
+
+Mox Bismuth
+
+Mox Roselite
+
+Mox Quartz
+
+Mox Amethyst
+
+Mox Obsidian
+
+Mox Topaz
+
+Mox Turquoise
+
+Mox Tourmaline
+
+Dredge the Depths
+
+From the Grave
+
+Phyrexian Gladiator
+
+Fomori Rallier
+
+Simian Spirit Guide
+
+Elvish Spirit Guide
+
+Merrow Spirit Guide
+
+Skeletal Spirit Guide
+
+Angelic Spirit Guide
+
+Birgi's Harbinger
+
+Polymorphist's Caravan
+
+Immutable Plans
+
+Stormclaw Warsinger
+rules_text: Blitz {1}{BR} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, if it attacked this turn, this creature deals 2 damage to each opponent, if it entered this turn, create a Treasure token. => Blitz {1}{BR} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, if it attacked this turn, this creature deals 2 damage to each opponent, if it entered this turn, create a Treasure token.
+
+Dark Blessing
+
+Skotha, Titan of Eternal Dark
+
+Griselbrand, Unsealed
+cost: {8}{B}{B} => {9}{B}{B}
+
+Stormbrain
+
+Ulamog's Wake
+
+Blind Echoes
+
+Mark of Oblivion
+
+Mage-Ring Guard
+
+Stone Guardian
+
+World Ooze's Trail
+
+Return to Flesh
+
+Sylvan Guardian
+
+Consulate Informant
+
+Windswept Heath
+
+Polluted Delta
+
+Misty Rainforest
+
+Scalding Tarn
+
+Arid Mesa
+
+Bloodstained Mire
+
+Flooded Strand
+
+Marsh Flats
+
+Wooded Foothills
+
+Verdant Catacombs
+
+Shell Shock
+
+Manachaser
+
+Etherium Forger
+
+Storm Strike
+
+Verdant Overflow
+
+Wild Ritual
+
+Bloodrage
+
+Sanctum of Eternity
+
+Living Leyline
+
+Dismember
+
+Prohibit
+rules_text: Counter target spell unless its controller pays {2}. => Counter target noncreature spell unless its controller pays {2}.
+
+Engulf
+
+Corrode
+
+Banish
+
+Muldrotha, Rotbloom
+
+Avishkari Gearsmith
+
+Rotting Baloth
+
+Dig for Answers
+
+Karn, Father of Machines
+
+Forced Prayer
+
+Ring of Stars
+
+Thran Dragon Engine
+
+Monoist Mutilator
+
+Bloodsoaked Lotus
+
+Immersturm Conqueror
+
+Nyxbloom Prodigy
+
+Black Lotus
+
+Mind Accelerant
+
+Voltaic Gambit
+
+Neverending Windfall
+
+Violent Twister
+
+Precognize
+
+Divine Respondent
+
+Xerex Paragon
+
+Shards of Alara
+
+Improper Burial
+
+Kappa Artillerist
+
+The Spirit Gem
+
+Zur's Attendant
+
+Remnant of Titania
+
+Marit Lage's Prison
+
+Geth's Expertise
+
+Rune Blesser
+
+Razia, Boros Parun
+
+Brisela, Twisted Savior
+
+Liesa, Wish Granter
+
+Koma, Compleated
+rules_text: As Koma enters, create three 3/3 blue Phyrexian Serpent creature tokens named Phyrexia's Coil.
+Whenever another creature you control dies, put two +1/+1 counters on Koma. => As Koma enters, create three 3/3 blue and black Phyrexian Serpent creature tokens named Phyrexia's Coil.
+Whenever another creature you control dies, put two +1/+1 counters on Koma.
+
+Jori En, Relic Hunter
+
+Karametra, Bloom Regent
+
+Winter, Slave to Valgavoth
+
+Akul, the Scourge
+
+Ulasht, Writhing Hybrid
+
+Llanowar Dryad
+
+Grove Tender
+
+Bury
+
+Setessan Nyxweaver
+
+Fear of Losing Control
+
+Nyx, Pantheon of Gods
+
+Maha's Nest
+
+Strixhaven, School of Mages
+
+Evendo, Terraformed
+
+Immersturm, the Ragelands
+
+Yavimaya Elves
+
+Wickerfolk Tiller
+
+Final Charge
+rules_text: Creature cards in your hand have blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, create a tapped Treasure token. => Creature cards in your hand have blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, create a tapped Treasure token.
+
+Riveteer's Beatdown
+
+Ritual of Unmaking
+
+Mana Harvester
+
+Green Sun's Avatar
+
+Red Sun's Avatar
+
+Blue Sun's Avatar
+
+White Sun's Avatar
+
+Black Sun's Avatar
+
+Self-Duplicator
+
+Gelatinous Armor
+
+Extraplanar Surveyor
+
+Xenagos's Disciple
+
+Swarm of Voidflies
+
+Dryad Arbor
+
+Jasconian Isle
+
+Reed Strider
+
+Marsh Fiend
+
+Volcanic Remnant
+
+Spectral Forgemaster
+
+Temporal Tempest
+
+Door to Duskmourn
+
+Trostani's Advocate
+
+Arbor Awakener
+
+Boughs of Paradise
+
+Night of Living Magic
+
+Perfect's Scout
+
+Hit the Flanks
+
+Giada, Nascent Seraph
+
+Souldrifter
+
+Oracle's Rebuff
+
+Seasoned Inspector
+
+Thraben Converter
+
+Siege Casket
+
+Tocasia's Bauble
+
+Ral's Prodigy
+
+Gonti's Graverobber
+
+Drain Essence
+
+Carrion Broker
+
+Iterate
+
+Adrenaline Hellkite
+rules_text: Blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Flying
+When this creature dies, exile the top two cards of your library, you may play them until the end of your next turn. => Blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.)[/i]
+Flying
+When this creature dies, exile the top two cards of your library, you may play them until the end of your next turn.
+
+Storm-Kiln Aspirant
+
+Valgavoth's Harbinger
+
+Second Sun's Acolyte
+
+Mechan Soulkeeper
+
+Tourach's Bargain
+
+Unhallowed Exchange
+
+Abyssal Ledger
+rules_text: Whenever one or more cards leave your graveyard, put a void counter on this enchantment.
+Remove three counters from this enchantment: Draw a card. => Whenever one or more cards leave your graveyard, put that many void counters on this enchantment.
+Remove three counters from this enchantment: Draw a card.
+
+Shivan Channeler
+
+Mulch Channeler
+
+Entropy Alignment
+
+Divine Return
+
+Wilderness Reflection
+
+Loam Familiar
+
+Dream Fragment
+
+Cosmic Repurposer
+
+Deathdrinker Oni
+
+Adrift Archive
+
+Soft Copy
+
+Timely Intervention
+
+Bauble Salvager
+
+Conjurer's Trinket
+
+Veto
+
+Elenda's Visionary
+
+Squire of the Realm
+
+Cottorus, Hundred-Handed
+
+Memnarch, Spark Hunter
+
+Araithia Shokta, Sleeper Agent
+type: Legendary Creature — Human Assasin => Legendary Creature — Human Assassin
+pt: 2/1 => 1/1
+
+Memnarch's Soul Trap
+
+Sapling of Wrenn
+
+The Mightstone
+
+The Weakstone
+
+Ennor, Garenbrig Exile
+
+Questing Beast's Head
+
+Baral, Consulate Captain
+
+Rakshasa's Will
+
+Unravelling Secrets
+
+Dusk Legion Defect
+
+Cleansing Ward
+
+Glimmer of Hope
+
+Stairway Into the Abyss
+
+Onakke Chainsmith
+
+Xathrid, Shandalar's Bane
+
+Diamondstorm
+
+Roaming Continent
+rules_text: This permanent is all basic land types in all zones.
+This permanent enters tapped with ten slumber counters on it.
+As long as this permanent has a slumber counter on it, it's not a creature.
+Whenever you draw a card, remove a slumber counter from this permanent. => This card is all basic land types in all zones.
+This permanent enters tapped with ten slumber counters on it.
+As long as this permanent has a slumber counter on it, it's not a creature.
+Whenever you draw a card, remove a slumber counter from this permanent.
+
+Awakened Biblioplex
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Whenever this creature enters or attacks, choose a card name, then look at the top seven cards of your library. You may reveal any number of cards with the chosen name and put them into your hand, then shuffle. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Whenever this creature enters or attacks, choose a card name, then look at the top nine cards of your library. You may reveal any number of cards with the chosen name and put them into your hand, then shuffle.
+
+Lingering Devastation
+
+Box Jellyfish
+
+Ashling's Inferno
+
+Collective Conflagration
+
+Colossal Embermaw
+
+Prison Matrix
+
+Okuana, Kami Engine
+
+Protecting Licid
+
+Faithful Brutalization
+
+Belief
+
+Targeted Plague
+
+Returned Maskcarver
+
+The Faller, At the End Of Time
+
+The Faller's Plunge
+
+Spawn of The All Consuming
+
+Grave Sower
+
+Germinating Mycosynth
+
+Chrome Host Entomber
+
+Transcendent Emeritus
+cost: {3}{U} => {2}{U}
+pt: 4/3 => 3/2
+
+Psionics Engineer
+
+Esper Opperative
+
+Dryad of the Cycle
+
+Nyx Presence
+
+Rancorous Roil
+
+Hamundar Haymaker
+
+Subtle Silencing
+
+Irridescent Omenpath
+
+Ecological Niche
+
+Force of Devestation
+
+Conflux Anima
+
+Kalonian Gargantua
+
+Kami of Endless Potential
+cost: {G}{G} => {1}{G}
+
+Oasis Channeler
+
+Reconstruction Crew
+rules_text: Blitz—Pay 2 life [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, you may return this card from your graveyard to your hand. => Blitz—Pay 2 life [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.)[/i]
+Whenever a creature you control dies, you may return this card from your graveyard to your hand.
+
+Elite Shieldmage
+
+Karametra's Reaper
+
+Overgrown Undead
+
+Shade of Omens
+
+Emrakul's Boon
+
+Electrostatic Accumulator
+
+Forestback Troll
+
+Glimmer of Salvation
+
+Saheeli's Messenger
+
+Seething Cellarspawn
+
+Hauntwoods Harbinger
+
+Ashfall Regent
+
+Rotten Insight
+
+Born Anew
+
+Plasma Core
+
+Insatiable Managorger
+rules_text: Devour land 2 [i](As this enters the battlefield, you may sacrifice any number of lands. This creature enters the battlefield with twice that many +1/+1 counters on it.)[/i]
+Trample
+You may play lands from your graveyard. => Devour land 2 [i](As this creature enters, you may sacrifice any number of lands. This creature enters with twice that many +1/+1 counters on it.)[/i]
+Trample
+You may play lands from your graveyard.
+
+Kruphix's Temple
+
+Thromok's Spawn
+
+Static Manipulator
+
+Angelic Upheaval
+
+Emperor's Vanguard
+
+Dauthi Mindthief
+
+Veilweaver
+
+Imperial Sunderer
+
+Misthollow Geist
+
+Keldon Crusader
+
+Roilreaper
+
+Lumbering Landslide
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, this creature deals 1 damage to each opponent.
+Whenever a land you control is put into the graveyard from the battlefield, put a +1/+1 counter on this creature, => [i]Landfall[/i] — Whenever a land you control enters, this creature deals 1 damage to each opponent.
+Whenever a land you control is put into the graveyard from the battlefield, put a +1/+1 counter on this creature.
+
+Mental Intrusion
+
+Giant Ladybug
+
+Bringer of Decay
+
+Second Sun's Coming
+
+Curse of Wandering
+
+Aetherstorm
+
+Conflagrant Emergence
+
+Flame Tempest
+
+War of the Spark
+rules_text: [i](You protect a war. Your opponents can attack it, when it's defeated, put it into your graveyard.)[/i]
+When this battle enters, create a Nicol Bolas, God-Pharaoh token.
+When this battle is defeated, sacrifice each planeswalkers you control. => [i](You protect a war. Your opponents can attack it, when it's defeated, put it into your graveyard.)[/i]
+When this battle enters, create a Nicol Bolas, Planeswalker token.
+When this battle is defeated, sacrifice each planeswalkers you control.
+
+Dross Gazestealer
+rules_text: When this creature enters or attacks, look at target players hand.
+{2}: Name a card, spells of the chosen name can't be cast this turn. => When this creature enters or attacks, look at target players hand.
+{1}{BP}: Name a card, spells of the chosen name can't be cast this turn.
+
+Hydroa
+
+Glen Elendra Ambush
+
+Cataclysmic Impact
+
+Dreadhorde Archon
+
+Insanity Chronicler
+
+Hidetsugu, World Burner
+
+Mizzix, Storm Sculptor
+
+Thread of Fate
+
+Spindle of Klothys
+
+Axe of Mogis
+
+Scythe of Karametra
+
+Mask of Phenax
+
+Scroll of Ephara
+
+Cloak of Kruphix
+
+Bolt of Keranos
+
+Shield of Iroas
+
+Bowl of Pharika
+
+Staff of Athreos
+
+Unrestricted Growth
+
+The Eludha
+
+Blood Transfusion
+
+Mishra, Butcher of Kroog
+
+War Foundry
+
+Shooting Star
+
+Grounded Ornithopter
+
+Divine Nectar
+
+Electrifying Encore
+
+Planar Slip
+
+Kodama's Expertise
+
+Elbrus, Blade of Withengar
+
+Veyran's Expertise
+
+Realmbreaker, Herald of Phyresis
+rules_text: {T}, Pay 2 life: Add {C}{C}.
+{T}, Sacrifice another land: Target creature you control gains infect until end of turn. [i](That creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)[/i] => {T}, Pay 3 life: Add {C}{C}.
+{T}, Sacrifice another land: Target creature you control gains infect until end of turn. [i](That creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)[/i]
+
+Villainous Tutor
+
+Cling to Light
+
+Viziers Companion
+
+Adeline's Expertise
+
+Dissonant Orb
+
+The Firemind's Ego
+
+Hand of Eternity
+
+Thran Powerstone
+
+Rend
+
+Shattered Sphinx
+
+Salt Pillar
+
+Weatherlight, Legacy Weapon
+rules_text:  => When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+
+[level 4+] Flying
+At the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8]
+
+Frozen Mind
+
+Animated Lightning
+
+Mirrored Depths
+rules_text: Whenever you cast a permanent spell, copy it. If the copy is a creature, it gains haste until end of turn. Sacrifice it at the beginning of the next end step. => Whenever you cast a permanent spell, copy it. If the copy is a creature, it gains haste until end of turn. Sacrifice the copy at the beginning of the next end step.
+
+Visions of Fire
+
+Astelli Reanimator
+
+Infernal Pact
+
+Mass Production
+
+Archetype of Immortality
+
+Progenitor Moth
+rules_text: Flying, lifelink
+Whenever a nonland, nontoken permanent you control enters, if you did not cast it, or if the amount of mana spent to cast it was less than its mana value, create a tapped token that is a copy of this creature. => Flying, lifelink
+Whenever another nonland, nontoken permanent you control enters, if you did not cast it, or if the amount of mana spent to cast it was less than its mana value, create a tapped token that is a copy of this creature.
+
+Ancient Huntmaster
+
+The Reaper, Wicker Liege
+
+Emrakul's Binding
+
+Tibalt, Cruel Sadist
+
+Calix, Fate-Sworn
+
+Narset, Ojutai's Faithful
+
+Xenagos, Violent Hedonist
+
+Marit Lage, Awoken
+
+Detective's Study
+
+Forged by Fate
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for an artifact or enchantment card, reveal it, and put it into your hand.
+III — Target creature you control deals damage equal to its power to target creature you don't control, then put a +1/+1 counter on it.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for an artifact or enchantment card, reveal it, and put it into your hand.
+II, III — Target creature you control deals damage equal to its power to target creature you don't control, then put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for an artifact or enchantment card, reveal it, and put it into your hand.
+III — Target creature you control deals damage equal to its power to target creature you don't control, then put a +1/+1 counter on it.
+
+Jeskai Rekindling
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with power 4 or greater.
+II — Draw three cards, then put two cards from your hand on top of your library.
+III — Distribute two +1/+1 counters among creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with power four or greater.
+II — Draw three cards, then put two cards from your hand on top of your library.
+III — Distribute two +1/+1 counters among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with power 4 or greater.
+II — Draw three cards, then put two cards from your hand on top of your library.
+III — Distribute two +1/+1 counters among creatures you control.
+
+Tibalt Causes a Doomskar
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a finality counter on each creature you control.
+II — Each opponent sacrifices two creatures.
+III — Each opponent sacrifices two lands.
+
+Xenagos's Godly Ascension
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red and green Satyr creature token with haste.
+II — Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.
+III — Deal 2 damage to each creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 red and green Satyr creature token with haste.
+Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.
+Deal 2 damage to each creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red and green Satyr creature token with haste.
+II — Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.
+III — Deal 2 damage to each creature.
+
+The Rise of Cacophony
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Storm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]
+I — Tap up to one target creature and put a stun counter on it.
+II, III — Scry 2, then you may draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Storm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]
+Tap up to one target creature and put a stun counter on it.
+Scry 2, then you may draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Storm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]
+I — Tap up to one target creature and put a stun counter on it.
+II, III — Scry 2, then you may draw a card.
+
+Ashiok, Dream Seeker
+
+Treasure
+
+Construct
+
+Construct
+
+Phyrexian Germ
+
+Illusion
+
+Elf
+
+Clue
+
+Vampire Soldier
+
+
+VERSION 28 CHANGELOG
 ====================
 
 Electrifying Encore added.

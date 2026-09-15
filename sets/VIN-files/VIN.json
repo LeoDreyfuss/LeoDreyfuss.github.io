@@ -1,9 +1,11 @@
 ﻿{
     "name": "Vintage Horizons",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Gigantersaurus",
@@ -21,6 +23,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -39,6 +44,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -57,6 +65,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Santiago Rosas",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "free spell\n\nplane new phyrexia"
         },
         {
@@ -75,6 +86,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "removal"
         },
         {
@@ -93,6 +107,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "land hate"
         },
         {
@@ -100,7 +117,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2014 Human Priest",
-            "number": 19,
+            "number": 18,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "If a land would enter the battlefield and it wasn't played, exile it instead.",
@@ -111,6 +128,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "hatebears"
         },
         {
@@ -129,6 +149,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "land hate\n\nplane zendikar"
         },
         {
@@ -147,6 +170,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "plane innistrad"
         },
         {
@@ -164,7 +190,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Sam White",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "hatebears\n\n\n\nplane new phyrexia"
         },
         {
@@ -183,6 +212,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -201,6 +233,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "card draw\n\nplane vrynn"
         },
         {
@@ -219,6 +254,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "plane tarkir"
         },
         {
@@ -237,6 +275,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "plane tarkir"
         },
         {
@@ -255,6 +296,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "plane tarkir"
         },
         {
@@ -273,6 +317,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "plane tarkir"
         },
         {
@@ -291,35 +338,10 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "plane tarkir"
-        },
-        {
-            "card_name": "Tibalt, Cruel Sadist",
-            "color": "B",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human",
-            "number": 141,
-            "color_identity": "BR",
-            "cost": "{B}",
-            "rules_text": "When Tibalt enters, create a 1/1 red Devil creature token with \u201cWhen this creature dies, it deals 1 damage to any target.\u201d\nWhenever Tibalt is dealt damage and survives, you may exile him, then return him to the battlefield transformed under his owner's control.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/2",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Anna Verhoog",
-            "card_name2": "Tibalt, Paincursed",
-            "color2": "BR",
-            "type2": "Legendary Planeswalker \u2014 Tibalt",
-            "cost2": "",
-            "rules_text2": "",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "[+2]: Create a 1/1 red Devil creature token with \u201cWhen this creature dies, it deals 1 damage to any target.\u201d\n[-1]: You may sacrifice a creature. When you do, each opponent sacrifices a nontoken creature.\n[-2]: Put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.",
-            "loyalty2": "2",
-            "artist2": "Steamhat",
-            "notes": "plane innistrad"
         },
         {
             "card_name": "Return",
@@ -337,6 +359,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Kasun Wickramasinghe",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "cheat"
         },
         {
@@ -355,6 +380,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -373,6 +401,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "free spell\n\nplane dominaria"
         },
         {
@@ -391,6 +422,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "free spell\nremoval\nhatebears\n\nplane amonkhet"
         },
         {
@@ -409,6 +443,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "free spell\nremoval\n\nplane theros"
         },
         {
@@ -427,6 +464,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "free spell\nreanimate\nhand hate\n\nplane kaldheim"
         },
         {
@@ -434,7 +474,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Instant",
-            "number": 31,
+            "number": 30,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Choose one \u2014\n\u2022 Artifacts and creatures you control gain hexproof and indestructible until end of turn.\n\u2022 Target opponent can't cast spells this turn.\nYou may exile a white card from your hand rather than pay this spells mana cost.",
@@ -445,6 +485,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "free spell\n\nplane innistrad"
         },
         {
@@ -463,6 +506,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "plane alara"
         },
         {
@@ -481,6 +527,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "plane alara"
         },
         {
@@ -499,6 +548,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "plane alara"
         },
         {
@@ -517,6 +569,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "plane alara"
         },
         {
@@ -535,6 +590,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "plane alara"
         },
         {
@@ -553,6 +611,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -570,7 +631,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Kyle Blankenship",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -589,6 +653,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "D1eselx",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -607,6 +674,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -625,6 +695,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -643,6 +716,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -661,6 +737,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -679,6 +758,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -697,6 +779,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "oscar valverde",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -714,7 +799,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Alberto S. Ballesteros",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -733,6 +821,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -751,6 +842,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Mikhail Palamarchuk",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "reanimate"
         },
         {
@@ -769,6 +863,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "fixing\n\nplane new phyrexia"
         },
         {
@@ -787,6 +884,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "fixing"
         },
         {
@@ -805,6 +905,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Lucas Graciano",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -823,6 +926,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Anna Steinbauer",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -841,6 +947,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Lisa Lisewsky",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -859,6 +968,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Mike corriero",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -877,6 +989,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Julien Bauer",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -895,6 +1010,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "plane kaldehim"
         },
         {
@@ -913,6 +1031,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "cheat"
         },
         {
@@ -931,6 +1052,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -941,7 +1065,7 @@
             "number": 286,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "Blitz {1}{BR} [i](If you cast this spell for its blitz cost, it gains haste and \u201cWhen this creature dies, draw a card\u201d. Sacrifice it at the beginning of the next end step.)[/i]\nWhenever a creature you control dies, if it attacked this turn, this creature deals 2 damage to each opponent, if it entered this turn, create a Treasure token.",
+            "rules_text": "Blitz {1}{BR} [i](If you cast this spell for its blitz cost, it gains haste and \u201cWhen this creature dies, draw a card.\u201d Sacrifice it at the beginning of the next end step.)[/i]\nWhenever a creature you control dies, if it attacked this turn, this creature deals 2 damage to each opponent, if it entered this turn, create a Treasure token.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -949,6 +1073,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "plane kaldheim"
         },
         {
@@ -967,6 +1094,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "tutor"
         },
         {
@@ -985,6 +1115,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Diana Franco",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "hand hate\n\nplane theros"
         },
         {
@@ -994,7 +1127,7 @@
             "type": "Legendary Creature \u2014 Demon",
             "number": 122,
             "color_identity": "B",
-            "cost": "{8}{B}{B}",
+            "cost": "{9}{B}{B}",
             "rules_text": "Flying, lifelink\nWhen Griselbrand enters, exile the top seven cards of each players library face down.\nYou may look at cards exiled with Griselbrand and may play lands and cast spells from among them without paying their mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
@@ -1003,6 +1136,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Muhammet Feyyaz",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "plane innistrad"
         },
         {
@@ -1021,63 +1157,10 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Fufu Frauenwahl",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "card draw"
-        },
-        {
-            "card_name": "Calix, Fate-Sworn",
-            "color": "G",
-            "rarity": "mythic",
-            "type": "Legendary Enchantment Creature \u2014 Human",
-            "number": 199,
-            "color_identity": "WG",
-            "cost": "{1}{G}",
-            "rules_text": "When Calix or another enchantment you control enters, you draw a card and gain a life.\nWhenever another enchantment you control leaves the battlefield, you may exile Calix then return him to the battlefield transformed under his owner's control.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/2",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "",
-            "card_name2": "Calix, Fate-Bound",
-            "color2": "WG",
-            "type2": "Legendary Planeswalker \u2014 Calix",
-            "cost2": "",
-            "rules_text2": "",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "[+1]: Untap up to two target permanents.\n[-1]: Put up to one enchantment card from your hand onto the battlefield.\n[-2]: Return target enchantment card from your graveyard to your hand.",
-            "loyalty2": "3",
-            "artist2": "",
-            "notes": "plane theros"
-        },
-        {
-            "card_name": "Narset, Ojutai's Faithful",
-            "color": "W",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Monk",
-            "number": 29,
-            "color_identity": "WU",
-            "cost": "{1}{W}",
-            "rules_text": "Whenever you cast a historic spell, scry 1. Then you may reveal the top card of your library. If a historic card is revealed this way, you may exile Narset, then return her to the battlefield transformed under her owner's control. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "",
-            "card_name2": "Narset, Eyes Opened",
-            "color2": "WU",
-            "type2": "Legendary Planeswalker \u2014 Narset",
-            "cost2": "",
-            "rules_text2": "",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "Whenever you draw a card for the first time each turn, you may reveal it, if a nonland historic card is revealed this way, you may cast a copy of it by paying {2}.\n[+1]: You gain 2 life, then you may tap or untap target permanent.\n[-2]: Return target noncreature nonland card from your graveyard to your hand.\n[-5]: You get an emblem with \u201cWhenever you cast a historic spell, exile target permanent.\u201d",
-            "loyalty2": "3",
-            "artist2": "",
-            "notes": "plane tarkir"
         },
         {
             "card_name": "Ulamog's Wake",
@@ -1095,6 +1178,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Svetlin Velinov",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "plane zendikar"
         },
         {
@@ -1113,6 +1199,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "card draw"
         },
         {
@@ -1120,7 +1209,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 27,
+            "number": 26,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
             "rules_text": "[i]Eerie[/i] \u2014 Whenever this enchantment or another enchantment you control enters and whenever you fully unlock a room, exile target creature until this enchantment leaves the battlefield.",
@@ -1131,6 +1220,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "removal\n\nplane duskmourn"
         },
         {
@@ -1149,6 +1241,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "fixing\n\nplane vrynn"
         },
         {
@@ -1156,7 +1251,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Angel",
-            "number": 41,
+            "number": 40,
             "color_identity": "W",
             "cost": "{5}{W}",
             "rules_text": "Flying\nWhenever you attack, target attacking creature gains flying until end of turn.\nPlainscycling {0} [i]({0}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -1167,6 +1262,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "fixing\n\nplane new capenna"
         },
         {
@@ -1185,6 +1283,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "ThemeFinland",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "fixing\n\nplane muraganda"
         },
         {
@@ -1203,6 +1304,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "reanimate"
         },
         {
@@ -1221,6 +1325,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1239,6 +1346,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "card draw\n\nplane avishkar"
         },
         {
@@ -1257,6 +1367,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -1275,6 +1388,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Yatzenty",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -1293,6 +1409,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Noreefly",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -1311,6 +1430,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Adam Paquette",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -1329,6 +1451,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Anthony Avon",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -1347,6 +1472,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Joe Bui",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -1365,6 +1493,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Zack Stella",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -1383,6 +1514,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "CraftingVisuals",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -1401,6 +1535,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Artem",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -1419,6 +1556,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -1437,6 +1577,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1455,6 +1598,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1473,6 +1619,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1491,24 +1640,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Swamp",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Swamp",
-            "number": 372,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1527,15 +1661,18 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Mountain",
+            "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Mountain",
-            "number": 374,
-            "color_identity": "R",
+            "type": "Basic Land \u2014 Swamp",
+            "number": 372,
+            "color_identity": "B",
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
@@ -1545,6 +1682,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1563,15 +1703,18 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Plains",
+            "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
-            "number": 368,
-            "color_identity": "W",
+            "type": "Basic Land \u2014 Mountain",
+            "number": 374,
+            "color_identity": "R",
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
@@ -1581,6 +1724,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1599,6 +1745,30 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Plains",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Plains",
+            "number": 368,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1606,7 +1776,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 39,
+            "number": 38,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Exile target creature or planeswalker that entered this turn, its controller gains 3 life.",
@@ -1617,6 +1787,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "removal"
         },
         {
@@ -1635,6 +1808,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1653,7 +1829,10 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Skanios",
-            "notes": "counter"
+            "alias": "",
+            "position": "86",
+            "rotated": false,
+            "notes": ""
         },
         {
             "card_name": "Storm Strike",
@@ -1671,6 +1850,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "oscar valverde",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "removal"
         },
         {
@@ -1689,6 +1871,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "ramp"
         },
         {
@@ -1707,6 +1892,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -1725,6 +1913,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "cheat"
         },
         {
@@ -1743,6 +1934,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1750,7 +1944,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment Creature \u2014 Elemental",
-            "number": 26,
+            "number": 25,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "If this enchantment is in your opening hand, you may begin the game with it on the battlefield.\nArtifact and enchantment spells you cast cost {1} less to cast.",
@@ -1761,6 +1955,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Santiago Rosas",
+            "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1779,6 +1976,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "removal"
         },
         {
@@ -1789,7 +1989,7 @@
             "number": 84,
             "color_identity": "U",
             "cost": "{1}{UP}{UP}",
-            "rules_text": "Counter target spell unless its controller pays {2}.",
+            "rules_text": "Counter target noncreature spell unless its controller pays {2}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1797,6 +1997,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "counter"
         },
         {
@@ -1815,6 +2018,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "removal"
         },
         {
@@ -1833,6 +2039,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "removal"
         },
         {
@@ -1851,6 +2060,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Lenin Valerio",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "removal"
         },
         {
@@ -1869,6 +2081,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Lorenzo Bruzzese",
+            "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "plane dominaria"
         },
         {
@@ -1887,6 +2102,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "cheat\n\nplane avishkar"
         },
         {
@@ -1905,6 +2123,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1923,6 +2144,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "card draw"
         },
         {
@@ -1941,6 +2165,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Jason Chan",
+            "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "plane new phyrexia\n\nredesign second ability"
         },
         {
@@ -1948,7 +2175,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 21,
+            "number": 20,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "The first card you draw each turn has miracle {0} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]\nWhenever you cast a spell for its miracle cost, draw a card, then sacrifice this enchantment.",
@@ -1959,6 +2186,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "cheat"
         },
         {
@@ -1977,6 +2207,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Thomas Alias",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "ramp"
         },
         {
@@ -1995,6 +2228,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Godfrey Escota",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "card draw\n\nplane dominaria"
         },
         {
@@ -2013,6 +2249,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "removal\n\nplane the edge"
         },
         {
@@ -2031,6 +2270,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Igor Nascimento",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -2049,6 +2291,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "removal\n\nplane kaldheim"
         },
         {
@@ -2067,35 +2312,10 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "ramp\n\nplane theros"
-        },
-        {
-            "card_name": "Xenagos, Violent Hedonist",
-            "color": "R",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Satyr",
-            "number": 193,
-            "color_identity": "RG",
-            "cost": "{1}{R}",
-            "rules_text": "Whenever Xenagos or another creature you control enters, Xenagos deals 1 damage to each opponent. Then if three or more creatures entered under your control this turn, you may exile Xenagos, then return him to the battlefield transformed under his owner's control.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/1",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Emmanuel Bou",
-            "card_name2": "Xenagos, King Stranger",
-            "color2": "RG",
-            "type2": "Legendary Planeswalker \u2014 Xenagos",
-            "cost2": "",
-            "rules_text2": "",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "Whenever a creature you control enters, put a loyalty counter on Xenagos, King Stranger.\n[0]: Create a 2/2 red and green Satyr creature token with haste.\n[-3]: Draw a card for each creature you control.\n[-4]: You get an emblem with \u201cCreatures you control get +1/+0 and have haste.\u201d",
-            "loyalty2": "3",
-            "artist2": "",
-            "notes": "plane theros"
         },
         {
             "card_name": "Black Lotus",
@@ -2113,6 +2333,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Steamhat",
+            "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "fast mana"
         },
         {
@@ -2131,6 +2354,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "card draw"
         },
         {
@@ -2149,6 +2375,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "card draw"
         },
         {
@@ -2167,6 +2396,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2185,6 +2417,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2203,6 +2438,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "card draw"
         },
         {
@@ -2221,6 +2459,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2239,6 +2480,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "removal\n\nplane xerex"
         },
         {
@@ -2257,6 +2501,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "plane alara"
         },
         {
@@ -2275,6 +2522,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Timi Honkanen",
+            "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "reanimate"
         },
         {
@@ -2293,6 +2543,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "plane kamigawa"
         },
         {
@@ -2311,6 +2564,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "plane meditation realm\n\nRedesign"
         },
         {
@@ -2329,6 +2585,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "plane dominaria"
         },
         {
@@ -2347,6 +2606,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "plane dominaria"
         },
         {
@@ -2365,25 +2627,10 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "plane dominaria"
-        },
-        {
-            "card_name": "Marit Lage, Awoken",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Legendary Creature \u2014 Avatar",
-            "number": 3,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "Flying",
-            "flavor_text": "[i][/i]",
-            "pt": "10/10",
-            "special_text": "",
-            "shape": "token",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Diana Franco",
-            "notes": ""
         },
         {
             "card_name": "Geth's Expertise",
@@ -2401,6 +2648,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "card draw\n\nplane new phyrexia"
         },
         {
@@ -2408,7 +2658,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Cleric",
-            "number": 35,
+            "number": 34,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "{T}: Another target creature or planeswalker you control gains protection from colorless or the color of your choice until end of turn. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything colorless or of that color until end of turn.)[/i]",
@@ -2419,6 +2669,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "protection\n\nplane kaldheim"
         },
         {
@@ -2437,6 +2690,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Skanios",
+            "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "plane ravnica"
         },
         {
@@ -2455,6 +2711,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Scott M. Fischer",
+            "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "plane innistrad"
         },
         {
@@ -2473,6 +2732,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "card draw\n\nplane innistrad"
         },
         {
@@ -2483,7 +2745,7 @@
             "number": 264,
             "color_identity": "UG",
             "cost": "{5}{G}{U}",
-            "rules_text": "As Koma enters, create three 3/3 blue Phyrexian Serpent creature tokens named Phyrexia's Coil.\nWhenever another creature you control dies, put two +1/+1 counters on Koma.",
+            "rules_text": "As Koma enters, create three 3/3 blue and black Phyrexian Serpent creature tokens named Phyrexia's Coil.\nWhenever another creature you control dies, put two +1/+1 counters on Koma.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -2491,6 +2753,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "plane kaldheim\n\nRedesign"
         },
         {
@@ -2509,6 +2774,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "card draw\n\nplane zendikar\n\nRedesign"
         },
         {
@@ -2527,6 +2795,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "ramp\n\nplane theros"
         },
         {
@@ -2545,6 +2816,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "card draw\n\nplane duskmourn"
         },
         {
@@ -2563,6 +2837,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Kekai Kotaki",
+            "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "cheat\n\nplane thunder junction"
         },
         {
@@ -2581,6 +2858,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "plane ravnica"
         },
         {
@@ -2599,6 +2879,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "ramp\n\nplane dominaria"
         },
         {
@@ -2617,6 +2900,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2635,6 +2921,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "tutor"
         },
         {
@@ -2653,6 +2942,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "card draw\n\nplane theros"
         },
         {
@@ -2671,6 +2963,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Thomas Ricci",
+            "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "plane duskmourn"
         },
         {
@@ -2689,6 +2984,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Piotr Dura",
+            "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "plane theros"
         },
         {
@@ -2707,6 +3005,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "7Legionarmy",
+            "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "plane dominaria"
         },
         {
@@ -2725,6 +3026,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Alex Ries",
+            "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "plane arcavios"
         },
         {
@@ -2743,6 +3047,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "John Thacker",
+            "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "plane the edge"
         },
         {
@@ -2761,6 +3068,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Steve Prescott",
+            "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "plane kaldheim"
         },
         {
@@ -2779,6 +3089,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "ramp\n\nplane dominaria"
         },
         {
@@ -2797,6 +3110,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "plane duskmourn"
         },
         {
@@ -2807,7 +3123,7 @@
             "number": 159,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Creature cards in your hand have blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and \u201cWhen this creature dies, draw a card\u201d. Sacrifice it at the beginning of the next end step.)[/i]\nWhenever a creature you control dies, create a tapped Treasure token.",
+            "rules_text": "Creature cards in your hand have blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and \u201cWhen this creature dies, draw a card.\u201d Sacrifice it at the beginning of the next end step.)[/i]\nWhenever a creature you control dies, create a tapped Treasure token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2815,6 +3131,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "cheat"
         },
         {
@@ -2833,35 +3152,10 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "cheat\n\nplane new capenna"
-        },
-        {
-            "card_name": "Detective's Study",
-            "color": "W",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Room",
-            "number": 49,
-            "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "When you unlock this door, destroy target creature, its controller investigates.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "fuse split",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "",
-            "card_name2": "Empty Prison",
-            "color2": "W",
-            "type2": "",
-            "cost2": "{2}{W}{W}",
-            "rules_text2": "{2}: Return all creature cards exiled with this enchantment to the battlefield under their owners control, then exile target creature.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "",
-            "notes": "removal"
         },
         {
             "card_name": "Ritual of Unmaking",
@@ -2879,6 +3173,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "removal"
         },
         {
@@ -2897,6 +3194,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Skanios",
+            "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "card draw"
         },
         {
@@ -2915,6 +3215,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "iloveferns",
+            "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "ramp\n\nplane mirrodan"
         },
         {
@@ -2933,6 +3236,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "plane mirrodan"
         },
         {
@@ -2950,7 +3256,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "ShadeofShinon",
+            "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "card draw\nhatebears\n\nplane mirrodan"
         },
         {
@@ -2969,6 +3278,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "plane mirrodan"
         },
         {
@@ -2986,7 +3298,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "goteaart",
+            "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "tutor\n\nplane mirrodan"
         },
         {
@@ -3005,6 +3320,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "fixing"
         },
         {
@@ -3023,6 +3341,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "protection"
         },
         {
@@ -3041,6 +3362,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "ramp"
         },
         {
@@ -3059,6 +3383,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "plane theros"
         },
         {
@@ -3077,6 +3404,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "plane zendikar"
         },
         {
@@ -3095,6 +3425,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3113,6 +3446,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3131,6 +3467,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3149,6 +3488,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3167,6 +3509,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3185,6 +3530,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3203,6 +3551,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "FurostNova",
+            "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3221,6 +3572,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "plane duskmourn"
         },
         {
@@ -3228,7 +3582,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Cleric",
-            "number": 44,
+            "number": 43,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Whenever this creature or another nontoken creature dies, populate. [i](Create a token that's a copy of a creature token you control.)[/i]",
@@ -3239,6 +3593,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "plane ravnica"
         },
         {
@@ -3257,6 +3614,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "card draw"
         },
         {
@@ -3275,6 +3635,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "ramp"
         },
         {
@@ -3293,6 +3656,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3311,17 +3677,20 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "ramp\n\nplane lorwynn"
         },
         {
-            "card_name": "Emry, Boon Giver",
+            "card_name": "Emry, Gift Giver",
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Merfolk Wizard",
             "number": 63,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nArtifact cards in your graveyard have unearth {1}{U} [i]({1}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i]",
+            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nWhen Emry enters, search your library for up to two cards and reveal them. Target opponent chooses one of those cards. Shuffle the chosen card into your library, and the other into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3329,6 +3698,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Livia Prima",
+            "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "plane eldrain"
         },
         {
@@ -3347,6 +3719,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3354,7 +3729,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Angel",
-            "number": 22,
+            "number": 21,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Flying\n{T}: Add {W}, this mana can't be spent to cast noncreature spells.\nMiracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]",
@@ -3365,97 +3740,10 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "ramp\n\nplane new capenna"
-        },
-        {
-            "card_name": "Forged by Fate",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Saga",
-            "number": 210,
-            "color_identity": "G",
-            "cost": "{2}{G}{G}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Search your library for an artifact or enchantment card, reveal it, and put it into your hand.\nII, III \u2014 Target creature you control deals damage equal to its power to target creature you don't control, then put a +1/+1 counter on it.\n\u200b",
-            "shape": "saga",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "",
-            "notes": "plane theros"
-        },
-        {
-            "card_name": "Jeskai Rekindling",
-            "color": "W",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Saga",
-            "number": 24,
-            "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy target creature with power four or greater.\nII \u2014 Draw three cards, then put two cards from your hand on top of your library.\nIII \u2014 Distribute two +1/+1 counters among creatures you control.",
-            "shape": "saga",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "",
-            "notes": "plane tarkir"
-        },
-        {
-            "card_name": "Tibalt Causes a Doomskar",
-            "color": "B",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Saga",
-            "number": 140,
-            "color_identity": "B",
-            "cost": "{2}{B}{B}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Put a finality counter on each creature you control.\nII \u2014 Each opponent sacrifices two creatures.\nIII \u2014 Each opponent sacrifices two lands.",
-            "shape": "saga",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "",
-            "notes": "plane kaldheim"
-        },
-        {
-            "card_name": "Xenagos's Godly Ascension",
-            "color": "R",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Saga",
-            "number": 195,
-            "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 2/2 red and green Satyr creature token with haste.\nTap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.\nDeal 2 damage to each creature.",
-            "shape": "saga",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "",
-            "notes": "plane theros"
-        },
-        {
-            "card_name": "The Rise of Cacophony",
-            "color": "U",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Saga",
-            "number": 87,
-            "color_identity": "U",
-            "cost": "{2}{U}{U}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nStorm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]\nTap up to one target creature and put a stun counter on it.\nScry 2, then you may draw a card.\n\u200b",
-            "shape": "saga",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Dominik Mayer",
-            "notes": "plane new phyrexia"
         },
         {
             "card_name": "Souldrifter",
@@ -3473,6 +3761,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "card draw"
         },
         {
@@ -3491,6 +3782,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "counter\n\nplane arcavios"
         },
         {
@@ -3498,7 +3792,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Detective",
-            "number": 36,
+            "number": 35,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "When this creature enters, investigate twice. [i](To investigate, create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]",
@@ -3509,6 +3803,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "card draw"
         },
         {
@@ -3516,7 +3813,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 42,
+            "number": 41,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Living weapon [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]\nEquipped creature gets +1/+1.\nWhenever equipped creature attacks, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\nEquip {2}{W}",
@@ -3527,6 +3824,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "card draw\n\nplane innistrad"
         },
         {
@@ -3545,6 +3845,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "reanimate"
         },
         {
@@ -3563,6 +3866,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "plane dominaria"
         },
         {
@@ -3581,6 +3887,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "plane ravnica"
         },
         {
@@ -3599,6 +3908,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "plane avishkar"
         },
         {
@@ -3616,7 +3928,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Stu Harrington",
+            "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "removal"
         },
         {
@@ -3635,6 +3950,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3653,6 +3971,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "card draw\nfast mana"
         },
         {
@@ -3663,7 +3984,7 @@
             "number": 147,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and \u201cWhen this creature dies, draw a card\u201d. Sacrifice it at the beginning of the next end step.)[/i]\nFlying\nWhen this creature dies, exile the top two cards of your library, you may play them until the end of your next turn.",
+            "rules_text": "Blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and \u201cWhen this creature dies, draw a card.\u201d Sacrifice it at the beginning of the next end step.)[/i]\nFlying\nWhen this creature dies, exile the top two cards of your library, you may play them until the end of your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3671,6 +3992,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3689,6 +4013,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "plane arcavios"
         },
         {
@@ -3707,6 +4034,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "cheat\n\nplane duskmourn"
         },
         {
@@ -3714,7 +4044,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human Cleric",
-            "number": 37,
+            "number": 36,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "When this creature enters, draw two cards, then put a card from your hand on top of your library.",
@@ -3725,6 +4055,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "card draw\n\nplane amonkhet"
         },
         {
@@ -3743,6 +4076,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "plane edge"
         },
         {
@@ -3761,6 +4097,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": "card draw\n\nplane dominaria"
         },
         {
@@ -3779,6 +4118,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "removal"
         },
         {
@@ -3789,7 +4131,7 @@
             "number": 99,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Whenever one or more cards leave your graveyard, put a void counter on this enchantment.\nRemove three counters from this enchantment: Draw a card.",
+            "rules_text": "Whenever one or more cards leave your graveyard, put that many void counters on this enchantment.\nRemove three counters from this enchantment: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3797,6 +4139,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3815,6 +4160,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "ramp\n\nplane dominaria"
         },
         {
@@ -3833,6 +4181,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "ramp"
         },
         {
@@ -3851,6 +4202,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Jolanta Anna Karolska",
+            "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "card draw"
         },
         {
@@ -3869,6 +4223,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "reanimate"
         },
         {
@@ -3887,6 +4244,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3905,6 +4265,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "face zero",
+            "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3923,6 +4286,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3941,6 +4307,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Sai Hendrij",
+            "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "cheat"
         },
         {
@@ -3959,6 +4328,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "porcumoose",
+            "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "plane kamigawa"
         },
         {
@@ -3977,6 +4349,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3995,6 +4370,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4002,7 +4380,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 43,
+            "number": 42,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Target creature you control gains indestructible until end of turn. If that creature has summoning sickness, draw a card.",
@@ -4013,6 +4391,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4031,6 +4412,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4049,6 +4433,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4066,7 +4453,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Rainer Petter",
+            "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4074,7 +4464,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Vampire Cleric",
-            "number": 18,
+            "number": 17,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Lifelink\nWhenever you gain life for the first time each turn, create a tapped 1/1 white Vampire Soldier creature token.",
@@ -4085,6 +4475,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "plane ixilan"
         },
         {
@@ -4092,7 +4485,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human Knight",
-            "number": 40,
+            "number": 39,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "[i]Adamant[/i] \u2014 This creature enters with two additional +1/+1 counters on it if at least three white mana was spent to cast it.\nThis creature enters with two additional +1/+1 counters on it if it was cast for its miracle cost.\nMiracle {2}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]",
@@ -4103,6 +4496,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Skanios",
+            "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "plane eldrain"
         },
         {
@@ -4120,7 +4516,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Riccardo Gualdi",
+            "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "plane theros"
         },
         {
@@ -4139,24 +4538,30 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Federico Bertozzi",
+            "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "plane mirrodan"
         },
         {
             "card_name": "Araithia Shokta, Sleeper Agent",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Human Assasin",
+            "type": "Legendary Creature \u2014 Human Assassin",
             "number": 100,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Deathtouch\nPrevent all combat damage that would be dealt to this creature.\nWhenever this creature deals combat damage to a player, draw a card.",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "plane ravnica"
         },
         {
@@ -4175,6 +4580,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "plane mirrodan"
         },
         {
@@ -4193,6 +4601,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4211,6 +4622,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4229,6 +4643,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "plane dominaria"
         },
         {
@@ -4247,6 +4664,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "plane eldrain"
         },
         {
@@ -4265,6 +4685,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "plane eldrain"
         },
         {
@@ -4282,7 +4705,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Yeong-Had Han",
+            "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "plane avishkar"
         },
         {
@@ -4301,6 +4727,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "plane tarkir\n\nreanimate"
         },
         {
@@ -4319,6 +4748,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4337,6 +4769,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "plane ixilan"
         },
         {
@@ -4355,6 +4790,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4362,7 +4800,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Enchantment Creature \u2014 Glimmer",
-            "number": 23,
+            "number": 22,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Lifelink\nWhenever an artifact or enchantment you control enters, put a +1/+1 counter on this creature.",
@@ -4373,6 +4811,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "plane duskmourn"
         },
         {
@@ -4391,6 +4832,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4409,6 +4853,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "plane shandalar"
         },
         {
@@ -4427,6 +4874,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Santiago Rosas",
+            "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "plane shandalar"
         },
         {
@@ -4445,6 +4895,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": "plane gobakhan"
         },
         {
@@ -4455,7 +4908,7 @@
             "number": 350,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "This permanent is all basic land types in all zones.\nThis permanent enters tapped with ten slumber counters on it.\nAs long as this permanent has a slumber counter on it, it's not a creature.\nWhenever you draw a card, remove a slumber counter from this permanent.",
+            "rules_text": "This card is all basic land types in all zones.\nThis permanent enters tapped with ten slumber counters on it.\nAs long as this permanent has a slumber counter on it, it's not a creature.\nWhenever you draw a card, remove a slumber counter from this permanent.",
             "flavor_text": "[i][/i]",
             "pt": "12/12",
             "special_text": "",
@@ -4463,6 +4916,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Inkarnate",
+            "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4473,7 +4929,7 @@
             "number": 55,
             "color_identity": "U",
             "cost": "{8}{U}",
-            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nWhenever this creature enters or attacks, choose a card name, then look at the top seven cards of your library. You may reveal any number of cards with the chosen name and put them into your hand, then shuffle.",
+            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nWhenever this creature enters or attacks, choose a card name, then look at the top nine cards of your library. You may reveal any number of cards with the chosen name and put them into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -4481,6 +4937,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": "plane arcavios"
         },
         {
@@ -4488,7 +4947,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 25,
+            "number": 24,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Sacrifice this enchantment: Destroy target creature with power or toughness 4 or greater.",
@@ -4499,6 +4958,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4517,6 +4979,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Uking",
+            "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4535,6 +5000,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4553,6 +5021,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4571,6 +5042,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Sally Chittenden",
+            "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4578,7 +5052,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Artifact",
-            "number": 32,
+            "number": 31,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "This artifact enters tapped.\nWhen this artifact enters, exile up to one target nonland permanent until this artifact leaves the battlefield.\n{T}: Add {C}.",
@@ -4589,6 +5063,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4596,7 +5073,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Legendary Artifact Creature \u2014 Spirit",
-            "number": 30,
+            "number": 29,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Whenever another artifact or enchantment you control enters, put a +1/+1 counter on Okuana.\nWhenever you put one or more +1/+1 counters on Okuana, it gains lifelink and vigilance until end of turn.",
@@ -4607,6 +5084,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": "plane kamigawa"
         },
         {
@@ -4614,7 +5094,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Enchantment Creature \u2014 Licid",
-            "number": 34,
+            "number": 33,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "{W}: If this creature is not an aura, it becomes an aura enchantment with enchant creature, and loses all other card types. Attach it to target creature you control.\nEnchanted creature gets +2/+2\nWhenever enchanted creature dies, return this card to the battlefield as an enchantment creature.",
@@ -4625,6 +5105,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4632,7 +5115,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 20,
+            "number": 19,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "This spell costs {2} less to cast if it targets a tapped creature.\nThis spell costs {2} more to cast if targets a creature with power 4 or greater.\nDestroy target creature.",
@@ -4643,6 +5126,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4661,6 +5147,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": "redesign"
         },
         {
@@ -4679,6 +5168,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4697,6 +5189,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4715,6 +5210,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Blackholed",
+            "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": "plane edge"
         },
         {
@@ -4733,6 +5231,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": "plane edge"
         },
         {
@@ -4751,6 +5252,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": "plane kamigawa"
         },
         {
@@ -4769,6 +5273,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Luka Brico",
+            "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4787,6 +5294,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": "plane mirrodan"
         },
         {
@@ -4805,6 +5315,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": "plane new phyrexia"
         },
         {
@@ -4814,15 +5327,18 @@
             "type": "Creature \u2014 Human Wizard",
             "number": 95,
             "color_identity": "U",
-            "cost": "{3}{U}",
+            "cost": "{2}{U}",
             "rules_text": "[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, draw a card, then discard a card.",
             "flavor_text": "[i][/i]",
-            "pt": "4/3",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": "plane arcavios"
         },
         {
@@ -4841,6 +5357,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "254",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4859,6 +5378,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": "plane alara"
         },
         {
@@ -4877,6 +5399,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4895,6 +5420,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4913,6 +5441,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4931,6 +5462,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": "plane kaldheim"
         },
         {
@@ -4949,6 +5483,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4967,6 +5504,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4985,6 +5525,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5003,6 +5546,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5021,6 +5567,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Jenner Chen",
+            "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5028,7 +5577,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Beast",
-            "number": 218,
+            "number": 219,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
             "rules_text": "Trample\nAt the beginning of your upkeep, create a Forest land token.",
@@ -5039,6 +5588,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5046,9 +5598,9 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2014 Spirit",
-            "number": 219,
+            "number": 220,
             "color_identity": "G",
-            "cost": "{G}{G}",
+            "cost": "{1}{G}",
             "rules_text": "Bestow {G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nWhenever this creature or enchanted creature attacks, put your choice of a +1/+1 counter, shield counter, trample counter, or vigilance counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
@@ -5057,6 +5609,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5075,6 +5630,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5085,7 +5643,7 @@
             "number": 275,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "Blitz\u2014Pay 2 life [i](If you cast this spell for its blitz cost, it gains haste and \u201cWhen this creature dies, draw a card\u201d. Sacrifice it at the beginning of the next end step.)[/i]\nWhenever a creature you control dies, you may return this card from your graveyard to your hand.",
+            "rules_text": "Blitz\u2014Pay 2 life [i](If you cast this spell for its blitz cost, it gains haste and \u201cWhen this creature dies, draw a card.\u201d Sacrifice it at the beginning of the next end step.)[/i]\nWhenever a creature you control dies, you may return this card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5093,6 +5651,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "redesign"
         },
         {
@@ -5111,6 +5672,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "269",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5129,6 +5693,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5147,6 +5714,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Pat Lee",
+            "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5165,6 +5735,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5183,6 +5756,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": "plane innistrad"
         },
         {
@@ -5201,6 +5777,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5219,6 +5798,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5237,6 +5819,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5255,6 +5840,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5273,6 +5861,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "278",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5291,6 +5882,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Vygovery",
+            "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5309,6 +5903,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Paul Canavan",
+            "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5327,6 +5924,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5345,6 +5945,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Daniel Loveday",
+            "alias": "",
+            "position": "282",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5363,6 +5966,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Jose Borges",
+            "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5373,7 +5979,7 @@
             "number": 295,
             "color_identity": "RG",
             "cost": "{2}{RG}{RG}",
-            "rules_text": "Devour land 2 [i](As this enters the battlefield, you may sacrifice any number of lands. This creature enters the battlefield with twice that many +1/+1 counters on it.)[/i]\nTrample\nYou may play lands from your graveyard.",
+            "rules_text": "Devour land 2 [i](As this creature enters, you may sacrifice any number of lands. This creature enters with twice that many +1/+1 counters on it.)[/i]\nTrample\nYou may play lands from your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5381,6 +5987,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Lea Faske",
+            "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5399,6 +6008,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "285",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5417,6 +6029,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "286",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5435,6 +6050,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "287",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5453,6 +6071,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "288",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5471,6 +6092,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "289",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5489,6 +6113,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "290",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5507,6 +6134,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "291",
+            "rotated": false,
             "notes": "plane theros"
         },
         {
@@ -5525,6 +6155,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "292",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5543,6 +6176,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "293",
+            "rotated": false,
             "notes": "plane innistrad"
         },
         {
@@ -5561,6 +6197,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "294",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5579,6 +6218,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "295",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5589,7 +6231,7 @@
             "number": 168,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature deals 1 damage to each opponent.\nWhenever a land you control is put into the graveyard from the battlefield, put a +1/+1 counter on this creature,",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature deals 1 damage to each opponent.\nWhenever a land you control is put into the graveyard from the battlefield, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -5597,34 +6239,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Ashiok, Dream Seeker",
-            "color": "U",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human",
-            "number": 53,
-            "color_identity": "UB",
-            "cost": "{U}",
-            "rules_text": "{T}: Draw a card, then discard a card, then exile the top card of your library with a dream counter on it. Then if you own four or more cards in exile, you may exile Ashiok, then return them to the battlefield transformed under their owner's control.",
-            "flavor_text": "[i][/i]",
-            "pt": "0/2",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Dreadjim Art",
-            "card_name2": "Ashiok, Nightmare Born",
-            "color2": "UB",
-            "type2": "Legendary Planeswalker \u2014 Ashiok",
-            "cost2": "",
-            "rules_text2": "",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "You may play lands and cast spells from among cards in exile with dream counters on them and may spend mana as though it were mana of any type to cast them.\n[+1]: Exile up to two target cards from graveyards and put a dream counter on each of them.\n[-3]: Exile target nonland permanent and put a dream counter on it.",
-            "loyalty2": "3",
-            "artist2": "Jin L.",
+            "alias": "",
+            "position": "296",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5643,6 +6260,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "297",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5661,6 +6281,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "darekzabrocki",
+            "alias": "",
+            "position": "298",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5679,6 +6302,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "AnnPars",
+            "alias": "",
+            "position": "299",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5686,7 +6312,7 @@
             "color": "W",
             "rarity": "mythic",
             "type": "Enchantment",
-            "number": 38,
+            "number": 37,
             "color_identity": "W",
             "cost": "{W}{W}{W}",
             "rules_text": "When this enchantment enters, if it was not cast for its miracle cost, put it on top of its owners library, otherwise, destroy all creatures.\nWhenever an opponent plays a land or casts a spell, create a 1/1 white Human creature token.\nMiracle {W}{W}{W}",
@@ -5697,6 +6323,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Sam Burley",
+            "alias": "",
+            "position": "300",
+            "rotated": false,
             "notes": "plane amonkhet"
         },
         {
@@ -5715,6 +6344,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "301",
+            "rotated": false,
             "notes": "plane amonkhet"
         },
         {
@@ -5733,6 +6365,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Philip Straub",
+            "alias": "",
+            "position": "302",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5751,6 +6386,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Henry Peters",
+            "alias": "",
+            "position": "303",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5769,6 +6407,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Kekai Kotaki",
+            "alias": "",
+            "position": "304",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5779,7 +6420,7 @@
             "number": 145,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
-            "rules_text": "[i](You protect a war. Your opponents can attack it, when it's defeated, put it into your graveyard.)[/i]\nWhen this battle enters, create a Nicol Bolas, God-Pharaoh token.\nWhen this battle is defeated, sacrifice each planeswalkers you control.",
+            "rules_text": "[i](You protect a war. Your opponents can attack it, when it's defeated, put it into your graveyard.)[/i]\nWhen this battle enters, create a Nicol Bolas, Planeswalker token.\nWhen this battle is defeated, sacrifice each planeswalkers you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5787,6 +6428,9 @@
             "set": "VIN",
             "loyalty": "4",
             "artist": "Raymond Swanland",
+            "alias": "",
+            "position": "305",
+            "rotated": true,
             "notes": "plane ravnica"
         },
         {
@@ -5797,7 +6441,7 @@
             "number": 113,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "When this creature enters or attacks, look at target players hand.\n{2}: Name a card, spells of the chosen name can't be cast this turn.",
+            "rules_text": "When this creature enters or attacks, look at target players hand.\n{1}{BP}: Name a card, spells of the chosen name can't be cast this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -5805,6 +6449,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Zuzu Spikulec",
+            "alias": "",
+            "position": "306",
+            "rotated": false,
             "notes": "plane new phyrexia"
         },
         {
@@ -5823,6 +6470,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "307",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5841,6 +6491,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "308",
+            "rotated": false,
             "notes": "plane lorwynn"
         },
         {
@@ -5859,6 +6512,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "309",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5877,6 +6533,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Nilo M. Abrigato",
+            "alias": "",
+            "position": "310",
+            "rotated": false,
             "notes": "plane amonkhet"
         },
         {
@@ -5895,6 +6554,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "311",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5913,6 +6575,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "312",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5931,6 +6596,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "313",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5949,6 +6617,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "314",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5967,6 +6638,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "315",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5984,7 +6658,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jason A. Engle",
+            "alias": "",
+            "position": "316",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6003,6 +6680,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "317",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6021,6 +6701,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "318",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6039,6 +6722,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "319",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6056,7 +6742,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jason A. Engle",
+            "alias": "",
+            "position": "320",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6074,7 +6763,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jason A. Engle",
+            "alias": "",
+            "position": "321",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6093,6 +6785,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "322",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6110,7 +6805,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jason A. Engle",
+            "alias": "",
+            "position": "323",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6129,6 +6827,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "324",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6147,6 +6848,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "325",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6165,6 +6869,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Sam Burley",
+            "alias": "",
+            "position": "326",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6183,6 +6890,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Skanios",
+            "alias": "",
+            "position": "327",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6201,6 +6911,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "328",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6219,6 +6932,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "329",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6237,6 +6953,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "330",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6255,6 +6974,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "331",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6273,6 +6995,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "332",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6291,6 +7016,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "333",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6309,6 +7037,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "334",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6316,7 +7047,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 220,
+            "number": 221,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "When this enchantment enters, search your library for a basic land card, reveal it, and put it onto the battlefield tapped, then shuffle.\nSacrifice X lands: Put a nonland permanent card with mana value X from your hand onto the battlefield.",
@@ -6327,6 +7058,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "335",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6345,6 +7079,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "336",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6363,6 +7100,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "337",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6373,7 +7113,7 @@
             "number": 348,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Pay 2 life: Add {C}{C}.\n{T}, Sacrifice another land: Target creature you control gains infect until end of turn. [i](That creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)[/i]",
+            "rules_text": "{T}, Pay 3 life: Add {C}{C}.\n{T}, Sacrifice another land: Target creature you control gains infect until end of turn. [i](That creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6381,6 +7121,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "338",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6399,6 +7142,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "339",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6417,6 +7163,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "F3LC4T",
+            "alias": "",
+            "position": "340",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6435,6 +7184,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Daniel Cotter",
+            "alias": "",
+            "position": "341",
+            "rotated": false,
             "notes": "plane amonkhet"
         },
         {
@@ -6453,6 +7205,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "342",
+            "rotated": false,
             "notes": "plane innistrad"
         },
         {
@@ -6471,6 +7226,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "343",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6489,6 +7247,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Cynthia Xiong",
+            "alias": "",
+            "position": "344",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6507,6 +7268,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Santiago Rosas",
+            "alias": "",
+            "position": "345",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6525,6 +7289,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "346",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6543,6 +7310,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "347",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6561,6 +7331,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Yun Huai Huang",
+            "alias": "",
+            "position": "348",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6579,6 +7352,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "349",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6589,7 +7365,7 @@
             "number": 330,
             "color_identity": "C",
             "cost": "{8}",
-            "rules_text": "",
+            "rules_text": "When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n\n[level 4+] Flying\nAt the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n\n[level 4+] Flying\nAt the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8]",
@@ -6597,6 +7373,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Emiel Tayart de Borms",
+            "alias": "",
+            "position": "350",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6615,6 +7394,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "351",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6633,6 +7415,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Rickturf",
+            "alias": "",
+            "position": "352",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6643,7 +7428,7 @@
             "number": 171,
             "color_identity": "R",
             "cost": "{R}{R}",
-            "rules_text": "Whenever you cast a permanent spell, copy it. If the copy is a creature, it gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+            "rules_text": "Whenever you cast a permanent spell, copy it. If the copy is a creature, it gains haste until end of turn. Sacrifice the copy at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6651,6 +7436,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Chippy",
+            "alias": "",
+            "position": "353",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6669,6 +7457,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "354",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6686,7 +7477,10 @@
             "shape": "normal",
             "set": "VIN",
             "loyalty": "",
-            "artist": "",
+            "artist": "\u307e\u3053\u308d\u3093 / makoron",
+            "alias": "",
+            "position": "355",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6705,6 +7499,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "356",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6712,7 +7509,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 28,
+            "number": 27,
             "color_identity": "W",
             "cost": "{X}{W}{W}{W}",
             "rules_text": "Create X tokens that are each a copy of target nonland permanent you control except they're artifacts and lose all other card types.",
@@ -6723,14 +7520,17 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "357",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Dust to Dust",
+            "card_name": "Turn to Ash",
             "color": "W",
             "rarity": "rare",
             "type": "Instant",
-            "number": 17,
+            "number": 44,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Destroy target creature you don't control.\nOverload {6}{W} [i](You may cast this spell for its overload cost. If you do, change \u201ctarget\u201d in its text to \u201ceach.\u201d)[/i]",
@@ -6741,6 +7541,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Gustavo Rossetto",
+            "alias": "",
+            "position": "358",
+            "rotated": false,
             "notes": "plane ravnica"
         },
         {
@@ -6759,6 +7562,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "359",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6766,10 +7572,10 @@
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2014 Insect",
-            "number": 33,
+            "number": 32,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "Flying, lifelink\nWhenever a nonland, nontoken permanent you control enters, if you did not cast it, or if the amount of mana spent to cast it was less than its mana value, create a tapped token that is a copy of this creature.",
+            "rules_text": "Flying, lifelink\nWhenever another nonland, nontoken permanent you control enters, if you did not cast it, or if the amount of mana spent to cast it was less than its mana value, create a tapped token that is a copy of this creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -6777,6 +7583,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Guillaume Normand",
+            "alias": "",
+            "position": "360",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6795,168 +7604,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Treasure",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2014 Treasure",
-            "number": 9,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Nele Diel",
-            "notes": ""
-        },
-        {
-            "card_name": "Construct",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact Creature \u2014 Construct",
-            "number": 7,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "This creature gets +1/+1 for each artifact you control.",
-            "flavor_text": "[i][/i]",
-            "pt": "0/0",
-            "special_text": "",
-            "shape": "token",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Elisey Bondar",
-            "notes": ""
-        },
-        {
-            "card_name": "Construct",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact Creature \u2014 Construct",
-            "number": 8,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Whenever another artifact you control enters, put a +1/+1 counter on this creature.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "GMMTOKENS",
-            "notes": ""
-        },
-        {
-            "card_name": "Phyrexian Germ",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Phyrexian Germ",
-            "number": 4,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "0/0",
-            "special_text": "",
-            "shape": "token",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Rogier van de Beek",
-            "notes": ""
-        },
-        {
-            "card_name": "Illusion",
-            "color": "U",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Illusion",
-            "number": 2,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Aldo Katayanagi",
-            "notes": ""
-        },
-        {
-            "card_name": "Forest",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Basic Land \u2014 Forest",
-            "number": 10,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "EmmiFox",
-            "notes": ""
-        },
-        {
-            "card_name": "Elf",
-            "color": "BG",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Elf",
-            "number": 5,
-            "color_identity": "BG",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "TabeeArts",
-            "notes": ""
-        },
-        {
-            "card_name": "Clue",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2014 Clue",
-            "number": 6,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{2}, Sacrifice this artifact: Draw a card.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Tira Owl",
-            "notes": ""
-        },
-        {
-            "card_name": "Vampire Soldier",
-            "color": "W",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Vampire Soldier",
-            "number": 1,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "VIN",
-            "loyalty": "",
-            "artist": "Ayu Marques",
+            "alias": "",
+            "position": "361",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6975,14 +7625,17 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Austin Otte",
+            "alias": "",
+            "position": "362",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Leyline Reader",
+            "card_name": "Jukai Harmonist",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Druid",
-            "number": 221,
+            "type": "Enchantment Creature \u2014 Human Druid",
+            "number": 218,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Whenever another creature you control enters, you may untap up to one target nonland permanent.",
@@ -6993,6 +7646,9 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "363",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7011,8 +7667,734 @@
             "set": "VIN",
             "loyalty": "",
             "artist": "Kate Alabasini",
+            "alias": "",
+            "position": "364",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Tibalt, Cruel Sadist",
+            "color": "B",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Human",
+            "number": 141,
+            "color_identity": "BR",
+            "cost": "{B}",
+            "rules_text": "When Tibalt enters, create a 1/1 red Devil creature token with \u201cWhen this creature dies, it deals 1 damage to any target.\u201d\nWhenever Tibalt is dealt damage and survives, you may exile him, then return him to the battlefield transformed under his owner's control.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/2",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Anna Verhoog",
+            "alias": "",
+            "position": "365",
+            "card_name2": "Tibalt, Paincursed",
+            "color2": "BR",
+            "type2": "Legendary Planeswalker \u2014 Tibalt",
+            "cost2": "",
+            "rules_text2": "",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "2",
+            "artist2": "Steamhat",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "plane innistrad\nplane innistrad"
+        },
+        {
+            "card_name": "Calix, Fate-Sworn",
+            "color": "G",
+            "rarity": "mythic",
+            "type": "Legendary Enchantment Creature \u2014 Human",
+            "number": 199,
+            "color_identity": "WG",
+            "cost": "{1}{G}",
+            "rules_text": "When Calix or another enchantment you control enters, you draw a card and gain a life.\nWhenever another enchantment you control leaves the battlefield, you may exile Calix then return him to the battlefield transformed under his owner's control.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/2",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "367",
+            "card_name2": "Calix, Fate-Bound",
+            "color2": "WG",
+            "type2": "Legendary Planeswalker \u2014 Calix",
+            "cost2": "",
+            "rules_text2": "[+1]: Untap up to two target permanents.\n[-1]: Put up to one enchantment card from your hand onto the battlefield.\n[-2]: Return target enchantment card from your graveyard to your hand.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "[+1]: Untap up to two target permanents.\n[-1]: Put up to one enchantment card from your hand onto the battlefield.\n[-2]: Return target enchantment card from your graveyard to your hand.",
+            "loyalty2": "3",
+            "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "plane theros\nplane theros"
+        },
+        {
+            "card_name": "Narset, Ojutai's Faithful",
+            "color": "W",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Human Monk",
+            "number": 28,
+            "color_identity": "WU",
+            "cost": "{1}{W}",
+            "rules_text": "Whenever you cast a historic spell, scry 1. Then you may reveal the top card of your library. If a historic card is revealed this way, you may exile Narset, then return her to the battlefield transformed under her owner's control. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "369",
+            "card_name2": "Narset, Eyes Opened",
+            "color2": "WU",
+            "type2": "Legendary Planeswalker \u2014 Narset",
+            "cost2": "",
+            "rules_text2": "",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "3",
+            "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "plane tarkir\nplane tarkir"
+        },
+        {
+            "card_name": "Xenagos, Violent Hedonist",
+            "color": "R",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Satyr",
+            "number": 193,
+            "color_identity": "RG",
+            "cost": "{1}{R}",
+            "rules_text": "Whenever Xenagos or another creature you control enters, Xenagos deals 1 damage to each opponent. Then if three or more creatures entered under your control this turn, you may exile Xenagos, then return him to the battlefield transformed under his owner's control.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Emmanuel Bou",
+            "alias": "",
+            "position": "371",
+            "card_name2": "Xenagos, King Stranger",
+            "color2": "RG",
+            "type2": "Legendary Planeswalker \u2014 Xenagos",
+            "cost2": "",
+            "rules_text2": "Whenever a creature you control enters, put a loyalty counter on Xenagos, King Stranger.\n[0]: Create a 2/2 red and green Satyr creature token with haste.\n[-3]: Draw a card for each creature you control.\n[-4]: You get an emblem with \u201cCreatures you control get +1/+0 and have haste.\u201d",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "Whenever a creature you control enters, put a loyalty counter on Xenagos, King Stranger.\n[0]: Create a 2/2 red and green Satyr creature token with haste.\n[-3]: Draw a card for each creature you control.\n[-4]: You get an emblem with \u201cCreatures you control get +1/+0 and have haste.\u201d",
+            "loyalty2": "3",
+            "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "plane theros\nplane theros"
+        },
+        {
+            "card_name": "Marit Lage, Awoken",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Legendary Creature \u2014 Avatar",
+            "number": 4,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i][/i]",
+            "pt": "10/10",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Diana Franco",
+            "alias": "",
+            "position": "373",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Detective's Study",
+            "color": "W",
+            "rarity": "uncommon",
+            "type": "Enchantment \u2014 Room",
+            "number": 49,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "When you unlock this door, destroy target creature, its controller investigates.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "fuse split",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "374",
+            "card_name2": "Empty Prison",
+            "color2": "W",
+            "type2": "",
+            "cost2": "{2}{W}{W}",
+            "rules_text2": "{2}: Return all creature cards exiled with this enchantment to the battlefield under their owners control, then exile target creature.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "removal"
+        },
+        {
+            "card_name": "Forged by Fate",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "Enchantment \u2014 Saga",
+            "number": 210,
+            "color_identity": "G",
+            "cost": "{2}{G}{G}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Search your library for an artifact or enchantment card, reveal it, and put it into your hand.\nIII \u2014 Target creature you control deals damage equal to its power to target creature you don't control, then put a +1/+1 counter on it.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Search your library for an artifact or enchantment card, reveal it, and put it into your hand.\nIII \u2014 Target creature you control deals damage equal to its power to target creature you don't control, then put a +1/+1 counter on it.",
+            "shape": "saga",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "375",
+            "rotated": false,
+            "notes": "plane theros"
+        },
+        {
+            "card_name": "Jeskai Rekindling",
+            "color": "W",
+            "rarity": "uncommon",
+            "type": "Enchantment \u2014 Saga",
+            "number": 23,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy target creature with power 4 or greater.\nII \u2014 Draw three cards, then put two cards from your hand on top of your library.\nIII \u2014 Distribute two +1/+1 counters among creatures you control.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy target creature with power 4 or greater.\nII \u2014 Draw three cards, then put two cards from your hand on top of your library.\nIII \u2014 Distribute two +1/+1 counters among creatures you control.",
+            "shape": "saga",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "376",
+            "rotated": false,
+            "notes": "plane tarkir"
+        },
+        {
+            "card_name": "Tibalt Causes a Doomskar",
+            "color": "B",
+            "rarity": "uncommon",
+            "type": "Enchantment \u2014 Saga",
+            "number": 140,
+            "color_identity": "B",
+            "cost": "{2}{B}{B}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Put a finality counter on each creature you control.\nII \u2014 Each opponent sacrifices two creatures.\nIII \u2014 Each opponent sacrifices two lands.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Put a finality counter on each creature you control.\nII \u2014 Each opponent sacrifices two creatures.\nIII \u2014 Each opponent sacrifices two lands.",
+            "shape": "saga",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "377",
+            "rotated": false,
+            "notes": "plane kaldheim"
+        },
+        {
+            "card_name": "Xenagos's Godly Ascension",
+            "color": "R",
+            "rarity": "uncommon",
+            "type": "Enchantment \u2014 Saga",
+            "number": 195,
+            "color_identity": "R",
+            "cost": "{1}{R}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 red and green Satyr creature token with haste.\nII \u2014 Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.\nIII \u2014 Deal 2 damage to each creature.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 red and green Satyr creature token with haste.\nII \u2014 Tap any number of creatures you control. Deal X damage divided as you choose among any number of targets, where X is the number of creatures tapped this way.\nIII \u2014 Deal 2 damage to each creature.",
+            "shape": "saga",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "378",
+            "rotated": false,
+            "notes": "plane theros"
+        },
+        {
+            "card_name": "The Rise of Cacophony",
+            "color": "U",
+            "rarity": "uncommon",
+            "type": "Enchantment \u2014 Saga",
+            "number": 87,
+            "color_identity": "U",
+            "cost": "{2}{U}{U}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nStorm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]\nI \u2014 Tap up to one target creature and put a stun counter on it.\nII, III \u2014 Scry 2, then you may draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nStorm [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i]\nI \u2014 Tap up to one target creature and put a stun counter on it.\nII, III \u2014 Scry 2, then you may draw a card.",
+            "shape": "saga",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "379",
+            "rotated": false,
+            "notes": "plane new phyrexia"
+        },
+        {
+            "card_name": "Ashiok, Dream Seeker",
+            "color": "U",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Human",
+            "number": 53,
+            "color_identity": "UB",
+            "cost": "{U}",
+            "rules_text": "{T}: Draw a card, then discard a card, then exile the top card of your library with a dream counter on it. Then if you own four or more cards in exile, you may exile Ashiok, then return them to the battlefield transformed under their owner's control.",
+            "flavor_text": "[i][/i]",
+            "pt": "0/2",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Dreadjim Art",
+            "alias": "",
+            "position": "380",
+            "card_name2": "Ashiok, Nightmare Born",
+            "color2": "UB",
+            "type2": "Legendary Planeswalker \u2014 Ashiok",
+            "cost2": "",
+            "rules_text2": "You may play lands and cast spells from among cards in exile with dream counters on them and may spend mana as though it were mana of any type to cast them.\n[+1]: Exile up to two target cards from graveyards and put a dream counter on each of them.\n[-3]: Exile target nonland permanent and put a dream counter on it.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "You may play lands and cast spells from among cards in exile with dream counters on them and may spend mana as though it were mana of any type to cast them.\n[+1]: Exile up to two target cards from graveyards and put a dream counter on each of them.\n[-3]: Exile target nonland permanent and put a dream counter on it.",
+            "loyalty2": "3",
+            "artist2": "Jin L.",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "\n"
+        },
+        {
+            "card_name": "Treasure",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Treasure",
+            "number": 19,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Nele Diel",
+            "alias": "",
+            "position": "382",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Construct",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Construct",
+            "number": 15,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "This creature gets +1/+1 for each artifact you control.",
+            "flavor_text": "[i][/i]",
+            "pt": "0/0",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Elisey Bondar",
+            "alias": "",
+            "position": "383",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Construct",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Construct",
+            "number": 16,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Whenever another artifact you control enters, put a +1/+1 counter on this creature.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "GMMTOKENS",
+            "alias": "",
+            "position": "384",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Phyrexian Germ",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Phyrexian Germ",
+            "number": 5,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "0/0",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Rogier van de Beek",
+            "alias": "",
+            "position": "385",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Illusion",
+            "color": "U",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Illusion",
+            "number": 3,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Aldo Katayanagi",
+            "alias": "",
+            "position": "386",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Forest",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Basic Land \u2014 Forest",
+            "number": 20,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "EmmiFox",
+            "alias": "",
+            "position": "387",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Elf",
+            "color": "BG",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Elf",
+            "number": 9,
+            "color_identity": "BG",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "TabeeArts",
+            "alias": "",
+            "position": "388",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Clue",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Clue",
+            "number": 14,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, Sacrifice this artifact: Draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Tira Owl",
+            "alias": "",
+            "position": "389",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Vampire Soldier",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Vampire Soldier",
+            "number": 2,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Ayu Marques",
+            "alias": "",
+            "position": "390",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Nicol Bolas, Planeswalker",
+            "color": "UBR",
+            "rarity": "common",
+            "type": "Token Legendary Planeswalker \u2014 Bolas",
+            "number": 10,
+            "color_identity": "UBR",
+            "cost": "",
+            "rules_text": "[+3]: Destroy target noncreature permanent.\n[-2]: Gain control of target creature.\n[-9]: Nicol Bolas deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents of their choice.",
+            "flavor_text": "[i][/i]",
+            "pt": "10/10",
+            "special_text": "[+3]: Destroy target noncreature permanent.\n[-2]: Gain control of target creature.\n[-9]: Nicol Bolas deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents of their choice.",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "5",
+            "artist": "D. Alexander Gregory",
+            "alias": "",
+            "position": "391",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Human",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Human",
+            "number": 1,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "mattforsyth",
+            "alias": "",
+            "position": "392",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Food",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Food",
+            "number": 17,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Kent Davis",
+            "alias": "",
+            "position": "393",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Devil",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Devil",
+            "number": 7,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "When this creature dies, it deals 1 damage to any target.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "mattforsyth",
+            "alias": "",
+            "position": "394",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Blood",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Blood",
+            "number": 13,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{1}, {T}, Discard a card, Sacrifice this token: Draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Eggboy",
+            "alias": "",
+            "position": "395",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Satyr",
+            "color": "RG",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Satyr",
+            "number": 12,
+            "color_identity": "RG",
+            "cost": "",
+            "rules_text": "Haste",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Megan Greene",
+            "alias": "",
+            "position": "396",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Stonecoil Serpent",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Snake",
+            "number": 18,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Reach, trample \nProtection from multicolored [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything multicolored.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Mark Poole",
+            "alias": "",
+            "position": "397",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Elemental",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Elemental",
+            "number": 8,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Christophe Young",
+            "alias": "",
+            "position": "398",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Snake",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Snake",
+            "number": 6,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Deathtouch",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Aldo Katayanagi",
+            "alias": "",
+            "position": "399",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Phyrexia's Coil",
+            "color": "UB",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Phyrexian Serpent",
+            "number": 11,
+            "color_identity": "UB",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "VIN",
+            "loyalty": "",
+            "artist": "Aldo Katayanagi",
+            "alias": "",
+            "position": "400",
+            "rotated": false,
             "notes": ""
         }
     ],
-    "version": 28
+    "version": 29
 }
