@@ -1,4 +1,84 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Nyxbloom Sapling added.
+Chaotic Elemental Blast added.
+Demonic Elemental Blast added.
+Refined Elemental Blast added.
+Divine Elemental Blast added.
+Nurturing Elemental Blast added.
+Harvest Drake added.
+Riddler Returned added.
+One With Everything added.
+
+Nyxbloom Prodigy removed.
+Xenagos's Disciple removed.
+Gonti's Graverobber removed.
+Soft Copy removed.
+Belief removed.
+Rancorous Roil removed.
+Karametra's Reaper removed.
+Dauthi Mindthief removed.
+
+The Spirit Gem
+rules_text: When this artifact enters, search your library for up to two land cards and put them onto the battlefield tapped, then shuffle.
+Spells you cast cost {W}{U}{B}{R}{G} less to cast, this effect reduces only the amount of colored mana you pay.
+Whenever a land you control becomes tapped for mana, add {C}. => When this artifact enters, search your library for up to four land cards with different names and put them onto the battlefield tapped, then shuffle.
+At the beginning of your upkeep, return up to one target card from your graveyard to your hand.
+Sacrifice another permanent: Draw a card.
+
+Green Sun's Avatar
+rules_text: Pay 1 life: Add {G}.
+{15}, {T}: Each player's life total become equal to the number of creatures they control. => Pay 1 life: Add {G}.
+{12}, {T}: Each player's life total become equal to the number of creatures they control.
+
+Gelatinous Armor
+cost: {1}{G} => {G}
+
+Stairway Into the Abyss
+cost: {1}{B}{B} => {1}{B}{G}
+rules_text: Whenever you descend, each player exiles a permanent they control or a card from their hand. [i](You descend whenever one or more permanent cards are put into your graveyard from anywhere.)[/i]
+At the beginning of your end step, if there are eight or more permanent cards in your graveyard, put all permanent cards exiled with this enchantment onto the battlefield under your control. => Whenever you descend, each player exiles a permanent they control or a card from their hand. [i](You descend whenever one or more permanent cards are put into your graveyard from anywhere.)[/i]
+At the beginning of your end step, if there are eight or more permanent cards in your graveyard, put all permanent cards exiled with this enchantment onto the battlefield under your control, then sacrifice this enchantment.
+
+Diamondstorm
+rules_text: Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast that card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Tap all creatures you don't control. Creatures you control get +1/+1 and gain vigilance until end of turn.
+Miracle {1}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+War of the Spark
+cost: {4}{B}{B} => {3}{B}{B}
+
+Weatherlight, Legacy Weapon
+rules_text: When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+
+[level 4+] Flying
+At the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8] => When this spacecraft enters, search your library for any number of legendary cards and exile them, then shuffle.
+Station
+
+[level 4+] Flying
+At the beginning of your end step, you may cast a card exiled by this permanent without paying its mana cost. [8/8]
+special_text: When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+
+[level 4+] Flying
+At the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8] => When this spacecraft enters, search your library for any number of legendary cards and exile them, then shuffle.
+Station
+
+[level 4+] Flying
+At the beginning of your end step, you may cast a card exiled by this permanent without paying its mana cost. [8/8]
+
+Satyr
+pt: 1/1 => 2/2
+
+Stonecoil Serpent
+rules_text: Reach, trample 
+Protection from multicolored [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything multicolored.)[/i] => Reach, trample
+Protection from multicolored
+
+
+VERSION 29 CHANGELOG
 ====================
 
 Emry, Gift Giver added.

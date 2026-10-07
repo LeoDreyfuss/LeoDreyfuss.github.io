@@ -5,7 +5,7 @@
 			<name>VIN</name>
 			<longname>Vintage Horizons</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-14</releasedate>
+			<releasedate>2026-10-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -79,7 +79,7 @@ Whenever an opponent casts their second spell each turn, you may cast this spell
 		<card>
 			<name>Stone Deluge</name>
 			<text>Destroy all nonbasic lands.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/4.png" num="183">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/4.png" num="184">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -112,7 +112,7 @@ Whenever an opponent casts their second spell each turn, you may cast this spell
 		<card>
 			<name>Kor Wayshaper</name>
 			<text>When this creature enters, each player sacrifices a land.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/6.png" num="167">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/6.png" num="168">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -167,7 +167,7 @@ Whenever a nonland permanent would enter under an opponents control, if that pla
 			<name>Scion of Karn</name>
 			<text>When you cast this spell, copy it for each artifact you control.
 Whenever this creature attacks, put a +1/+1 counter on each artifact creature you control.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/9.png" num="323">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/9.png" num="324">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -201,7 +201,7 @@ If you would draw one or more cards, you draw that many plus one instead.</text>
 			<name>Temur Triome</name>
 			<text>({T}: Add {G}, {U}, or {R})
 When this land becomes tapped, you lose 1 life.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/11.png" num="354">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/11.png" num="355">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -217,7 +217,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Sultai Triome</name>
 			<text>({T}: Add {B}, {G}, or {U})
 When this land becomes tapped, you lose 1 life.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/12.png" num="353">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/12.png" num="354">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -233,7 +233,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mardu Triome</name>
 			<text>({T}: Add {R}, {W}, or {B})
 When this land becomes tapped, you lose 1 life.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/13.png" num="343">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/13.png" num="344">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -249,7 +249,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Jeskai Triome</name>
 			<text>({T}: Add {U}, {R}, or {W})
 When this land becomes tapped, you lose 1 life.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/14.png" num="340">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/14.png" num="341">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -265,7 +265,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Abzan Triome</name>
 			<text>({T}: Add {W}, {B}, or {G})
 When this land becomes tapped, you lose 1 life.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/15.png" num="331">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/15.png" num="332">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -280,7 +280,7 @@ When this land becomes tapped, you lose 1 life.</text>
 		<card>
 			<name>Return</name>
 			<text>Exile target noncreature nonland card from your graveyard, you may cast it without paying its mana cost. If it&apos;s a permanent it enters with a finality counter on it, otherwise, exile it as it resolves.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/16.png" num="86">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/16.png" num="87">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -296,7 +296,7 @@ When this land becomes tapped, you lose 1 life.</text>
 		<card>
 			<name>Storm Fiend</name>
 			<text>Storm (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/17.png" num="184">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/17.png" num="185">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -335,7 +335,7 @@ You may exile a blue card from your hand rather than pay this spells mana cost.<
 • Exile target artifact or enchantment
 • Target player puts all cards from their graveyard on the bottom of their library in a random order.
 You may exile a green card from your hand rather than pay this spells mana cost.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/19.png" num="228">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/19.png" num="229">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -354,7 +354,7 @@ You may exile a green card from your hand rather than pay this spells mana cost.
 • Each player discards their hand then draws 5 cards.
 • Deal 4 damage to target creature or planeswalker.
 You may exile a red card from your hand rather than pay this spells mana cost.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/20.png" num="176">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/20.png" num="177">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -373,7 +373,7 @@ You may exile a red card from your hand rather than pay this spells mana cost.</
 • Return target creature card from your graveyard to the battlefield.
 • Target player discards two cards at random.
 You may exile a black card from your hand rather than pay this spells mana cost.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/21.png" num="128">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/21.png" num="129">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -409,7 +409,7 @@ You may exile a white card from your hand rather than pay this spells mana cost.
 			<name>Grixis Triome</name>
 			<text>({T}: Add {U}, {B}, or {R})
 When this land becomes tapped, you lose 1 life.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/23.png" num="336">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/23.png" num="337">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -425,7 +425,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Esper Triome</name>
 			<text>({T}: Add {W}, {U}, or {B})
 When this land becomes tapped, you lose 1 life.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/24.png" num="334">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/24.png" num="335">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -441,7 +441,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Naya Triome</name>
 			<text>({T}: Add {R}, {G}, or {W})
 When this land becomes tapped, you lose 1 life.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/25.png" num="346">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/25.png" num="347">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -457,7 +457,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Bant Triome</name>
 			<text>({T}: Add {G}, {W}, or {U})
 When this land becomes tapped, you lose 1 life.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/26.png" num="332">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/26.png" num="333">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -473,7 +473,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Jund Triome</name>
 			<text>({T}: Add {B}, {R}, or {G})
 When this land becomes tapped, you lose 1 life.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/27.png" num="341">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/27.png" num="342">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -489,7 +489,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mox Pyrite</name>
 			<text>This artifact enters tapped.
 {T}: Add {R} or {W}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/28.png" num="315">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/28.png" num="316">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -505,7 +505,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mox Charcoal</name>
 			<text>This artifact enters tapped.
 {T}: Add {B} or {R}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/29.png" num="313">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/29.png" num="314">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -521,7 +521,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mox Bismuth</name>
 			<text>This artifact enters tapped.
 {T}: Add {G} or {U}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/30.png" num="312">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/30.png" num="313">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -537,7 +537,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mox Roselite</name>
 			<text>This artifact enters tapped.
 {T}: Add {R} or {G}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/31.png" num="317">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/31.png" num="318">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -553,7 +553,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mox Quartz</name>
 			<text>This artifact enters tapped.
 {T}: Add {W} or {B}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/32.png" num="316">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/32.png" num="317">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -569,7 +569,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mox Amethyst</name>
 			<text>This artifact enters tapped.
 {T}: Add {B} or {G}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/33.png" num="311">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/33.png" num="312">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -585,7 +585,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mox Obsidian</name>
 			<text>This artifact enters tapped.
 {T}: Add {U} or {B}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/34.png" num="314">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/34.png" num="315">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -601,7 +601,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mox Topaz</name>
 			<text>This artifact enters tapped.
 {T}: Add {G} or {W}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/35.png" num="318">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/35.png" num="319">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -617,7 +617,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mox Turquoise</name>
 			<text>This artifact enters tapped.
 {T}: Add {W} or {U}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/36.png" num="320">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/36.png" num="321">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -633,7 +633,7 @@ When this land becomes tapped, you lose 1 life.</text>
 			<name>Mox Tourmaline</name>
 			<text>This artifact enters tapped.
 {T}: Add {U} or {R}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/37.png" num="319">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/37.png" num="320">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -666,7 +666,7 @@ Mill five cards, then you may return a permanent card from among them to your ha
 			<name>From the Grave</name>
 			<text>Return target creature card from your graveyard to the battlefield, you lose life equal to its power.
 Flashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/39.png" num="117">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/39.png" num="118">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -684,7 +684,7 @@ Flashback {B} (You may cast this card from your graveyard for its flashback cost
 			<text>Menace
 When this creature enters or dies, target player draws a card and lose 1 life.
 Swampcycling {0} ({0}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/40.png" num="127">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/40.png" num="128">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -702,7 +702,7 @@ Swampcycling {0} ({0}, Discard this card: Search your library for a Swamp card, 
 			<name>Fomori Rallier</name>
 			<text>Exile this card from your graveyard: Target creature must block this turn if able.
 Mountaincycling {0} ({0}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/41.png" num="162">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/41.png" num="163">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -719,7 +719,7 @@ Mountaincycling {0} ({0}, Discard this card: Search your library for a Mountain 
 		<card>
 			<name>Simian Spirit Guide</name>
 			<text>Exile this card from your hand: Add {R}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/42.png" num="182">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/42.png" num="183">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -770,7 +770,7 @@ Mountaincycling {0} ({0}, Discard this card: Search your library for a Mountain 
 		<card>
 			<name>Skeletal Spirit Guide</name>
 			<text>Exile this card from your hand: Add {B}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/45.png" num="135">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/45.png" num="136">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -857,7 +857,7 @@ Crew 1</text>
 			<name>Stormclaw Warsinger</name>
 			<text>Blitz {1}{BR} (If you cast this spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card.&quot; Sacrifice it at the beginning of the next end step.)
 Whenever a creature you control dies, if it attacked this turn, this creature deals 2 damage to each opponent, if it entered this turn, create a Treasure token.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/50.png" num="286">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/50.png" num="287">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -949,7 +949,7 @@ When this creature enters, draw three cards, then put two cards from your hand o
 			<text>Whenever one or more cards you own are put into exile from anywhere other than the battlefield, put a defile counter on each of them.
 {T}: Add {C}.
 {T}: Choose a card you own in exile with a defile counter on it, you may play it this turn.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/55.png" num="355">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/55.png" num="356">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1051,7 +1051,7 @@ Forestcycling {0} ({0}, Discard this card: Search your library for a Forest card
 		<card>
 			<name>Return to Flesh</name>
 			<text>Return target creature card from your graveyard to the battlefield.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/61.png" num="130">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/61.png" num="131">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1103,7 +1103,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Windswept Heath</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/64.png" num="365">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/64.png" num="366">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1117,7 +1117,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Polluted Delta</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/65.png" num="362">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/65.png" num="363">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1131,7 +1131,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Misty Rainforest</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/66.png" num="361">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/66.png" num="362">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1145,7 +1145,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Scalding Tarn</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/67.png" num="363">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/67.png" num="364">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1159,7 +1159,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Arid Mesa</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/68.png" num="357">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/68.png" num="358">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1173,7 +1173,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Bloodstained Mire</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/69.png" num="358">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/69.png" num="359">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1187,7 +1187,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Flooded Strand</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/70.png" num="359">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/70.png" num="360">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1201,7 +1201,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Marsh Flats</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/71.png" num="360">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/71.png" num="361">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1215,7 +1215,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Wooded Foothills</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/72.png" num="366">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/72.png" num="367">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1229,7 +1229,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Verdant Catacombs</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/73.png" num="364">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/73.png" num="365">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1243,7 +1243,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/74.png" num="375">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/74.png" num="376">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1258,7 +1258,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/75.png" num="376">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/75.png" num="377">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1273,7 +1273,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/76.png" num="369">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/76.png" num="370">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1288,7 +1288,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/77.png" num="370">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/77.png" num="371">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1303,7 +1303,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/78.png" num="371">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/78.png" num="372">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1318,7 +1318,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/79.png" num="372">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/79.png" num="373">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1333,7 +1333,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/80.png" num="373">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/80.png" num="375">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1363,7 +1363,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/82.png" num="367">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/82.png" num="368">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1378,7 +1378,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/83.png" num="368">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/83.png" num="369">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1410,7 +1410,7 @@ When this creature deals combat damage to a player, draw a card then discard a c
 			<name>Manachaser</name>
 			<text>Flash
 When this creature enters, copy target instant or sorcery spell you control. If no mana was spent to cast that spell, copy it an additional time.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/85.png" num="169">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/85.png" num="170">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1445,7 +1445,7 @@ When this creature enters, copy target instant or sorcery spell you control. If 
 		<card>
 			<name>Storm Strike</name>
 			<text>Deal 1 damage to target creature or planeswalker. If you&apos;ve cast another spell this turn, this spell deals 3 damage to the chosen target instead.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/87.png" num="185">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/87.png" num="186">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1493,7 +1493,7 @@ When this creature enters, copy target instant or sorcery spell you control. If 
 		<card>
 			<name>Bloodrage</name>
 			<text>Return target creature card from your graveyard to the battlefield, it gains haste until end of turn. Sacrifice it at the beginning of the next end step. Whenever that creature is dealt damage this turn, create a tapped Treasure token.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/90.png" num="290">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/90.png" num="291">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1543,7 +1543,7 @@ Artifact and enchantment spells you cast cost {1} less to cast.</text>
 		<card>
 			<name>Dismember</name>
 			<text>Target creature gets -5/-5 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/93.png" num="109">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/93.png" num="110">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1575,7 +1575,7 @@ Artifact and enchantment spells you cast cost {1} less to cast.</text>
 		<card>
 			<name>Engulf</name>
 			<text>Deal 4 damage to target creature or planeswalker.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/95.png" num="158">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/95.png" num="159">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1624,7 +1624,7 @@ Artifact and enchantment spells you cast cost {1} less to cast.</text>
 			<name>Muldrotha, Rotbloom</name>
 			<text>As long as Muldrotha is in your graveyard and there are 5 or more cards in your graveyard, you may play lands and cast permanent spells from your graveyard.
 Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/98.png" num="268">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/98.png" num="267">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1660,7 +1660,7 @@ Dredge 3 (If you would draw a card, you may mill three cards instead. If you do,
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Trample
 This creature enters with a +1/+1 counter on it for each card you own in exile.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/100.png" num="133">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/100.png" num="134">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1695,7 +1695,7 @@ Draw three cards then discard a card.</text>
 			<name>Karn, Father of Machines</name>
 			<text>Trample, Toxic 10 (Players dealt combat damage by this creature also get ten poison counters.)
 When Karn dies or is put into exile from the battlefield, you may put an artifact or creature card from your hand onto the battlefield.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/102.png" num="309">VIN</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/102.png" num="310">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1728,7 +1728,7 @@ Whenever you cast a spell for its miracle cost, draw a card, then sacrifice this
 			<name>Ring of Stars</name>
 			<text>This artifact enters tapped.
 {T}: Add {C}{C}.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/104.png" num="321">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/104.png" num="322">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1743,7 +1743,7 @@ Whenever you cast a spell for its miracle cost, draw a card, then sacrifice this
 			<name>Thran Dragon Engine</name>
 			<text>Flying
 Whenever this creature or another nonland permanent you control enters, you may discard a card, if you do, draw a card.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/105.png" num="187">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/105.png" num="188">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1777,7 +1777,7 @@ Whenever this creature or another nonland permanent you control enters, you may 
 		<card>
 			<name>Bloodsoaked Lotus</name>
 			<text>Morbid — {T}, Sacrifice this artifact: Add three mana of any one color. Activate this ability only if a creature died this turn.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/107.png" num="301">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/107.png" num="302">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1792,7 +1792,7 @@ Whenever this creature or another nonland permanent you control enters, you may 
 			<name>Immersturm Conqueror</name>
 			<text>Flash
 When this creature enters, it deals 3 damage to each creature that attacked this turn. Create a Treasure token for each creature that dies this way.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/108.png" num="164">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/108.png" num="165">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1807,26 +1807,26 @@ When this creature enters, it deals 3 damage to each creature that attacked this
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Nyxbloom Prodigy</name>
+			<name>Nyxbloom Sapling</name>
 			<text>Forests you control have &quot;{T}: Add {G}{G}.&quot;</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/109.png" num="227">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/109.png" num="228">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment Creature — Dryad</type>
+				<type>Enchantment Creature — Elemental</type>
 				<maintype>Creature</maintype>
 				<manacost>1GG</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>1/3</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Black Lotus</name>
 			<text>{T}: Sacrifice this artifact: Add three mana of any one color.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/110.png" num="300">VIN</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/110.png" num="301">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1857,7 +1857,7 @@ When this creature enters, it deals 3 damage to each creature that attacked this
 			<name>Voltaic Gambit</name>
 			<text>Exile the top three cards of your library, you may play them this turn. 
 Whenever you cast your fourth spell this turn, add {R}{R}{R}{R}{R}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/112.png" num="191">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/112.png" num="192">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1875,7 +1875,7 @@ Whenever you cast your fourth spell this turn, add {R}{R}{R}{R}{R}.</text>
 			<text>Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 As an additional cost to cast this spell, discard a card.
 Draw two cards, then create a treasure token.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/113.png" num="174">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/113.png" num="175">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1964,7 +1964,7 @@ Miracle {W}</text>
 			<text>This land enters tapped.
 As this land enters, choose three different colors.
 {T}, Pay 1 life: Add one mana of any of the chosen colors.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/118.png" num="351">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/118.png" num="352">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2011,10 +2011,10 @@ Whenever another artifact you control enters, put a +1/+1 counter on this creatu
 		</card>
 		<card>
 			<name>The Spirit Gem</name>
-			<text>When this artifact enters, search your library for up to two land cards and put them onto the battlefield tapped, then shuffle.
-Spells you cast cost {W}{U}{B}{R}{G} less to cast, this effect reduces only the amount of colored mana you pay.
-Whenever a land you control becomes tapped for mana, add {C}.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/121.png" num="326">VIN</set>
+			<text>When this artifact enters, search your library for up to four land cards with different names and put them onto the battlefield tapped, then shuffle.
+At the beginning of your upkeep, return up to one target card from your graveyard to your hand.
+Sacrifice another permanent: Draw a card.</text>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/121.png" num="327">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2022,7 +2022,6 @@ Whenever a land you control becomes tapped for mana, add {C}.</text>
 				<maintype>Artifact</maintype>
 				<manacost>8</manacost>
 				<cmc>8</cmc>
-				<coloridentity>WUBRG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -2065,7 +2064,7 @@ Whenever a land you control becomes tapped for mana, add {C}.</text>
 At the beginning of each upkeep, remove an ice counter from this land.
 When this land has no ice counters on it, sacrifice it.
 When this land is put into your graveyard from the battlefield, create Marit Lage, Awoken, a legendary 10/10 black Avatar creature token with flying.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/124.png" num="344">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/124.png" num="345">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2079,7 +2078,7 @@ When this land is put into your graveyard from the battlefield, create Marit Lag
 		<card>
 			<name>Geth&apos;s Expertise</name>
 			<text>At the beginning of each opponent&apos;s upkeep, you draw a card and lose a life.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/125.png" num="118">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/125.png" num="119">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2113,7 +2112,7 @@ When this land is put into your graveyard from the battlefield, create Marit Lag
 			<name>Razia, Boros Parun</name>
 			<text>Flying, vigilance, haste
 Whenever Razia attacks, it deals 3 damage to any target.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/127.png" num="273">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/127.png" num="272">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2151,7 +2150,7 @@ Whenever you cast a colorless spell or artifact spell, search target opponents l
 			<text>Flying
 Whenever you cast this spell or another spell, if the amount of mana spent to cast that spell was less than its mana value, you gain 3 life and draw a card.
 Miracle {2}{W}{B} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/129.png" num="266">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/129.png" num="265">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2169,7 +2168,7 @@ Miracle {2}{W}{B} (You may cast this card for its miracle cost when you draw it 
 			<name>Koma, Compleated</name>
 			<text>As Koma enters, create three 3/3 blue and black Phyrexian Serpent creature tokens named Phyrexia&apos;s Coil.
 Whenever another creature you control dies, put two +1/+1 counters on Koma.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/130.png" num="264">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/130.png" num="263">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2225,7 +2224,7 @@ Enchantment spells you cast cost {G}{G}{W}{W} less to cast. This effect reduces 
 			<text>Lifelink
 Whenever Winter attacks, draw a card, then you may discard a card, if you do Winter can&apos;t be blocked this turn.
 Whenever you discard a nonland card, put a +1/+1 counter in Winter.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/133.png" num="289">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/133.png" num="290">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2261,7 +2260,7 @@ Sacrifice a nontoken creature: You may put a creature card from your hand onto t
 			<name>Ulasht, Writhing Hybrid</name>
 			<text>Ulasht enters with a +1/+1 counter on it for each land you control and each land card in your graveyard.
 Landfall — Whenever a land you control enters, put a +1/+1 counter on Ulasht, it gains trample until end of turn</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/135.png" num="288">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/135.png" num="289">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2364,7 +2363,7 @@ Enchanted creature gets +2/+2 and attacks each combat if able.</text>
 		<card>
 			<name>Nyx, Pantheon of Gods</name>
 			<text>{T}: Add {W} for each artifact and/or enchantment you control.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/141.png" num="347">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/141.png" num="348">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2379,7 +2378,7 @@ Enchanted creature gets +2/+2 and attacks each combat if able.</text>
 		<card>
 			<name>Maha&apos;s Nest</name>
 			<text>{T}: Add {B} for each card in your graveyard.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/142.png" num="342">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/142.png" num="343">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2394,7 +2393,7 @@ Enchanted creature gets +2/+2 and attacks each combat if able.</text>
 		<card>
 			<name>Strixhaven, School of Mages</name>
 			<text>{T}: Add {U} for each spell that&apos;s been cast or copied this turn.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/143.png" num="352">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/143.png" num="353">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2409,7 +2408,7 @@ Enchanted creature gets +2/+2 and attacks each combat if able.</text>
 		<card>
 			<name>Evendo, Terraformed</name>
 			<text>{T}: Add {G} for each other land you control.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/144.png" num="335">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/144.png" num="336">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2424,7 +2423,7 @@ Enchanted creature gets +2/+2 and attacks each combat if able.</text>
 		<card>
 			<name>Immersturm, the Ragelands</name>
 			<text>{T}: Add an amount of {R} equal to 20 minus the greatest life total among your opponents.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/145.png" num="337">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/145.png" num="338">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2476,7 +2475,7 @@ Landfall — Whenever a land you control enters, this creature gets +2/+2 until 
 			<name>Final Charge</name>
 			<text>Creature cards in your hand have blitz {1}{R} (If you cast this spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card.&quot; Sacrifice it at the beginning of the next end step.)
 Whenever a creature you control dies, create a tapped Treasure token.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/148.png" num="159">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/148.png" num="160">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2493,7 +2492,7 @@ Whenever a creature you control dies, create a tapped Treasure token.</text>
 			<name>Riveteer&apos;s Beatdown</name>
 			<text>The next creature spell you cast this turn costs {R} to cast.
 Whenever you cast your next creature spell this turn, it gains haste, sacrifice it at the beginning of the next end step, then draw a card.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/149.png" num="179">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/149.png" num="180">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2510,7 +2509,7 @@ Whenever you cast your next creature spell this turn, it gains haste, sacrifice 
 			<name>Ritual of Unmaking</name>
 			<text>As an additional cost to cast this spell, pay X life.
 Target creature gets -X/-X until end of turn.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/150.png" num="132">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/150.png" num="133">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2543,7 +2542,7 @@ Target creature gets -X/-X until end of turn.</text>
 		<card>
 			<name>Green Sun&apos;s Avatar</name>
 			<text>Pay 1 life: Add {G}.
-{15}, {T}: Each player&apos;s life total become equal to the number of creatures they control.</text>
+{12}, {T}: Each player&apos;s life total become equal to the number of creatures they control.</text>
 			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/152.png" num="214">VIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2562,7 +2561,7 @@ Target creature gets -X/-X until end of turn.</text>
 			<name>Red Sun&apos;s Avatar</name>
 			<text>When this creature enters, create a Treasure token.
 Whenever you sacrifice an artifact. sacrifice this creature.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/153.png" num="178">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/153.png" num="179">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2634,7 +2633,7 @@ When this creature dies, search your library for a card and put it into your han
 			<name>Self-Duplicator</name>
 			<text>Replicate {2} (When you cast this spell, copy it for each time you paid its replicate cost.)
 When this creature enters, add one mana of any color.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/157.png" num="324">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/157.png" num="325">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2656,8 +2655,8 @@ Enchanted creature gets +1/+1 has absorb 2 (If a source would deal damage to tha
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -2682,22 +2681,22 @@ Whenever you tap a land which shares a land type with the exiled card for mana, 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Xenagos&apos;s Disciple</name>
-			<text>Tribute 2 (As this creature enters, an opponent of your choice may put two +1/+1 counters on it.)
-When this creature enters, if tribute wasn&apos;t payed, create two tapped Treasure tokens.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/160.png" num="194">VIN</set>
+			<name>Chaotic Elemental Blast</name>
+			<text>Choose one — 
+• Counter target spell that&apos;s white or blue.
+• Destroy target permanent that&apos;s white or blue.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/160.png" num="154">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Satyr</type>
-				<maintype>Creature</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Swarm of Voidflies</name>
@@ -2721,7 +2720,7 @@ When this creature enters, create a token that&apos;s a copy of it for each nonl
 		<card>
 			<name>Dryad Arbor</name>
 			<text>(This land isn&apos;t a spell, it&apos;s affected by summoning sickness, and it has &quot;{T}: Add {G}.&quot;)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/162.png" num="333">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/162.png" num="334">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2737,7 +2736,7 @@ When this creature enters, create a token that&apos;s a copy of it for each nonl
 		<card>
 			<name>Jasconian Isle</name>
 			<text>(This land isn&apos;t a spell, it&apos;s affected by summoning sickness, and it has &quot;{T}: Add {U}.&quot;)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/163.png" num="339">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/163.png" num="340">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2753,7 +2752,7 @@ When this creature enters, create a token that&apos;s a copy of it for each nonl
 		<card>
 			<name>Reed Strider</name>
 			<text>(This land isn&apos;t a spell, it&apos;s affected by summoning sickness, and it has &quot;{T}: Add {W}.&quot;)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/164.png" num="349">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/164.png" num="350">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2769,7 +2768,7 @@ When this creature enters, create a token that&apos;s a copy of it for each nonl
 		<card>
 			<name>Marsh Fiend</name>
 			<text>(This land isn&apos;t a spell, it&apos;s affected by summoning sickness, and it has &quot;{T}: Add {B}.&quot;)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/165.png" num="345">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/165.png" num="346">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2785,7 +2784,7 @@ When this creature enters, create a token that&apos;s a copy of it for each nonl
 		<card>
 			<name>Volcanic Remnant</name>
 			<text>(This land isn&apos;t a spell, it&apos;s affected by summoning sickness, and it has &quot;{T}: Add {R}.&quot;)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/166.png" num="356">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/166.png" num="357">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2838,7 +2837,7 @@ Exile this spell.</text>
 			<name>Door to Duskmourn</name>
 			<text>As long as this artifact is tapped, creatures don&apos;t untap during their controllers untap step.
 {T}: Tap target creature.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/169.png" num="305">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/169.png" num="306">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2904,7 +2903,7 @@ Whenever enchanted land is tapped for mana, add an additional {G}.</text>
 		<card>
 			<name>Night of Living Magic</name>
 			<text>Other noncreature artifacts and enchantments you control are creatures with base power and toughness 3/3 in addition to their other types.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/173.png" num="296">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/173.png" num="297">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2920,7 +2919,7 @@ Whenever enchanted land is tapped for mana, add an additional {G}.</text>
 		<card>
 			<name>Perfect&apos;s Scout</name>
 			<text>Exile a card from your graveyard: If a land card is exiled this way, add {G}, if a creature card is exiled this way, create a 1/1 black and green Elf creature token, otherwise, each opponent loses a life. Activate this ability only once each turn.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/174.png" num="271">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/174.png" num="270">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2956,7 +2955,7 @@ When Emry enters, search your library for up to two cards and reveal them. Targe
 			<name>Hit the Flanks</name>
 			<text>Creatures you control have haste.
 Whenever a nontoken creature you control dies, create a 1/1 white Human creature token.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/176.png" num="294">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/176.png" num="295">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3063,7 +3062,7 @@ Equip {2}{W}</text>
 			<text>Blitz {B}{B}
 When this creature attacks, put a creature card from a graveyard to the battlefield tapped and attacking under your control with a finality counter on it.
 When this creature dies, sacrifice each permanent you control with a finality counter on it.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/182.png" num="134">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/182.png" num="135">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3080,7 +3079,7 @@ When this creature dies, sacrifice each permanent you control with a finality co
 		<card>
 			<name>Tocasia&apos;s Bauble</name>
 			<text>{T}, Sacrifice this artifact: Scry 1. Draw a card at the beginning of the next turns upkeep.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/183.png" num="329">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/183.png" num="330">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3094,7 +3093,7 @@ When this creature dies, sacrifice each permanent you control with a finality co
 		<card>
 			<name>Ral&apos;s Prodigy</name>
 			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, this creature deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/184.png" num="177">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/184.png" num="178">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3109,29 +3108,29 @@ When this creature dies, sacrifice each permanent you control with a finality co
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Gonti&apos;s Graverobber</name>
-			<text>When this creature enters, mill three cards.
-Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/185.png" num="120">VIN</set>
+			<name>Demonic Elemental Blast</name>
+			<text>Choose one — 
+• Counter target spell that&apos;s white or green.
+• Destroy target permanent that&apos;s white or green.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/185.png" num="109">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Aetherborn Rogue</type>
-				<maintype>Creature</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/2</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Drain Essence</name>
 			<text>Choose one — 
 • Target creature gets -2/-2 until end of turn.
 • Exile up to one target card from a graveyard, draw a card.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/186.png" num="110">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/186.png" num="111">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3166,7 +3165,7 @@ Miracle—Sacrifice a permanent (You may cast this card for its miracle cost whe
 			<name>Iterate</name>
 			<text>Exile the top card of your library, you may play it this turn.
 If you&apos;ve cast another spell this turn, add {R}{R}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/188.png" num="165">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/188.png" num="166">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3203,7 +3202,7 @@ When this creature dies, exile the top two cards of your library, you may play t
 			<text>Whenever you cast your second spell each turn, create a Treasure token.
 Whenever you cast your third spell each turn, this creature deals 2 damage to each opponent,
 Whenever you cast your fourth spell each turn, draw a card.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/190.png" num="186">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/190.png" num="187">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3220,7 +3219,7 @@ Whenever you cast your fourth spell each turn, draw a card.</text>
 		<card>
 			<name>Valgavoth&apos;s Harbinger</name>
 			<text>When this creature enters, you may put a creature card that&apos;s one or more colors from your hand onto the battlefield, it gains haste until end of turn. Return it to your hand at the beginning of the next end step.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/191.png" num="188">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/191.png" num="189">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3321,7 +3320,7 @@ Remove three counters from this enchantment: Draw a card.</text>
 		<card>
 			<name>Shivan Channeler</name>
 			<text>{T}: Add {R}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/197.png" num="181">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/197.png" num="182">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3358,7 +3357,7 @@ Exile a card from your graveyard: Untap this creature. Activate only once each t
 			<text>Target player discards a card.
 Target player mills two cards.
 Target player draws a card.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/199.png" num="293">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/199.png" num="294">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3375,7 +3374,7 @@ Target player draws a card.</text>
 			<name>Divine Return</name>
 			<text>Return target creature card from your graveyard to the battlefield.
 Miracle—Discard a card (You may cast that card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/200.png" num="292">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/200.png" num="293">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3425,7 +3424,7 @@ You may play nonbasic lands from your graveyard.</text>
 		<card>
 			<name>Dream Fragment</name>
 			<text>You may cast this spell from your graveyard or from exile.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/203.png" num="112">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/203.png" num="113">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3442,7 +3441,7 @@ You may play nonbasic lands from your graveyard.</text>
 		<card>
 			<name>Cosmic Repurposer</name>
 			<text>{T}, Exile a creature you control: Reveal cards from the top of your library until you reveal a creature card with mana value equal to 1 plus the mana value of the exiled creature. You may cast it without paying it&apos;s mana cost. Put the rest of the revealed cards onto the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/204.png" num="303">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/204.png" num="304">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3490,21 +3489,22 @@ Whenever you cast a noncreature spell, you may sacrifice this artifact, when you
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Soft Copy</name>
-			<text>You may have this creature enter as a copy of any creature on the battlefield except it has base power and toughness 1/1.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/207.png" num="89">VIN</set>
+			<name>Refined Elemental Blast</name>
+			<text>Choose one — 
+• Counter target spell that&apos;s red or green.
+• Destroy target permanent that&apos;s red or green.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/207.png" num="86">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Shapeshifter</type>
-				<maintype>Creature</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/1</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Timely Intervention</name>
@@ -3543,7 +3543,7 @@ Whenever you cast a noncreature spell, you may sacrifice this artifact, when you
 			<name>Conjurer&apos;s Trinket</name>
 			<text>{T}, Sacrifice this artifact: Exile target creature you control, then return it to the battlefield under its owner&apos;s control.
 When this artifact is put into the graveyard from the battlefield, draw a card.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/210.png" num="302">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/210.png" num="303">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3558,7 +3558,7 @@ When this artifact is put into the graveyard from the battlefield, draw a card.<
 			<name>Veto</name>
 			<text>Counter target spells unless its controller pays {3}.
 Your opponents can&apos;t cast noncreature spells this turn.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/211.png" num="299">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/211.png" num="300">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3612,7 +3612,7 @@ Miracle {2}{W} (You may cast this card for its miracle cost when you draw it if 
 			<name>Cottorus, Hundred-Handed</name>
 			<text>Reach
 Cottorus can block an additional 99 creatures each combat.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/214.png" num="12">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/214.png" num="11">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3668,7 +3668,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 			<text>Imprint — When this artifact enters, you may exile a nonland card from your graveyard or your hand.
 Spells you cast which share a card type with the exiled card cost {2} less to cast.
 Whenever you cast a spell which shares a card type with the exiled card, draw a card.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/217.png" num="310">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/217.png" num="311">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3702,7 +3702,7 @@ Grandeur — Discard another card named Sapling of Wrenn: Search your library fo
 			<text>This artifact enters tapped.
 When this artifact enters, you may discard a card, if you do, draw two cards.
 {T}: Add {C}{R}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/219.png" num="170">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/219.png" num="171">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3755,7 +3755,7 @@ When this artifact enters, you may draw two cards, if you do, discard a card.
 			<text>This artifact enters tapped.
 As this artifact enters, choose a color.
 This artifact and lands you control have {T}: Add a mana of the chosen color.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/222.png" num="229">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/222.png" num="230">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3790,7 +3790,7 @@ Whenever an opponent casts their first noncreature spell each turn, put a +1/+1 
 			<name>Rakshasa&apos;s Will</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Each player mills three cards, then for each player choose a creature card in their graveyard. Put the chosen cards onto the battlefield under your control.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/224.png" num="272">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/224.png" num="271">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3843,7 +3843,7 @@ Whenever a creature you control becomes the target of a spell, draw a card, if y
 			<text>Flash
 Enchant basic land
 When this enchantment enters, exile target creature or artifact until this enchantment leaves the battlefield.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/227.png" num="10">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/227.png" num="9">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3877,17 +3877,17 @@ Whenever an artifact or enchantment you control enters, put a +1/+1 counter on t
 		<card>
 			<name>Stairway Into the Abyss</name>
 			<text>Whenever you descend, each player exiles a permanent they control or a card from their hand. (You descend whenever one or more permanent cards are put into your graveyard from anywhere.)
-At the beginning of your end step, if there are eight or more permanent cards in your graveyard, put all permanent cards exiled with this enchantment onto the battlefield under your control.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/229.png" num="137">VIN</set>
+At the beginning of your end step, if there are eight or more permanent cards in your graveyard, put all permanent cards exiled with this enchantment onto the battlefield under your control, then sacrifice this enchantment.</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/229.png" num="285">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1BB</manacost>
+				<manacost>1BG</manacost>
 				<cmc>3</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -3895,7 +3895,7 @@ At the beginning of your end step, if there are eight or more permanent cards in
 			<name>Onakke Chainsmith</name>
 			<text>At the beginning of each player&apos;s upkeep, this creature deals 2 damage to that player unless they control an artifact.
 Whenever this creature attacks, create a Treasure token.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/230.png" num="175">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/230.png" num="176">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3931,8 +3931,8 @@ Miracle {4}{B} (You may cast this card for its miracle cost when you draw it if 
 		<card>
 			<name>Diamondstorm</name>
 			<text>Tap all creatures you don&apos;t control. Creatures you control get +1/+1 and gain vigilance until end of turn.
-Miracle {1}{W} (You may cast that card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/232.png" num="13">VIN</set>
+Miracle {1}{W} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/232.png" num="12">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3951,7 +3951,7 @@ Miracle {1}{W} (You may cast that card for its miracle cost when you draw it if 
 This permanent enters tapped with ten slumber counters on it.
 As long as this permanent has a slumber counter on it, it&apos;s not a creature.
 Whenever you draw a card, remove a slumber counter from this permanent.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/233.png" num="350">VIN</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/233.png" num="351">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4037,7 +4037,7 @@ Deal X damage to target creature or planeswalker.</text>
 Choose one or both
 • This spell deals 3 damage to target creature.
 • This spell deals 3 damage to target creature.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/238.png" num="154">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/238.png" num="155">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4054,7 +4054,7 @@ Choose one or both
 			<name>Colossal Embermaw</name>
 			<text>Trample
 When this creature enters or attacks, you may discard up to two cards, then draw that many cards plus one.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/239.png" num="155">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/239.png" num="156">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4142,16 +4142,18 @@ Destroy target creature.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Belief</name>
-			<text>Gain 3 life, then draw cards equal to the amount of life you&apos;ve gained this turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/244.png" num="9">VIN</set>
+			<name>Divine Elemental Blast</name>
+			<text>Choose one — 
+• Counter target spell that&apos;s black or red.
+• Destroy target permanent that&apos;s black or red.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/244.png" num="14">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3WW</manacost>
-				<cmc>5</cmc>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -4176,7 +4178,7 @@ Destroy target creature.</text>
 		<card>
 			<name>Returned Maskcarver</name>
 			<text>Whenever another nontoken, nonzombie creature you control dies, create a token that&apos;s a copy of it except it&apos;s a 1/1 black zombie in addition to its other colors and types.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/246.png" num="131">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/246.png" num="132">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4195,7 +4197,7 @@ Destroy target creature.</text>
 			<text>As an additional cost to cast this spell, sacrifice three nonland permanents and discard three cards.
 Indestructible
 When The Faller enters, each opponent sacrifices three nonland permanents and discards three cards.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/247.png" num="115">VIN</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/247.png" num="116">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4212,7 +4214,7 @@ When The Faller enters, each opponent sacrifices three nonland permanents and di
 		<card>
 			<name>The Faller&apos;s Plunge</name>
 			<text>Choose a creature you control and/or a creature card in your graveyard. If a creature card in your graveyard was chosen this way, return it to the battlefield. The chosen creatures each get +2/+2 and gain menace and haste until end of turn, exile them at the beginning of the next end step.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/248.png" num="116">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/248.png" num="117">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4230,7 +4232,7 @@ When The Faller enters, each opponent sacrifices three nonland permanents and di
 			<text>Deathtouch
 When this creature enters, each opponent discards two cards.
 Channel — {B}, Discard this card: Each opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/249.png" num="136">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/249.png" num="137">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4370,7 +4372,7 @@ Whenever a land is put into your graveyard from the battlefield, put a +1/+1 cou
 		<card>
 			<name>Nyx Presence</name>
 			<text>Creatures you control are enchantments in addition to their other types. The same is true for creature spells you cast and creature cards you own that aren&apos;t on the battlefield.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/257.png" num="226">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/257.png" num="227">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4384,22 +4386,22 @@ Whenever a land is put into your graveyard from the battlefield, put a +1/+1 cou
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Rancorous Roil</name>
-			<text>Enchant land
-Landfall — Whenever a land you control enters, put a growth counter on this enchantment.
-Whenever enchanted land is tapped for mana, its controlled adds an additional X mana of any one color, where X is the number of growth counters on this enchantment.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/258.png" num="230">VIN</set>
+			<name>Nurturing Elemental Blast</name>
+			<text>Choose one — 
+• Counter target spell that&apos;s blue or black.
+• Destroy target permanent that&apos;s blue or black.</text>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/258.png" num="226">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment — Aura</type>
-				<maintype>Enchantment</maintype>
-				<manacost>1GG</manacost>
-				<cmc>3</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Hamundar Haymaker</name>
@@ -4440,7 +4442,7 @@ Counter target spell.</text>
 			<name>Irridescent Omenpath</name>
 			<text>This land enters tapped. As this land enters, choose a color.
 {T}: Add one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/261.png" num="338">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/261.png" num="339">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4543,7 +4545,7 @@ Whenever this creature or enchanted creature attacks, put your choice of a +1/+1
 			<name>Oasis Channeler</name>
 			<text>{T}: Add {C}.
 {T}, Exile a card from your graveyard: Add {G}{U}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/267.png" num="269">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/267.png" num="268">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4561,7 +4563,7 @@ Whenever this creature or enchanted creature attacks, put your choice of a +1/+1
 			<name>Reconstruction Crew</name>
 			<text>Blitz—Pay 2 life (If you cast this spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card.&quot; Sacrifice it at the beginning of the next end step.)
 Whenever a creature you control dies, you may return this card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/268.png" num="275">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/268.png" num="274">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4579,7 +4581,7 @@ Whenever a creature you control dies, you may return this card from your graveya
 			<name>Elite Shieldmage</name>
 			<text>This creature deals damage equal to its toughness rather than its power.
 {T}: Creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/269.png" num="256">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/269.png" num="255">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4594,17 +4596,17 @@ Whenever a creature you control dies, you may return this card from your graveya
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Karametra&apos;s Reaper</name>
-			<text>This enchantment is not a creature unless you control two or more other enchantments.
+			<name>Harvest Drake</name>
+			<text>This permanent is not a creature unless you control two or more other enchantments.
 Whenever this creature attacks, destroy up to one target land, its controller may search their library for a basic land card and put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/270.png" num="263">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/270.png" num="259">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment Creature — Horror</type>
+				<type>Enchantment Creature — Drake</type>
 				<maintype>Creature</maintype>
-				<manacost>3GW</manacost>
-				<cmc>5</cmc>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
 				<pt>7/7</pt>
@@ -4615,7 +4617,7 @@ Whenever this creature attacks, destroy up to one target land, its controller ma
 			<name>Overgrown Undead</name>
 			<text>Whenever this card is put into your graveyard from your hand or your library, you may put it onto the battlefield tapped.
 When this creature dies, you may pay {BG}, when you do, put it on top of your library.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/271.png" num="270">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/271.png" num="269">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4652,7 +4654,7 @@ Whenever you discard one or more nonland cards, each opponent loses that much li
 			<name>Emrakul&apos;s Boon</name>
 			<text>Enchanted creature gets -4/-4 and loses all abilities.
 Madness {B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/273.png" num="114">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/273.png" num="115">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4669,7 +4671,7 @@ Madness {B} (If you discard this card, discard it into exile. When you do, cast 
 			<name>Electrostatic Accumulator</name>
 			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, put a charge counter on this artifact.
 {T}: The next instant or sorcery spell you cast this turn costs {X} less to cast, where X is the number of charge counters on this artifact.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/274.png" num="255">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/274.png" num="254">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4686,7 +4688,7 @@ Madness {B} (If you discard this card, discard it into exile. When you do, cast 
 			<name>Forestback Troll</name>
 			<text>As long as this card is in your library or in your graveyard, it&apos;s a mountain forest land in addition to its other types.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/275.png" num="258">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/275.png" num="257">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4705,7 +4707,7 @@ Madness {B} (If you discard this card, discard it into exile. When you do, cast 
 			<text>Flash
 When this creature enters, creatures you control gain indestructible until end of turn.
 Miracle {WB} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/276.png" num="259">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/276.png" num="258">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4795,7 +4797,7 @@ At the beginning of your end step, each player reveals the top card of their lib
 			<name>Rotten Insight</name>
 			<text>As an additional cost to cast this spell, exile three cards from your graveyard.
 You draw three cards and lose 3 life.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/281.png" num="298">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/281.png" num="299">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4811,7 +4813,7 @@ You draw three cards and lose 3 life.</text>
 		<card>
 			<name>Born Anew</name>
 			<text>Choose a card in your graveyard. If the chosen card is a land, return it to the battlefield, otherwise return it to your hand. Then draw a card.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/282.png" num="291">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/282.png" num="292">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4828,7 +4830,7 @@ You draw three cards and lose 3 life.</text>
 			<name>Plasma Core</name>
 			<text>Whenever you cast a noncreature spell, put a charge counter on this artifact.
 {T}, Sacrifice this artifact: This artifact deals X damage to any target, where X is the number of charge counters on this artifact.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/283.png" num="297">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/283.png" num="298">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4846,7 +4848,7 @@ You draw three cards and lose 3 life.</text>
 			<text>Devour land 2 (As this creature enters, you may sacrifice any number of lands. This creature enters with twice that many +1/+1 counters on it.)
 Trample
 You may play lands from your graveyard.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/284.png" num="295">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/284.png" num="296">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4864,7 +4866,7 @@ You may play lands from your graveyard.</text>
 			<name>Kruphix&apos;s Temple</name>
 			<text>Whenever one or more cards leave your graveyard, put a horizon counter on this enchantment.
 {T}: Add X mana in any combination of {U} and {G}, where X is the number of horizon counters on this enchantment.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/285.png" num="265">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/285.png" num="264">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4881,7 +4883,7 @@ You may play lands from your graveyard.</text>
 			<name>Thromok&apos;s Spawn</name>
 			<text>Haste
 Nontoken lands you control have &quot;Whenever this land is put into your graveyard from the battlefield, draw a card, then create a tapped token that&apos;s a copy of this land.&quot;</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/286.png" num="287">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/286.png" num="288">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4899,7 +4901,7 @@ Nontoken lands you control have &quot;Whenever this land is put into your gravey
 			<name>Static Manipulator</name>
 			<text>When you cast this spell, copy it if it&apos;s not the first spell you&apos;ve cast this turn.
 {T}: The next instant or sorcery spell you cast this turn has storm. (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/287.png" num="285">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/287.png" num="286">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4932,7 +4934,7 @@ Nontoken lands you control have &quot;Whenever this land is put into your gravey
 		<card>
 			<name>Emperor&apos;s Vanguard</name>
 			<text>At the beginning of combat on your turn, up to one target creature you control gains vigilance, double strike, and haste until end of turn. If a creature was chosen this way, only that creature can attack this combat.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/289.png" num="257">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/289.png" num="256">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4947,21 +4949,21 @@ Nontoken lands you control have &quot;Whenever this land is put into your gravey
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Dauthi Mindthief</name>
-			<text>Shadow (This creature can block or be blocked by only creatures with shadow.)
-Whenever you discard one or more cards, you may exile any number of them, for each card exiled this way, put a +1/+1 counter on this creature.
+			<name>Riddler Returned</name>
+			<text>Flying
+Whenever a player discards one or more cards, you may exile any number of them, for each card exiled this way, put a +1/+1 counter on this creature.
 Madness {1}{U}{B}</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/290.png" num="254">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/290.png" num="275">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Dauthi Soldier</type>
+				<type>Creature — Zombie Sphinx</type>
 				<maintype>Creature</maintype>
 				<manacost>4UB</manacost>
 				<cmc>6</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>4/4</pt>
+				<pt>6/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4987,7 +4989,7 @@ Madness {1}{U}{B}</text>
 			<text>Flying
 When this artifact enters, exile target artifact, enchantment, or creature with power 3 or greater.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/292.png" num="308">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/292.png" num="309">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5019,7 +5021,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 		<card>
 			<name>Keldon Crusader</name>
 			<text>When this creature attacks or dies, reveal the top card of your library, any opponent may pay life equal to its mana value, when they do, put that card into your graveyard. Otherwise, put it into your hand.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/294.png" num="166">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/294.png" num="167">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5036,7 +5038,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 		<card>
 			<name>Roilreaper</name>
 			<text>When this creature enters, you may sacrifice a land, when you do, search your library for up to two basic land cards and put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/295.png" num="180">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/295.png" num="181">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5054,7 +5056,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<name>Lumbering Landslide</name>
 			<text>Landfall — Whenever a land you control enters, this creature deals 1 damage to each opponent.
 Whenever a land you control is put into the graveyard from the battlefield, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/296.png" num="168">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/296.png" num="169">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5177,7 +5179,7 @@ Whenever you discard one or more cards, scry 1.</text>
 		<card>
 			<name>Conflagrant Emergence</name>
 			<text>Search your library for a creature card and put it onto the battlefield. At the beginning of the next end step, it deals damage equal to its power to any target, then sacrifice it.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/303.png" num="156">VIN</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/303.png" num="157">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5194,7 +5196,7 @@ Whenever you discard one or more cards, scry 1.</text>
 			<name>Flame Tempest</name>
 			<text>Strive — This spell costs {R} more to cast for each target chosen beyond the first.
 Choose any number of target permanents. For each creature or planeswalker chosen this way, this spell deals 3 damage to it. Destroy each artifact and/or nonbasic land chosen this way.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/304.png" num="161">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/304.png" num="162">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5218,8 +5220,8 @@ When this battle is defeated, sacrifice each planeswalkers you control.</text>
 				<side>front</side>
 				<type>Battle — War</type>
 				<maintype>Battle</maintype>
-				<manacost>4BB</manacost>
-				<cmc>6</cmc>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<loyalty>4</loyalty>
@@ -5230,7 +5232,7 @@ When this battle is defeated, sacrifice each planeswalkers you control.</text>
 			<name>Dross Gazestealer</name>
 			<text>When this creature enters or attacks, look at target players hand.
 {1}{BP}: Name a card, spells of the chosen name can&apos;t be cast this turn.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/306.png" num="113">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/306.png" num="114">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5265,7 +5267,7 @@ When this battle is defeated, sacrifice each planeswalkers you control.</text>
 			<name>Glen Elendra Ambush</name>
 			<text>This spell costs {2} less to cast if it targets a nonblack, nonblue creature.
 Destroy target creature.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/308.png" num="119">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/308.png" num="120">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5300,7 +5302,7 @@ Deal damage to each creature you don&apos;t control and each opponent equal to t
 			<text>Flying
 When this creature enters, each opponent mills three cards, then you may exile a card from each players graveyard.
 You may play lands and cast spells from among cards exiled with this creature and may spend mana as though it were mana of any type to cast them.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/310.png" num="111">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/310.png" num="112">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5336,7 +5338,7 @@ At the beginning of each end step, if their are three or less cards in your libr
 			<name>Hidetsugu, World Burner</name>
 			<text>Whenever Hidetsugu attacks, up to one target creature can&apos;t block this turn.
 Whenever Hidetsugu deals combat damage to a player, create two Blood tokens. (They&apos;re artifacts with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/312.png" num="163">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/312.png" num="164">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5354,7 +5356,7 @@ Whenever Hidetsugu deals combat damage to a player, create two Blood tokens. (Th
 			<name>Mizzix, Storm Sculptor</name>
 			<text>Instant and sorcery spells you cast cost {2} less to cast.
 Magecraft — Whenever you cast or copy an instant or sorcery spell, create a token that&apos;s a copy of another target creature you control except it isn&apos;t legendary, and gains haste. Sacrifice it at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/313.png" num="173">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/313.png" num="174">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5372,7 +5374,7 @@ Magecraft — Whenever you cast or copy an instant or sorcery spell, create a to
 			<name>Thread of Fate</name>
 			<text>{T}: Add {C}.
 {T}: Look at the top card of each players library, then each player may mill a card.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/314.png" num="328">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/314.png" num="329">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5438,7 +5440,7 @@ Magecraft — Whenever you cast or copy an instant or sorcery spell, create a to
 			<name>Mask of Phenax</name>
 			<text>Discard a card: Each opponent lose two life and mills 2 cards.
 {2}{UB}, {T}: You may play a creature card from your graveyard this turn, when cast a creature spell this way, it enters with a finality counter on it.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/318.png" num="267">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/318.png" num="266">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5609,7 +5611,7 @@ Whenever you cast a spell from anywhere other than your hand, you may cast this 
 			<text>When Mishra enters, create a 1/1 colorless Construct artifact creature token with &quot;Whenever another artifact you control enters, put a +1/+1 counter on this token.&quot;
 Tap an untapped artifact you control: Draw a card.
 Discard five cards: Each player loses life equal to twice the number of cards in their hand.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/328.png" num="172">VIN</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/328.png" num="173">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5627,7 +5629,7 @@ Discard five cards: Each player loses life equal to twice the number of cards in
 			<name>War Foundry</name>
 			<text>When this artifact enters, create two 0/0 colorless Construct artifact creature tokens with &quot;This creature gets +1/+1 for each artifact you control.&quot;
 {T}, Sacrifice another artifact: Add {R}{R}.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/329.png" num="192">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/329.png" num="193">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5645,7 +5647,7 @@ Discard five cards: Each player loses life equal to twice the number of cards in
 			<text>When this artifact enters, it deals 3 damage to any target.
 When this artifact is put into the graveyard from the battlefield, draw a card.
 {2}, {T}, Sacrifice this artifact: Add two mana in any combination of colors.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/330.png" num="325">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/330.png" num="326">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5659,7 +5661,7 @@ When this artifact is put into the graveyard from the battlefield, draw a card.
 		<card>
 			<name>Grounded Ornithopter</name>
 			<text>When this creature dies, you may return it to your hand.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/331.png" num="307">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/331.png" num="308">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5674,7 +5676,7 @@ When this artifact is put into the graveyard from the battlefield, draw a card.
 		<card>
 			<name>Divine Nectar</name>
 			<text>Sacrifice this permanent: Draw a card.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/332.png" num="304">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/332.png" num="305">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5688,7 +5690,7 @@ When this artifact is put into the graveyard from the battlefield, draw a card.
 		<card>
 			<name>Electrifying Encore</name>
 			<text>Deal 2 damage to target creature or planeswalker, as long as you have three or fewer cards in hand, deal 4 damage instead.</text>
-			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/333.png" num="157">VIN</set>
+			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/333.png" num="158">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5741,7 +5743,7 @@ Sacrifice X lands: Put a nonland permanent card with mana value X from your hand
 Equipped creature gets +2/+2 and has flying and trample.
 Whenever equipped creature dies, put five +1/+1 counters on this permanent.
 Reconfigure {1}{2B}{2B}</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/336.png" num="306">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/336.png" num="307">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5758,7 +5760,7 @@ Reconfigure {1}{2B}{2B}</text>
 			<name>Veyran&apos;s Expertise</name>
 			<text>Storm (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)
 Spells you cast cost {1} less to cast.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/337.png" num="189">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/337.png" num="190">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5775,7 +5777,7 @@ Spells you cast cost {1} less to cast.</text>
 			<name>Realmbreaker, Herald of Phyresis</name>
 			<text>{T}, Pay 3 life: Add {C}{C}.
 {T}, Sacrifice another land: Target creature you control gains infect until end of turn. (That creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/338.png" num="348">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/338.png" num="349">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5805,7 +5807,7 @@ Spells you cast cost {1} less to cast.</text>
 		<card>
 			<name>Cling to Light</name>
 			<text>Converge — This spell deals X damage to each of up to X different targets, where X is the number of colors of mana spent to cast this spell.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/340.png" num="11">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/340.png" num="10">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5856,7 +5858,7 @@ Miracle {W} (You may cast this card for its miracle cost when you draw it if it&
 		<card>
 			<name>Dissonant Orb</name>
 			<text>Whenever an opponent casts a spell, they may pay {1}, if they don&apos;t you may exile up to one target permanent you control, then return it to the battlefield under its owners control.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/343.png" num="14">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/343.png" num="13">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5874,7 +5876,7 @@ Miracle {W} (You may cast this card for its miracle cost when you draw it if it&
 			<text>(You may cast a legendary instant only if you control a legendary creature or planeswalker.)
 Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 Search your library for up to one instant or sorcery card and exile it, then shuffle. You may cast the exiled card without paying its mana cost. When you do, exile it as it resolves.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/344.png" num="160">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/344.png" num="161">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5909,7 +5911,7 @@ When this card is put into a graveyard from anywhere, its owner shuffles it into
 			<name>Thran Powerstone</name>
 			<text>Other artifacts you control have &quot;{T}: Add {C}.&quot;
 {1}, {T}: Untap up to one other target artifact you control.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/346.png" num="327">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/346.png" num="328">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5924,7 +5926,7 @@ When this card is put into a graveyard from anywhere, its owner shuffles it into
 			<name>Rend</name>
 			<text>As an additional cost to cast this spell, discard a card or pay 3 life.
 Destroy target artifact, creature, planeswalker, or enchantment.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/347.png" num="129">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/347.png" num="130">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5942,7 +5944,7 @@ Destroy target artifact, creature, planeswalker, or enchantment.</text>
 			<text>Flying
 When this creature enters and at the beginning of your first main phase, look at the top five cards of your library, put one of them into your hand, and the rest on the bottom of your library in a random order.
 Cumulative upkeep— Discard a card (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/348.png" num="88">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/348.png" num="89">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5961,7 +5963,7 @@ Cumulative upkeep— Discard a card (At the beginning of your upkeep, put an age
 			<text>{T}: Add {C}{C}{C}.
 This artifact doesn&apos;t untap during your untap step.
 At the beginning of your first main phase, you may discard a card, when you do, untap this artifact.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/349.png" num="322">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/349.png" num="323">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5974,12 +5976,12 @@ At the beginning of your first main phase, you may discard a card, when you do, 
 		</card>
 		<card>
 			<name>Weatherlight, Legacy Weapon</name>
-			<text>When this spacecraft enters, search your library for any number of legendary permanent cards and exile them, then shuffle.
-Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+			<text>When this spacecraft enters, search your library for any number of legendary cards and exile them, then shuffle.
+Station
 
 [level 4+] Flying
-At the beginning of your end step, put a card exiled with this spacecraft onto the battlefield under your control. [8/8]</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/350.png" num="330">VIN</set>
+At the beginning of your end step, you may cast a card exiled by this permanent without paying its mana cost. [8/8]</text>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/350.png" num="331">VIN</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -6030,7 +6032,7 @@ Sacrifice this creature at the beginning of your end step.</text>
 		<card>
 			<name>Mirrored Depths</name>
 			<text>Whenever you cast a permanent spell, copy it. If the copy is a creature, it gains haste until end of turn. Sacrifice the copy at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/353.png" num="171">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/353.png" num="172">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6047,7 +6049,7 @@ Sacrifice this creature at the beginning of your end step.</text>
 			<name>Visions of Fire</name>
 			<text>Deal 2 damage to any target.
 You may cast this spell from your graveyard by discarding a card in addition to paying its mana cost.</text>
-			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/354.png" num="190">VIN</set>
+			<set rarity="rare" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/354.png" num="191">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6189,7 +6191,7 @@ Whenever another nonland, nontoken permanent you control enters, if you did not 
 			<text>Trample
 Spells you casts cost {X} less to cast, where X is the number of card types among cards in your graveyard.
 Sacrifice a permanent: Return up to one other target permanent card that shares a card type with the sacrificed permanent from your graveyard to your hand.</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/362.png" num="274">VIN</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/362.png" num="273">VIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6361,7 +6363,7 @@ Whenever another enchantment you control leaves the battlefield, you may exile C
 			<text>Whenever Xenagos or another creature you control enters, Xenagos deals 1 damage to each opponent. Then if three or more creatures entered under your control this turn, you may exile Xenagos, then return him to the battlefield transformed under his owner&apos;s control.
 ---
 (Back): Xenagos, King Stranger</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/371_front.png" num="193a">VIN</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/371_front.png" num="194a">VIN</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -6384,7 +6386,7 @@ Whenever another enchantment you control leaves the battlefield, you may exile C
 [-4]: You get an emblem with &quot;Creatures you control get +1/+0 and have haste.&quot;
 ---
 (Front): Xenagos, Violent Hedonist</text>
-			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/371_back.png" num="193b">VIN</set>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/371_back.png" num="194b">VIN</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -6518,7 +6520,7 @@ III — Deal 2 damage to each creature.</text>
 Storm (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)
 I — Tap up to one target creature and put a stun counter on it.
 II, III — Scry 2, then you may draw a card.</text>
-			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/379.png" num="87">VIN</set>
+			<set rarity="uncommon" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/379.png" num="88">VIN</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -6823,15 +6825,15 @@ II, III — Scry 2, then you may draw a card.</text>
 				<cmc>0</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
 		</card>
 		<card>
 			<name>Stonecoil Serpent VIN</name>
-			<text>Reach, trample 
-Protection from multicolored (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything multicolored.)</text>
+			<text>Reach, trample
+Protection from multicolored</text>
 			<set rarity="common" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/397.png" num="18">VIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6898,6 +6900,22 @@ Protection from multicolored (This creature can&apos;t be blocked, targeted, dea
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>One With Everything</name>
+			<text>If you have fewer than seven cards in hand, draw cards equal to the difference, then lose that much life.</text>
+			<set rarity="mythic" picurl="https://LeoDreyfuss.github.io/sets/VIN-files/img/401.png" num="127">VIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
